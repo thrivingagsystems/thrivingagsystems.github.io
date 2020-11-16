@@ -1,13 +1,13 @@
-title: SIGGRAPH S3
+title: Thriving Agricultural Systems in Urbanized Landscapes
 # Versioning
 current_version: 1.5.0
 foundation_version: 6.0.0
 future: true
 
 social:
-  email: s3@siggraph.org
-  facebook: pages/S3-ACM-SIGGRAPH-Student-Services/113401685341913
-  twitter: siggraphs3
+  email: agsciences@psu.edu
+  facebook: agsciences
+  twitter: agsciences
 
 # Dependencies
 markdown: kramdown
@@ -22,19 +22,19 @@ permalink: pretty
 # destination:        ./static
 
 port: 9002
-url: http://www.s3.siggraph.org # the base hostname & protocol for your site
-baseurl: "/s3-website"
-repository: siggraph-s3/s3-website
+url: http://www.thrivingagsystems.org # the base hostname & protocol for your site
+baseurl: ""
+repository: thrivingagsystems/thrivingagsystems
 # exclude this stuff when building the static site
 exclude: [".gitignore", "README.md", "Gemfile", "Gemfile.lock", "vendor/bundle"]
 
 ## CUSTOM VARS
 
 #ga_id:             ##-########-###
-site_name: S3
+site_name: Thriving Agricultural Systems in Urbanized Landscapes
 site_description:
-site_copyright: Copyright (c) 2018
-site_url: http://www.s3.siggraph.org/s3-website
+site_copyright: Copyright (c) 2020
+site_url: http://www.thrivingagsystems.org
 site_email:
 site_phone:
 
@@ -65,19 +65,19 @@ collections:
 
 #Navigation
 menuitems:
-  - url: /s3-website/
+  - url: /
     title: Home
-  - url: /s3-website/programs/
+  - url: /programs/
     title: Programs
-  - url: /s3-website/events/
+  - url: /events/
     title: Events
-  - url: /s3-website/industry-career/
+  - url: /industry-career/
     title: Industry & Career
-  - url: /s3-website/education/
+  - url: /education/
     title: Education
-  - url: /s3-website/community/
+  - url: /community/
     title: Community
   # - url: /team/
   #   title: Team
-  - url: /s3-website/about/
+  - url: /about/
     title: About

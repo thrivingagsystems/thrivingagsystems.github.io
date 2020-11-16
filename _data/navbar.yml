@@ -1,63 +1,38 @@
 ---
+- name: Home
+  url_active: true
+  url: "/"
+  enable_sublinks: false
+  subfolderitems: []
 - name: About
   url_active: false
   url: "/about/"
   enable_sublinks: true
   subfolderitems:
-  - name: Mission
-    url: "/mission/"
-  - name: Team
-    url: "/team/"
-  - name: FAQ
-    url: "/faq/"
-- name: Programs
-  url: "/programs/"
+  - name: Project Overview
+    url: "/project-overview/"
+  - name: Project Objectives
+    url: "/project-objectives/"
+  - name: Stakeholder Advisory Board
+    url: "/stakeholder-advisory-board/"
+- name: Outreach & Engagement
+  url: "/outreach-and-ngagement/"
   url_active: true
-  subfolderitems:
-  - name: S3R3
-    url: "/programs/s3r3/"
-  - name: Webinars
-    url: "/programs/webinars/"
-  - name: XSV
-    url: "/programs/xsv-program/"
-  - name: MentorMe
-    url: "/programs/mentor-me/"
-  enable_sublinks: true
-- name: Events
+  enable_sublinks: false
+  subfolderitems: []
+- name: Research
+  url: "/research/"
+  url_active: true
+  enable_sublinks: false
+  subfolderitems: []
+- name: Education
+  url: "/education/"
+  url_active: true
+  enable_sublinks: false
+  subfolderitems: []
+- name: News & Activities
   url: "/events/"
   url_active: true
   enable_sublinks: false
   subfolderitems: []
-- name: Industry & Career
-  url: "/industry-career/"
-  url_active: true
-  subfolderitems:
-  - name: Job Postings
-    url: "/industry-career/#job-postings"
-  - name: News
-    url: "/industry-career/#news"
-  enable_sublinks: true
-- name: Education
-  url: "/education/"
-  url_active: true
-  subfolderitems:
-  - name: Reference Guides and Texts
-    url: "/education/#reference-guides-texts"
-  - name: Youtube Playlists
-    url: "/education/#youtube-playlists"
-  - name: Webinars
-    url: "/education/#webinars"
-  enable_sublinks: true
-- name: Community
-  url: "/community/"
-  url_active: false
-  subfolderitems:
-  - name: Discord
-    url: https://discord.gg/bT3RhBa
-  - name: Facebook Groups
-    url: https://www.facebook.com/pg/ACMSIGGRAPHS3/groups/
-  - name: ACM SIGGRAPH Committees
-    url: https://www.siggraph.org/participate/acm-siggraph-standing-committee-responsibilities/
-  - name: SIGGRAPH Conference
-    url: https://s2020.siggraph.org/
   enable_sublinks: true

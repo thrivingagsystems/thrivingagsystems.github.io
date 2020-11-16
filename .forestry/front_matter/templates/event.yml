@@ -50,15 +50,4 @@ fields:
     - webinar
   description: 'Choose: s3r3, alumni reunion, webinar'
 pages:
-- _events/alumni-reunion-2016-07-24.md
-- _events/alumni-reunion-2017-07-30.md
-- _events/alumni-reunion-2018-08-12.md
-- _events/alumni-reunion-2019-07-28.md
-- _events/s3r3-2018-08-13.md
-- _events/s3r3-2019-07-29.md
 - _events/s3r3-2020.md
-- _events/s3r3-asia-2018-12-05.md
-- _events/s3r3-asia-2020.md
-- _events/sv-alumni-reunion-2020.md
-- _events/webinar-2019-06-28.md
-- _events/webinar-2019-10-11.md

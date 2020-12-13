@@ -8,9 +8,14 @@ fields:
 - type: boolean
   name: enable-image
   label: enable-image
-- type: text
-  name: image
-  label: image
+- name: image
+  type: file
+  config:
+    maxSize: 2
+  label: Image
+  showOnly:
+    field: enable-image
+    value: true
 - type: datetime
   name: event-date
   label: event-date

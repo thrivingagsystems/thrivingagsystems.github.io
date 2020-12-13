@@ -65,8 +65,10 @@ collections:
     output: false
   research:
     output: true
+    permalink: /research/:title/
   outreach-engagement:
     output: true
+    permalink: /outreach-engagement/:title/
   courses:
     output: false
   objective-teams:

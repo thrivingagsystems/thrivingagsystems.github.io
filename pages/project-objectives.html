@@ -5,3 +5,20 @@ enable-banner: true
 enable-header: true
 permalink: /about/project-objectives/
 ---
+{% assign teams = site.objective-teams | sort: "page-order" %}
+{% for team in teams %}
+<h2>{{team.title}}</h2>
+<p>{{ team.description}}</p>
+    {% assign people = team.associated-people %}
+    {% if people != 0 %}
+        {% for person_name in people %}
+        
+        {% assign person_array = site.people | where: "name", person_name %}
+            {% for person in person_array %}
+            <h3>{{ person.name }}</h3>
+            <p>{{ person.professional-title }}</p>
+            <p>{{ person.email }}</p>
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}

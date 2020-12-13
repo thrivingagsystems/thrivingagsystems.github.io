@@ -5,7 +5,7 @@ enable-banner: true
 enable-header: true
 permalink: /about/stakeholder-advisory-board/
 ---
-{% assign groups = site.stakeholder-groups %}
+{% assign groups = site.stakeholder-groups | sort: "page-order" %}
 {% for group in groups %}
 <h2>{{group.title}}</h2>
 <p>{{ group.description}}</p>

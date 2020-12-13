@@ -10,13 +10,13 @@
   enable_sublinks: true
   subfolderitems:
   - name: Project Overview
-    url: "/project-overview/"
+    url: "/about/project-overview/"
   - name: Project Objectives
-    url: "/project-objectives/"
+    url: "/about/project-objectives/"
   - name: Stakeholder Advisory Board
-    url: "/stakeholder-advisory-board/"
+    url: "/about/stakeholder-advisory-board/"
 - name: Outreach & Engagement
-  url: "/outreach-and-engagement/"
+  url: "/outreach-engagement/"
   url_active: true
   enable_sublinks: false
   subfolderitems: []
@@ -31,7 +31,7 @@
   enable_sublinks: false
   subfolderitems: []
 - name: News & Activities
-  url: "/events/"
+  url: "/news-and-activities/"
   url_active: true
   enable_sublinks: false
   subfolderitems: []

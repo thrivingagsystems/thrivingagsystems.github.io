@@ -53,7 +53,6 @@ sections:
 - type: document
   path: _includes/footer-content.md
   label: Footer
-  match: "**/*"
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''

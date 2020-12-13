@@ -20,6 +20,11 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: _news-and-activities
+  label: News and Activities
+  create: documents
+  match: "**/*"
+- type: directory
   path: _front-page-callouts
   label: Front Page Callouts
   create: all

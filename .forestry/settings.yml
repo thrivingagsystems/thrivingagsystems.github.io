@@ -40,6 +40,8 @@ sections:
   label: News and Activities
   create: documents
   match: "**/*"
+  templates:
+  - news-activity
 - type: directory
   path: _outreach-engagement
   label: Outreach Projects
@@ -52,16 +54,22 @@ sections:
   label: Research Projects
   create: documents
   match: "**/*"
+  templates:
+  - research
 - type: directory
   path: _objective-teams
   label: Objective Teams
   create: documents
   match: "**/*"
+  templates:
+  - objective-team
 - type: directory
   path: _courses
   label: Courses
   create: documents
   match: "**/*"
+  templates:
+  - course
 - type: heading
   label: to be removed
 - type: document

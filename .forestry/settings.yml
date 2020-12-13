@@ -20,6 +20,11 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: _people
+  label: People
+  create: all
+  match: "**/*"
+- type: directory
   path: _news-activities
   label: News and Activities
   create: documents

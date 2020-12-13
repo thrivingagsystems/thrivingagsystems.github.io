@@ -16,11 +16,30 @@ sections:
   match: "**/*"
   templates:
   - front-page-callout
+- type: document
+  path: _includes/footer-content.md
+  label: Footer
 - type: heading
   label: Page configuration
 - type: document
   path: index.html
   label: Home Page
+- type: document
+  path: pages/project-overview.html
+  label: About Project Overview
+  match: "**/*"
+- type: document
+  path: pages/project-objectives.html
+  label: About Project Objectives
+  match: "**/*"
+- type: document
+  path: pages/stakeholder-advisory-board.html
+  label: About Stakeholder Adv. Board
+  match: "**/*"
+- type: document
+  path: pages/education.html
+  label: Education
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -77,11 +96,6 @@ sections:
   match: "**/*"
   templates:
   - course
-- type: heading
-  label: to be removed
-- type: document
-  path: _includes/footer-content.md
-  label: Footer
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''

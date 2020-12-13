@@ -54,7 +54,7 @@ fields:
     source:
       type: pages
       section: people
-      file: _data/people.yaml
+      file: _data/people.yml
       path:
 - name: date-added
   type: datetime

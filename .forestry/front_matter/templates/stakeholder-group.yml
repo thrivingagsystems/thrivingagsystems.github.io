@@ -12,6 +12,11 @@ fields:
 - type: list
   name: associated-people
   label: associated-people
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: people
 - type: number
   name: page-order
   label: page-order

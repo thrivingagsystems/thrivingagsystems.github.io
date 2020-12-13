@@ -45,6 +45,8 @@ sections:
   label: Outreach Projects
   create: documents
   match: "**/*"
+  templates:
+  - outreach-project
 - type: directory
   path: _research
   label: Research Projects

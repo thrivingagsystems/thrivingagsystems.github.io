@@ -1,6 +1,6 @@
 ---
 people-list:
-  John Adams:
+  - John Adams:
     email: john@google.com
     professional-title: ''
     link-to-bio-page: ''
@@ -9,7 +9,7 @@ people-list:
     linkedin: ''
     facebook: ''
     instagram: ''
-  Joan Smith:
+  - Joan Smith:
     email: joan@google.com
     professional-title: ''
     link-to-bio-page: ''

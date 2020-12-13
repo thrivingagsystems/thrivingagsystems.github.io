@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _stakeholder-groups
+  label: Stakeholder Groups
+  create: documents
+  match: "**/*"
 - type: heading
   label: Menu
 - type: document
@@ -14,28 +19,6 @@ sections:
 - type: document
   path: index.html
   label: Home Page
-- type: document
-  path: industry-career
-  label: industry & career
-- type: heading
-  label: Content
-- type: directory
-  path: _people
-  label: People
-  create: all
-  match: "**/*"
-- type: directory
-  path: _news-activities
-  label: News and Activities
-  create: documents
-  match: "**/*"
-- type: directory
-  path: _front-page-callouts
-  label: Front Page Callouts
-  create: all
-  match: "**/*"
-  templates:
-  - front-page-callout
 - type: directory
   path: _page-sections
   label: Page sections
@@ -43,6 +26,50 @@ sections:
   match: "**/*"
   templates:
   - page-section
+- type: heading
+  label: Content
+- type: directory
+  path: _people
+  label: People
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _news-activities
+  label: News and Activities
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _outreach-engagement
+  label: Outreach Projects
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _research
+  label: Research Projects
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _objective-teams
+  label: Objective Teams
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _courses
+  label: Courses
+  create: documents
+  match: "**/*"
+- type: heading
+  label: to be removed
+- type: document
+  path: industry-career
+  label: industry & career
+- type: directory
+  path: _front-page-callouts
+  label: Front Page Callouts
+  create: all
+  match: "**/*"
+  templates:
+  - front-page-callout
 - type: directory
   path: _events
   label: Events

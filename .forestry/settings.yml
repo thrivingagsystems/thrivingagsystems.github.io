@@ -10,7 +10,7 @@ sections:
   path: _data/navbar.yml
   label: Site Menu
 - type: heading
-  label: Page Configuration
+  label: Page configuration
 - type: document
   path: index.html
   label: Home Page
@@ -49,6 +49,10 @@ sections:
   path: _team
   label: Team
   create: all
+  match: "**/*"
+- type: document
+  path: _includes/footer-content.md
+  label: Footer
   match: "**/*"
 upload_dir: assets/img
 public_path: assets/img

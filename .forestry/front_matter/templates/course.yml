@@ -1,7 +1,7 @@
 ---
 label: Course
 hide_body: true
-display_field: course-number
+display_field: title
 fields:
 - type: text
   name: title

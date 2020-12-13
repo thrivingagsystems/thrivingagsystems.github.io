@@ -9,6 +9,20 @@ fields:
 - type: text
   name: title
   label: title
+- type: boolean
+  name: enable-default-header
+  label: Enable Fixed Front Page Banner Image
+  description: A banner image will appear on the front page. This does not inlcude
+    the featured banner carousel.
+- name: page-header-image
+  type: file
+  config:
+    maxSize: 64
+  label: Page Header Image
+  description: Upload a header image for the page.
+  showOnly:
+    field: enable-default-header
+    value: true
 - type: select
   name: columns
   label: Front page columns
@@ -57,19 +71,5 @@ fields:
     field: enable-default-header
     value: true
   default: true
-- type: boolean
-  name: enable-default-header
-  label: Enable Fixed Front Page Banner Image
-  description: A banner image will appear on the front page. This does not inlcude
-    the featured banner carousel.
-- name: page-header-image
-  type: file
-  config:
-    maxSize: 64
-  label: Page Header Image
-  description: Upload a header image for the page.
-  showOnly:
-    field: enable-default-header
-    value: true
 pages:
 - index.html

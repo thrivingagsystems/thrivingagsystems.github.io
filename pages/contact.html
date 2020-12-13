@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: Contact us
 enable-header: true
+permalink: /contact/
 ---
-
 <div class="contact-us">
   <!-- TOP BAR -->
   {% include top-bar.html %}
@@ -13,21 +13,14 @@ enable-header: true
       <h1 class="secondary-page-heading">{{ page.title }}</h1>
     </div>
     <div class="small-12 columns">
-      <h2 class="quote">Hello :)</h2>
+      <h2 class="quote">Integration with integrity</h2>
     </div>
   </div>
 
 </div>
 <!-- END HEADER -->
 
-
-<div class="row">
-  <div class="small-12 medium-8 large-6 small-centered columns">
-    {% assign sections_array = site.page-sections | where: 'enable-on-page', page.title %}
-    {% include page-section.html sections-array=sections_array %}
-  </div>
-</div>
-  <!-- Tabs -->
+<!-- PATHWAYS -->
 <div class="row secondary-tabs-row">
     <div class="small-9 medium-8 large-6 small-centered columns">
       <ul class="tabs" data-tabs id="about-tabs">
@@ -45,7 +38,7 @@ enable-header: true
     <div class="tabs-panel" id="contact-panel">
     	<div class="row">
 	    	<div class="small-12  medium-push-1 medium-10 columns">
-	    		{% include contact-panel.html %}
+	    	{% include contact-panel.html %}
 	    	</div>
     	</div>
     

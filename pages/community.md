@@ -3,6 +3,7 @@ layout: page
 title: Community
 enable-banner: true
 enable-header: true
+permalink: /community/
 ---
 
 ## Discord

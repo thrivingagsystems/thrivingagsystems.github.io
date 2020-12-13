@@ -1,11 +1,26 @@
 ---
-layout: page
-title: Team
-enable-banner: true
+layout: default
+title: About
 enable-header: true
+permalink: /about/
 ---
-{% assign sections_array = site.page-sections | where: 'enable-on-page', page.title | where: 'enabled', 'true' %}
-{% include page-section.html sections-array=sections_array %}
+
+<div class="contact-us">
+  <!-- TOP BAR -->
+  {% include top-bar.html %}
+  <!-- END TOP BAR -->
+  <div class="row quote-row">
+    <div class="small-12 columns">
+      <h1 class="secondary-page-heading">{{ page.title }}</h1>
+    </div>
+    <div class="small-12 columns">
+      <h2 class="quote">Hello :)</h2>
+    </div>
+  </div>
+
+</div>
+<!-- END HEADER -->
+
 
 <div class="row">
   <div class="small-12 medium-8 large-6 small-centered columns">

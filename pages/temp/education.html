@@ -1,0 +1,10 @@
+---
+layout: page
+title: Education
+enable-banner: true
+enable-header: true
+enable-sections: true
+permalink: /education/
+---
+{% assign sections_array = site.page-sections | where: 'enable-on-page', page.title %}
+{% include page-section.html sections-array=sections_array %}

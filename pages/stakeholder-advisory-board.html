@@ -1,0 +1,24 @@
+---
+layout: single-column-wide
+title: Stakeholder Advisory Board
+enable-banner: true
+enable-header: true
+permalink: /about/stakeholder-advisory-board/
+---
+{% assign groups = site.stakeholder-groups %}
+{% for group in groups %}
+<h2>{{group.title}}</h2>
+<p>{{ group.description}}</p>
+    {% assign people = group.associated-people %}
+    {% if people != 0 %}
+        {% for person_name in people %}
+        
+        {% assign person_array = site.people | where: "name", person_name %}
+            {% for person in person_array %}
+            <h3>{{ person.name }}</h3>
+            <p>{{ person.professional-title }}</p>
+            <p>{{ person.email }}</p>
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}

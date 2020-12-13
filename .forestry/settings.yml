@@ -11,6 +11,13 @@ sections:
   label: Site Menu
 - type: heading
   label: Page configuration
+- type: directory
+  path: _front-page-callouts
+  label: Front Page Announcement Boxes
+  create: documents
+  match: "**/*"
+  templates:
+  - front-page-callout
 - type: document
   path: index.html
   label: Home Page
@@ -72,33 +79,6 @@ sections:
   - course
 - type: heading
   label: to be removed
-- type: document
-  path: industry-career
-  label: industry & career
-- type: directory
-  path: _front-page-callouts
-  label: Front Page Callouts
-  create: all
-  match: "**/*"
-  templates:
-  - front-page-callout
-- type: directory
-  path: _events
-  label: Events
-  create: all
-  match: "**/*"
-  templates:
-  - event
-- type: directory
-  path: _programs
-  label: Programs
-  create: none
-  match: "**/*"
-- type: directory
-  path: _team
-  label: Team
-  create: all
-  match: "**/*"
 - type: document
   path: _includes/footer-content.md
   label: Footer

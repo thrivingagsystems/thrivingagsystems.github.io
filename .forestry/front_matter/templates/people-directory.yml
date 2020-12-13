@@ -7,8 +7,8 @@ fields:
   label: people-list
   fields:
   - type: text
-    name: John Adams
-    label: John Adams
+    name: name
+    label: Name
   - type: text
     name: email
     label: email
@@ -33,3 +33,5 @@ fields:
   - type: text
     name: instagram
     label: instagram
+  config:
+    labelField: name

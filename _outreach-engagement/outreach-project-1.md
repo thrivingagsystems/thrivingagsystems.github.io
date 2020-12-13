@@ -20,8 +20,11 @@ linkedin: http://linkedin.com
 twitter: http://twitter.com
 facebook: http://facebook.com
 instagram: http://instagram.com
-associated-people: []
-date-added: ''
+associated-people:
+- _people/adams-john.md
+- _people/smith-joan.md
+- _people/jobs-steve.md
+date-added: 
 
 ---
 outreach project content

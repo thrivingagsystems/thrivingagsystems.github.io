@@ -28,9 +28,6 @@ sections:
   - page-section
 - type: heading
   label: Content
-- type: document
-  path: _data/people.yml
-  label: People Directory
 - type: directory
   path: _people
   label: People

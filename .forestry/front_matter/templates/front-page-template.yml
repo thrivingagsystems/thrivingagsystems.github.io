@@ -9,6 +9,7 @@ fields:
 - type: text
   name: title
   label: title
+  hidden: true
 - type: boolean
   name: enable-default-header
   label: Enable Fixed Front Page Banner Image

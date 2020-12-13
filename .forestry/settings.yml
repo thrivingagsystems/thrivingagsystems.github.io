@@ -5,15 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Menu
+  label: Site Configuration
 - type: document
   path: _data/navbar.yml
   label: Site Menu
-- type: heading
-  label: Page configuration
-- type: document
-  path: index.html
-  label: Home Page
 - type: directory
   path: _front-page-callouts
   label: Home Page Announcements
@@ -21,6 +16,13 @@ sections:
   match: "**/*"
   templates:
   - front-page-callout
+- type: heading
+  label: Page configuration
+- type: document
+  path: index.html
+  label: Home Page
+- type: heading
+  label: Content
 - type: directory
   path: _page-sections
   label: Page sections
@@ -28,8 +30,6 @@ sections:
   match: "**/*"
   templates:
   - page-section
-- type: heading
-  label: Content
 - type: directory
   path: _people
   label: People

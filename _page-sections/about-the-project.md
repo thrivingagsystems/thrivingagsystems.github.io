@@ -1,7 +1,7 @@
 ---
 enabled: true
 title: About the Project
-heading: ''
+heading: About the Project
 enable-on-page:
 - Home
 

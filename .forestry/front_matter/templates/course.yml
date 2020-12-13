@@ -1,0 +1,22 @@
+---
+label: Course
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: course-number
+  label: course-number
+- type: file
+  name: image
+  label: image
+- type: text
+  name: bulletin-link
+  label: bulletin-link
+- type: list
+  name: instructors
+  label: instructors
+- type: textarea
+  name: description
+  label: description

@@ -40,8 +40,9 @@ fields:
 - name: date_added
   type: datetime
   label: Date Added
-  description: This helps determine the order of appearance in the news and activities
-    list page.
+  description: This will typically be the date that this item is added to the site.
+    This helps determine the order of appearance in the news and activities list page.
+    Recent dates will render at the top of the list.
   config:
     required: false
     date_format: 

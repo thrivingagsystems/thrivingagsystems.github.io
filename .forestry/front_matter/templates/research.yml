@@ -44,6 +44,12 @@ fields:
     source:
       type: pages
       section: people
-- type: text
-  name: date-added
-  label: date-added
+- name: dated-added
+  type: datetime
+  label: Dated Added
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false

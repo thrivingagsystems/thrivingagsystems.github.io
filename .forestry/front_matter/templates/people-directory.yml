@@ -35,3 +35,5 @@ fields:
     label: instagram
   config:
     labelField: name
+pages:
+- _data/people.yml

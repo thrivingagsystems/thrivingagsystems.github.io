@@ -1,20 +1,22 @@
 ---
 people-list:
-  - John Adams:
-    email: john@google.com
-    professional-title: ''
-    link-to-bio-page: ''
-    link-to-personal-website: ''
-    twitter: ''
-    linkedin: ''
-    facebook: ''
-    instagram: ''
-  - Joan Smith:
-    email: joan@google.com
-    professional-title: ''
-    link-to-bio-page: ''
-    link-to-personal-website: ''
-    twitter: ''
-    linkedin: ''
-    facebook: ''
-    instagram: ''
+- John Adams: 
+  email: john@google.com
+  professional-title: ''
+  link-to-bio-page: ''
+  link-to-personal-website: ''
+  twitter: ''
+  linkedin: ''
+  facebook: ''
+  instagram: ''
+  name: John Adams
+- Joan Smith: 
+  email: joan@google.com
+  professional-title: ''
+  link-to-bio-page: ''
+  link-to-personal-website: ''
+  twitter: ''
+  linkedin: ''
+  facebook: ''
+  instagram: ''
+  name: ''

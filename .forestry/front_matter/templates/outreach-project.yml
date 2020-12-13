@@ -44,18 +44,6 @@ fields:
     source:
       type: pages
       section: people
-- label: Author
-  type: select
-  name: author
-  default: ''
-  config:
-    required: true
-    options: []
-    source:
-      type: pages
-      section: people
-      file: _data/people.yml
-      path:
 - name: date-added
   type: datetime
   label: Date Added

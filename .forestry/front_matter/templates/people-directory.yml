@@ -54,5 +54,7 @@ fields:
       required: false
     label: Instagram
     description: IE - http://www.instagram.com/username
+  config:
+    labelField: name
 pages:
 - _data/people.yml

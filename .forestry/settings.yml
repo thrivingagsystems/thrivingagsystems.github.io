@@ -13,7 +13,7 @@ sections:
   label: Page configuration
 - type: directory
   path: _front-page-callouts
-  label: Front Page Announcement Boxes
+  label: Front Page Announcements
   create: documents
   match: "**/*"
   templates:

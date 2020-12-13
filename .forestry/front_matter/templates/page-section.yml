@@ -21,9 +21,11 @@ fields:
       type: simple
       section: industry-career
     options:
+    - Home
+    - Outreach & Engagement
+    - Research
     - Education
-    - Industry and Career
-    - SIGGRAPH S3
+    - News & Activities
     - Team
 pages:
 - _page-sections/jobs.md

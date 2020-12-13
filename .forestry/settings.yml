@@ -11,6 +11,9 @@ sections:
   label: Site Menu
 - type: heading
   label: Page configuration
+- type: document
+  path: index.html
+  label: Home Page
 - type: directory
   path: _front-page-callouts
   label: Home Page Announcements
@@ -18,9 +21,6 @@ sections:
   match: "**/*"
   templates:
   - front-page-callout
-- type: document
-  path: index.html
-  label: Home Page
 - type: directory
   path: _page-sections
   label: Page sections

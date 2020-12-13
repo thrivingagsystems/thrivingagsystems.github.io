@@ -36,6 +36,8 @@ sections:
   label: People
   create: documents
   match: "**/*"
+  templates:
+  - person
 - type: directory
   path: _news-activities
   label: News and Activities

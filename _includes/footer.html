@@ -3,7 +3,13 @@
 			<!-- <div class="column small-12"><p class="center-align"><a class="button rounded white" href="{{ site.baseurl }}/team/">About the S3 Committee</a></p></div>
 			<div class="column small-12"><p class="center-align"><a href="http://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment">ACM Policy Against Discrimination and Harassment for Members and Event Attendees</a></p>
 			</div> -->
-			{% include footer-content.md %}
+			{% for section in site.layout-sections  %}
+			{% if section.slug == "footer-content" %}	
+			<div class="column small-12"><span class="center-align">{{ section.content}}</span></div>
+				{% endif %}
+				
+			{% endfor %}
+			
 			<div class="column small-12"><p class="center-align">Copyright {{ site.title 2017 }} – {{ 'now' | date: "%Y" }}</p></div>
 
 </div>

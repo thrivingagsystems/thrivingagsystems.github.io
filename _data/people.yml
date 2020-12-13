@@ -18,3 +18,13 @@ people-list:
     linkedin: ''
     facebook: ''
     instagram: ''
+people:
+- name: John Adams
+  email: John@google.com
+  professional-title: Prof. of Something
+  link-to-bio-page: ''
+  link-to-personal-website: ''
+  twitter: ''
+  linkedin: ''
+  facebook: ''
+  instagram: ''

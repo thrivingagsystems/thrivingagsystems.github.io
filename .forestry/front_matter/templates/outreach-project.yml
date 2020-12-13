@@ -1,0 +1,55 @@
+---
+label: Outreach Project
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: file
+  name: primary image
+  label: primary image
+- type: field_group_list
+  name: image-gallery
+  label: image-gallery
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: alt-text
+    label: alt-text
+- type: text
+  name: website
+  label: website
+- type: text
+  name: linkedin
+  label: linkedin
+- type: text
+  name: twitter
+  label: twitter
+- type: text
+  name: facebook
+  label: facebook
+- type: text
+  name: instagram
+  label: instagram
+- type: list
+  name: associated-people
+  label: associated-people
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: people
+- name: date-added
+  type: datetime
+  label: Date Added
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false

@@ -12,7 +12,7 @@
 
       {% for slide in include.slides %}
         <li class="is-active orbit-slide">
-          {% if slide.banner-img-url == empty or slide.banner-img-url == false or slide.banner-img-url == '' slide.banner-img-url == null %}
+          {% if slide.banner-img-url == empty or slide.banner-img-url == false or slide.banner-img-url == '' or slide.banner-img-url == null %}
           <div>
             <h3 class="text-center"></h3><a href="{{ site.baseurl }}{{ slide.url }}">{{ slide.title }}</a></h3>
             <p class="text-center">{{ slide.description}}</p>

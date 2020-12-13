@@ -19,14 +19,16 @@ fields:
     use_select: true
     source:
       type: simple
-      section: industry-career
+      section: ''
     options:
     - Home
     - Outreach & Engagement
     - Research
     - Education
     - News & Activities
-    - Team
+    - Project Overview
+    - Project Objectives
+    - Stakeholder Advisory Board
 pages:
 - _page-sections/about-the-project.md
 - _page-sections/jobs.md

@@ -35,11 +35,6 @@ fields:
   name: text-heading
   label: Text Heading
 - type: boolean
-  name: enable-callouts
-  label: Enable Callouts
-  description: You can add  and edit callouts in the content section called "Front
-    Page Callouts."
-- type: boolean
   name: twitter-feed
   label: Enable Twitter Feed
   description: Twitter feed.
@@ -52,6 +47,11 @@ fields:
     field: twitter-feed
     value: true
   default: true
+- type: boolean
+  name: enable-callouts
+  label: Enable Callouts
+  description: You can add  and edit callouts in the content section called "Front
+    Page Callouts."
 - type: boolean
   name: enable-featured-events
   label: Enable Featured Event Cards

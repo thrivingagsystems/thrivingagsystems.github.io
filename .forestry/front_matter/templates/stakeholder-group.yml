@@ -1,0 +1,16 @@
+---
+label: Stakeholder Group
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: list
+  name: associated-people
+  label: associated-people
+- type: number
+  name: page-order
+  label: page-order

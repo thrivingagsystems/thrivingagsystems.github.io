@@ -20,8 +20,7 @@ linkedin: http://linkedin.com
 twitter: http://twitter.com
 facebook: http://facebook.com
 instagram: http://instagram.com
-associated-people:
-- _people/adams-john.md
+associated-people: []
 date-added: ''
 
 ---

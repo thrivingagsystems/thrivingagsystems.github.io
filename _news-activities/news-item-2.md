@@ -1,7 +1,7 @@
 ---
 title: News Item 2
-enable-image: true
-image: news-item-2.jpg
+enable-image: false
+image:
 event-date: 01/02/2021
 description: You'll never believe what happened! First this happened. Then, this other
   thing happened. It was very news worthy, and therefore a news item has been created

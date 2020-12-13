@@ -49,11 +49,6 @@ fields:
   description: If an event has the featured card toggle enabled, then it will automatically
     show up on the front page. You can disable all featured events with this toggle.
 - type: boolean
-  name: enable-default-header
-  label: Enable Fixed Front Page Banner Image
-  description: A banner image will appear on the front page. This does not inlcude
-    the featured banner carousel.
-- type: boolean
   name: remove-duplicate-logo
   label: remove-duplicate-logo
   description: On the front page, it's possible to have the s3 logo visible in the
@@ -62,6 +57,11 @@ fields:
     field: enable-default-header
     value: true
   default: true
+- type: boolean
+  name: enable-default-header
+  label: Enable Fixed Front Page Banner Image
+  description: A banner image will appear on the front page. This does not inlcude
+    the featured banner carousel.
 - name: page-header-image
   type: file
   config:

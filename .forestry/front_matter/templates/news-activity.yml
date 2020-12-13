@@ -28,9 +28,15 @@ fields:
 - type: text
   name: button-text
   label: button-text
+  showOnly:
+    field: enable-button-link
+    value: true
 - type: text
   name: button-url
   label: button-url
+  showOnly:
+    field: enable-button-link
+    value: true
 - name: date_added
   type: datetime
   label: Date Added

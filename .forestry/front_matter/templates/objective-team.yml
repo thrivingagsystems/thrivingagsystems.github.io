@@ -1,0 +1,16 @@
+---
+label: Objective Team
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: list
+  name: associated-people
+  label: associated-people
+- type: number
+  name: page-order
+  label: page-order

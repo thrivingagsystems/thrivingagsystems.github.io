@@ -20,7 +20,7 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: _news-and-activities
+  path: _news-activities
   label: News and Activities
   create: documents
   match: "**/*"

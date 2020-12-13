@@ -12,3 +12,45 @@ fields:
   - type: text
     name: email
     label: email
+  - name: professional-title
+    type: text
+    config:
+      required: false
+    label: Professional Title
+    description: IE - Prof. of Agricultural Sciences, Researcher, etc.
+  - name: link-to-bio-page
+    type: text
+    config:
+      required: false
+    label: Link to Bio Page
+    description: IE - http://department.psu.edu/faculty-directory
+  - name: link-to-personal-website
+    type: text
+    config:
+      required: false
+    label: Personal Website
+    description: IE - http://www.google.com/
+  - name: twitter
+    type: text
+    config:
+      required: false
+    label: Twitter
+    description: IE - http://www.twitter.com/username
+  - name: linkedin
+    type: text
+    config:
+      required: false
+    label: Linkedin
+    description: IE - http://www.linkedin.com/username
+  - name: facebook
+    type: text
+    config:
+      required: false
+    label: Facebook
+    description: IE - http://www.facebookcom/username
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: Instagram
+    description: IE - http://www.instagram.com/username

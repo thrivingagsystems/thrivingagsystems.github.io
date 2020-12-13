@@ -1,0 +1,14 @@
+---
+label: People Directory
+hide_body: true
+fields:
+- type: field_group_list
+  name: people
+  label: people
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: email
+    label: email

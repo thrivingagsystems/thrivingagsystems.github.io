@@ -5,6 +5,69 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Content
+- type: directory
+  path: _page-sections
+  label: Page Sections
+  create: documents
+  match: "**/*"
+  templates:
+  - page-section
+- type: directory
+  path: _people
+  label: People
+  create: documents
+  match: "**/*"
+  templates:
+  - person
+- type: directory
+  path: _news-activities
+  label: News and Activities
+  create: documents
+  match: "**/*"
+  templates:
+  - news-activity
+- type: directory
+  path: _research
+  label: Research Projects
+  create: documents
+  match: "**/*"
+  templates:
+  - research
+- type: directory
+  path: _outreach-engagement
+  label: Outreach Projects
+  create: documents
+  match: "**/*"
+  templates:
+  - outreach-project
+- type: directory
+  path: _objective-teams
+  label: Objective Teams
+  create: documents
+  match: "**/*"
+  templates:
+  - objective-team
+- type: directory
+  path: _stakeholder-groups
+  label: Stakeholder Groups
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _courses
+  label: Courses
+  create: documents
+  match: "**/*"
+  templates:
+  - course
+- type: directory
+  path: _front-page-callouts
+  label: Home Page Announcements
+  create: documents
+  match: "**/*"
+  templates:
+  - front-page-callout
+- type: heading
   label: Site Configuration
 - type: document
   path: _data/navbar.yml
@@ -39,71 +102,8 @@ sections:
   path: pages/education.html
   label: Education
 - type: document
-  path: pages/news-and-activites.html
+  path: pages/news-activites.html
   label: News and Activities
-- type: heading
-  label: Content
-- type: directory
-  path: _page-sections
-  label: Page Sections
-  create: documents
-  match: "**/*"
-  templates:
-  - page-section
-- type: directory
-  path: _people
-  label: People
-  create: documents
-  match: "**/*"
-  templates:
-  - person
-- type: directory
-  path: _news-activities
-  label: News and Activities
-  create: documents
-  match: "**/*"
-  templates:
-  - news-activity
-- type: directory
-  path: _outreach-engagement
-  label: Outreach Projects
-  create: documents
-  match: "**/*"
-  templates:
-  - outreach-project
-- type: directory
-  path: _research
-  label: Research Projects
-  create: documents
-  match: "**/*"
-  templates:
-  - research
-- type: directory
-  path: _objective-teams
-  label: Objective Teams
-  create: documents
-  match: "**/*"
-  templates:
-  - objective-team
-- type: directory
-  path: _stakeholder-groups
-  label: Stakeholder Groups
-  create: documents
-  match: "**/*"
-- type: directory
-  path: _courses
-  label: Courses
-  create: documents
-  match: "**/*"
-  templates:
-  - course
-- type: directory
-  path: _front-page-callouts
-  label: Home Page Announcements
-  create: documents
-  match: "**/*"
-  templates:
-  - front-page-callout
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''

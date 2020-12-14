@@ -1,6 +1,6 @@
 ---
 enabled: true
-title: Project Objectives
+title: Project Objectives Page Content
 
 ---
 ## About the Project Objectives

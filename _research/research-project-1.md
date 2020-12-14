@@ -3,20 +3,12 @@ layout: research-project
 title: Research Project 1
 enable-header: true
 enable-banner: false
-primary image: research-project-1.jpg
+primary image: assets/img/1067-300x300.jpg
 image-gallery:
-- image: gallery-image-1.jpg
-  alt-text: Image 1
-- image: gallery-image-2.jpg
-  alt-text: Image 2
-- image: gallery-image-3.jpg
-  alt-text: Image 3
-- image: gallery-image-4.jpg
-  alt-text: Image 4
-- image: gallery-image-5.jpg
-  alt-text: Image 5
-- image: gallery-image-6.jpg
-  alt-text: Image 6
+- image: assets/img/241-400x400.jpg
+  alt-text: black and white picture of a fence leading up a hill
+- image: assets/img/611-600x300.jpg
+  alt-text: Birds taking flight
 website: http://google.com
 linkedin: http://linkedin.com
 twitter: http://twitter.com
@@ -26,7 +18,7 @@ associated-people:
 - _people/jobs-steve.md
 - _people/smith-joan.md
 date-added: 
-dated-added: 2020-12-13 05:00:00 +0000
+dated-added: 2020-12-13T05:00:00.000+00:00
 
 ---
 Urna duis convallis convallis tellus id interdum velit laoreet. Ornare arcu dui vivamus arcu felis bibendum ut tristique et. Diam volutpat commodo sed egestas egestas. Tristique sollicitudin nibh sit amet commodo nulla. Ac auctor augue mauris augue. Ac turpis egestas maecenas pharetra. Lacus luctus accumsan tortor posuere ac ut. Sit amet facilisis magna etiam tempor orci eu. Id cursus metus aliquam eleifend. Tortor id aliquet lectus proin nibh nisl condimentum. Nibh ipsum consequat nisl vel pretium lectus quam id leo.

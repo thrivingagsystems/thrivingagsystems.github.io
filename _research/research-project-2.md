@@ -13,8 +13,7 @@ twitter: http://twitter.com
 facebook: http://facebook.com
 instagram: http://instagram.com
 associated-people:
-- Joan Smith
-- John Adams
+- _people/adams-john.md
 date-added: 
 
 ---

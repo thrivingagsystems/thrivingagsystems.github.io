@@ -10,6 +10,10 @@ sections:
   path: _data/navbar.yml
   label: Site Menu
 - type: document
+  path: _data/social.yml
+  label: Social Media Accounts
+  match: "**/*"
+- type: document
   path: _includes/footer-content.md
   label: Footer
 - type: heading

@@ -28,6 +28,6 @@ partner:
   image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
   enable-image-link: false
   url: ''
-description: This text displays in the footer.
+description: "<p>This text will display in the footer.</p>"
 
 ---

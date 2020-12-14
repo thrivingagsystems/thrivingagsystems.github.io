@@ -1,4 +1,5 @@
 ---
+layout: single-column
 title: News Item 1
 enable-image: true
 image: assets/img/news-item-1-1.jpg

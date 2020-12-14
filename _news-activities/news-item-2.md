@@ -1,4 +1,5 @@
 ---
+layout: single-column
 title: News Item 2
 enable-image: true
 image: assets/img/1067-300x300-3.jpg

@@ -58,25 +58,29 @@ layout: default
 
           </div>
   
-  
+          
+
           <div class="small-12 medium-push-1 medium-4 large-push-2 large-4 columns head-spacing foot-spacing">
-            {% assign events = site.news-activities | reverse %}
-            {% for event in events %}
-            {% if event.enable-featured-card == true %}
-            {% capture featured_title %}{{event.title}}{% endcapture %}
-            {% capture featured_text %}{{event.description}}{% endcapture %}
-            {% capture featured_class %}{{event.class}}{% endcapture %}
-            {% capture featured_image %}{{event.image}}{% endcapture %}
-            {% capture featured_url %}{{event.url}}{% endcapture %}
-            {% include featured-card.html featured_class=featured_class featured_image=featured_image featured_title=featured_title featured_text=featured_text featured_url=featured_url %}
-            <hr>
-            {% endif %}
-            {% endfor %}
+            
             {% if page.twitter-feed == true %}
             <div class="tweet-box">
               <a class="twitter-timeline" data-lang="en" data-height="800" data-dnt="true" href="https://twitter.com/{{ page.twitter-account }}">Tweets by {{ page.twitter-account }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             {% endif %}
+
+            {% assign events = site.news-activities | reverse %}
+            {% for event in events %}
+              {% if event.enable-featured-card == true %}
+                {% capture featured_title %}{{event.title}}{% endcapture %}
+                {% capture featured_text %}{{event.description | truncate: 20, '...' }}{% endcapture %}
+                {% capture featured_class %}{{event.class}}{% endcapture %}
+                {% capture featured_image %}{{event.image}}{% endcapture %}
+                {% capture featured_url %}{{event.url}}{% endcapture %}
+                {% include featured-card.html featured_class=featured_class featured_image=featured_image featured_title=featured_title featured_text=featured_text featured_url=featured_url %}
+              
+              {% endif %}
+            {% endfor %}
+            
           </div>
       
 

@@ -3,6 +3,11 @@ label: News / Activity
 hide_body: true
 fields:
 - type: text
+  name: layout 
+  label: layout
+  default: single-column
+  hidden: true
+- type: text
   name: title
   label: title
 - name: enable-featured-card

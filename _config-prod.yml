@@ -60,7 +60,7 @@ collections:
     output: false
   #ThrivingAG
   news-activities:
-    output: false
+    output: true
   people:
     output: false
   research:

@@ -3,6 +3,7 @@ layout: outreach-project
 enable-header: false
 title: Test project
 enable-banner: false
+breadcrumbs: true
 primary-image: assets/img/news-item-1-2.jpg
 image-gallery: []
 website: http://google.com

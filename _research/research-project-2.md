@@ -2,6 +2,7 @@
 layout: research-project
 title: Research Project 2
 enable-header: false
+breadcrumbs: true
 primary-image: assets/img/241-400x400-1.jpg
 image-gallery:
 - image: assets/img/1067-300x300-1.jpg

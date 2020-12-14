@@ -15,6 +15,11 @@ fields:
   label: Enable Header
   hidden: true
   default: false
+- name: breadcrumbs
+  type: boolean
+  label: Enable Breadcrumbs
+  hidden: true
+  default: true
 - name: enable-banner
   type: boolean
   label: Enable Banner

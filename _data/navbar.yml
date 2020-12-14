@@ -31,7 +31,7 @@
   enable_sublinks: false
   subfolderitems: []
 - name: News & Activities
-  url: "/news-and-activities/"
+  url: "/news-activities/"
   url_active: true
   enable_sublinks: false
   subfolderitems: []

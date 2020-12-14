@@ -12,6 +12,11 @@ fields:
   label: enable-header
   default: false
   hidden: true
+- name: breadcrumbs
+  type: boolean
+  label: Enable Breadcrumbs
+  hidden: true
+  default: true
 - type: text
   name: title
   label: title

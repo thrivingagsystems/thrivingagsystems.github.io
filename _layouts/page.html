@@ -22,6 +22,9 @@ layout: default
 {% include top-bar.html %}
 
 {% endif %}
+{% if page.breadcrumbs == true %}
+    {% include breadcrumbs.html %}
+{% endif %}
 <div class="row head-spacing foot-spacing">
     <div class="small-12 columns">
       {{ content }}

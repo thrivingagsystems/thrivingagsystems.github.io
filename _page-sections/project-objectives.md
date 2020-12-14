@@ -1,7 +1,6 @@
 ---
 enabled: true
 title: Project Objectives
-published: false
 
 ---
 ## About the Project Objectives

@@ -10,25 +10,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: heading
-  label: heading
-- type: list
-  name: enable-on-page
-  label: enable-on-page
-  config:
-    use_select: true
-    source:
-      type: simple
-      section: ''
-    options:
-    - Home
-    - Outreach & Engagement
-    - Research
-    - Education
-    - News & Activities
-    - Project Overview
-    - Project Objectives
-    - Stakeholder Advisory Board
+  description: This is displayed only in the CMS, not on the page.
 pages:
 - _page-sections/about-the-project.md

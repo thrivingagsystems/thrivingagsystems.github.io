@@ -68,17 +68,6 @@ sections:
   templates:
   - front-page-callout
 - type: heading
-  label: Site Configuration
-- type: document
-  path: _data/navbar.yml
-  label: Site Menu
-- type: document
-  path: _data/social.yml
-  label: Social Media Accounts
-- type: document
-  path: _layout-sections/footer-content.md
-  label: Partners and Footer Text
-- type: heading
   label: Page configuration
 - type: document
   path: index.html
@@ -104,6 +93,17 @@ sections:
 - type: document
   path: pages/news-activites.html
   label: News and Activities
+- type: heading
+  label: Site Configuration
+- type: document
+  path: _data/navbar.yml
+  label: Site Menu
+- type: document
+  path: _data/social.yml
+  label: Social Media Accounts
+- type: document
+  path: _layout-sections/footer-content.md
+  label: Partners and Footer Text
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''

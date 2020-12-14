@@ -91,7 +91,7 @@ sections:
   path: pages/education.html
   label: Education
 - type: document
-  path: _pages/news-activites.html
+  path: pages/news-and-activities.html
   label: News and Activities
 - type: heading
   label: Site Configuration

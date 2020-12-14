@@ -15,6 +15,7 @@ instagram: http://instagram.com
 associated-people:
 - _people/adams-john.md
 date-added: 
+dated-added: 2020-12-04 05:00:00 +0000
 
 ---
 research project content

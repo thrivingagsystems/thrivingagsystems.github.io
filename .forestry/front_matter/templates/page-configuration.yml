@@ -1,0 +1,34 @@
+---
+label: Page
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: page
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: enable-banner
+  label: enable-banner
+- type: boolean
+  name: enable-header
+  label: enable-header
+- type: text
+  name: permalink
+  label: permalink
+  description: If you change this link, you must manually update the Site Menu in
+    the Site Configuration section.
+- name: page-sections
+  type: include
+  config: {}
+  template: page-sections
+  label: Page Sections
+  description: To add html content to this page, add a new entry in Page Sections.
+    Make sure the page section is published, then choose that section from this list
+    and press save.
+pages:
+- pages/project-objectives.html

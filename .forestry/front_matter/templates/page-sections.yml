@@ -1,0 +1,14 @@
+---
+label: Page Sections
+hide_body: true
+fields:
+- name: page-sections
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: page-sections
+  label: Page Sections

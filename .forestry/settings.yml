@@ -37,8 +37,20 @@ sections:
   label: About Stakeholder Adv. Board
   match: "**/*"
 - type: document
+  path: pages/outreach-engagement.html
+  label: Outreach / Engagement
+  match: "**/*"
+- type: document
+  path: pages/research.html
+  label: Research
+  match: "**/*"
+- type: document
   path: pages/education.html
   label: Education
+  match: "**/*"
+- type: document
+  path: pages/news-and-activites.html
+  label: News and Activities
   match: "**/*"
 - type: heading
   label: Content

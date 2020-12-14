@@ -45,7 +45,7 @@ sections:
   label: Content
 - type: directory
   path: _page-sections
-  label: Page sections
+  label: Page Sections
   create: documents
   match: "**/*"
   templates:

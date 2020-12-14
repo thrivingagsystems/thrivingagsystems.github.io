@@ -1,6 +1,6 @@
 ---
 enabled: true
-title: Education
+title: Education Page Intro
 
 ---
 ## Courses

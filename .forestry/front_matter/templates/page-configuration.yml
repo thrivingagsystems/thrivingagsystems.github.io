@@ -25,3 +25,5 @@ fields:
   config: {}
   template: page-sections
   label: Page Sections
+pages:
+- pages/project-objectives.html

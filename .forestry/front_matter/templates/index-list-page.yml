@@ -26,4 +26,5 @@ fields:
   template: page-sections
   label: Page Section
 pages:
+- pages/education.html
 - pages/research.html

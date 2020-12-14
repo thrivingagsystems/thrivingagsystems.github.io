@@ -1,0 +1,77 @@
+<div class="row">
+{% if page.associated-people != empty and page.associated-people != '' and page.associated-people != null %}
+    {% assign site-people = site.people %}
+    {% assign assigned-people = page.associated-people %}
+    {% for assigned-person in assigned-people %}
+        {% for site-person in site-people %}
+            {% if  assigned-person == site-person.relative_path  %}
+                {% if include.display-card == true %}
+
+                
+                    <div class="small-12 medium-6 column">
+                        <div class="radius bordered shadow card">
+                            
+                            <div class="card-divider">
+                                {% if include.name == true and site-person.name != empty and site-person.name != '' and site-person.name != null %}
+                                <p class="{{ site-person.name }} {{include.class}}">{{ site-person.name }}</p>
+                                {% endif %}
+                            </div>
+                            <div class="card-section">
+                        
+                                {% if include.professional-title == true and site-person.professional-title != empty and site-person.professional-title != '' and site-person.professional-title != null %}
+                                <p class="{{ site-person.professional-title }} {{include.class}}">{{ site-person.professional-title }}</p>
+                                {% endif %}
+                                {% if include.link-to-bio-page == true and site-person.link-to-bio-page != empty and site-person.link-to-bio-page != '' and site-person.link-to-bio-page != null %}
+                                <p class="{{ site-person.link-to-bio-page }} {{include.class}}">{{ site-person.link-to-bio-page }}</p>
+                                {% endif %}
+                                {% if include.link-to-personal-website == true and site-person.link-to-personal-website != empty and site-person.link-to-personal-website != '' and site-person.link-to-personal-website != null %}
+                                <p class="{{ site-person.link-to-personal-website }} {{include.class}}">{{ site-person.link-to-personal-website }}</p>
+                                {% endif %}
+                                {% if include.linkedin == true and site-person.linkedin != empty and site-person.linkedin != '' and site-person.linkedin != null %}
+                                <p class="{{ site-person.linkedin }} {{include.class}}">{{ site-person.linkedin }}</p>
+                                {% endif %}
+                                {% if include.twitter == true and site-person.twitter != empty and site-person.twitter != '' and site-person.twitter != null %}
+                                <p class="{{ site-person.twitter }} {{include.class}}">{{ site-person.twitter }}</p>
+                                {% endif %}
+                                {% if include.facebook == true and site-person.facebook != empty and site-person.facebook != '' and site-person.facebook != null %}
+                                <p class="{{ site-person.facebook }} {{include.class}}">{{ site-person.facebook }}</p>
+                                {% endif %}
+                                {% if include.instagram == true and site-person.instagram != empty and site-person.instagram != '' and site-person.instagram != null %}
+                                <p class="{{ site-person.instagram }} {{include.class}}">{{ site-person.instagram }}</p>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>    
+                    
+                {% else %}
+                    {% if include.name == true and site-person.name != empty and site-person.name != '' and site-person.name != null %}
+                    <p class="{{ site-person.name }} {{include.class}}">{{ site-person.name }}</p>
+                    {% endif %}
+                    {% if include.professional-title == true and site-person.professional-title != empty and site-person.professional-title != '' and site-person.professional-title != null %}
+                    <p class="{{ site-person.professional-title }} {{include.class}}">{{ site-person.professional-title }}</p>
+                    {% endif %}
+                    {% if include.link-to-bio-page == true and site-person.link-to-bio-page != empty and site-person.link-to-bio-page != '' and site-person.link-to-bio-page != null %}
+                    <p class="{{ site-person.link-to-bio-page }} {{include.class}}">{{ site-person.link-to-bio-page }}</p>
+                    {% endif %}
+                    {% if include.link-to-personal-website == true and site-person.link-to-personal-website != empty and site-person.link-to-personal-website != '' and site-person.link-to-personal-website != null %}
+                    <p class="{{ site-person.link-to-personal-website }} {{include.class}}">{{ site-person.link-to-personal-website }}</p>
+                    {% endif %}
+                    {% if include.linkedin == true and site-person.linkedin != empty and site-person.linkedin != '' and site-person.linkedin != null %}
+                    <p class="{{ site-person.linkedin }} {{include.class}}">{{ site-person.linkedin }}</p>
+                    {% endif %}
+                    {% if include.twitter == true and site-person.twitter != empty and site-person.twitter != '' and site-person.twitter != null %}
+                    <p class="{{ site-person.twitter }} {{include.class}}">{{ site-person.twitter }}</p>
+                    {% endif %}
+                    {% if include.facebook == true and site-person.facebook != empty and site-person.facebook != '' and site-person.facebook != null %}
+                    <p class="{{ site-person.facebook }} {{include.class}}">{{ site-person.facebook }}</p>
+                    {% endif %}
+                    {% if include.instagram == true and site-person.instagram != empty and site-person.instagram != '' and site-person.instagram != null %}
+                    <p class="{{ site-person.instagram }} {{include.class}}">{{ site-person.instagram }}</p>
+                    {% endif %}
+                {% endif %}
+            
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endif %}
+</div>

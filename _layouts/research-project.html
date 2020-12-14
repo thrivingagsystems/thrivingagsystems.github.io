@@ -3,6 +3,32 @@ layout: page
 enable-header: true
 enable-banner: true
 ---
-  <article class="post-content">
+<div class="row head-spacing foot-spacing">
+  <div class="small-12 medium-4 columns">
+    {{ page.primary-image }}
+  </div>
+  
+  <div class="small-12 medium-8 columns">
+    
+    <h1>{{ page.title}}</h1>
+    <p>{{ page.website}}</p>
+
     {{ content }}
-  </article>
+    
+    <div class="row head-spacing foot-spacing">
+      <div class="small-12 columns">
+        <h2>Media and Communications</h2>
+        <hr>
+        {% for image in page.image-gallery %}
+        <img alt="{{ image.alt-text }}" src="{{ image.image }}">
+        {% endfor %}
+      </div>
+      <div class="small-12 columns">
+        <h2>Project Team</h2>
+        <hr>
+        {% include associated-people.html display-card=true display-raw=false name=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}
+      </div>
+    </div>
+
+  </div>
+</div>

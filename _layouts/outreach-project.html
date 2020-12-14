@@ -1,7 +1,5 @@
 ---
 layout: page
-enable-header: true
-enable-banner: true
 ---
 <div class="row head-spacing foot-spacing">
   <div class="small-12 medium-4 columns">
@@ -26,9 +24,7 @@ enable-banner: true
       <div class="small-12 columns">
         <h2>Project Team</h2>
         <hr>
-        {% for person in page.associated-people %}
-          person name
-        {% endfor %}
+        {% include associated-people.html display-card=true name=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}
       </div>
     </div>
 

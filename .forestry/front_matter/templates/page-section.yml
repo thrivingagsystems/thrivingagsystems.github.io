@@ -13,6 +13,7 @@ fields:
   description: This is displayed only in the CMS, not on the page.
 pages:
 - _page-sections/about-the-project.md
+- _page-sections/education.md
 - _page-sections/overview.md
 - _page-sections/project-objectives.md
 - _page-sections/stakeholder-adv.board.md

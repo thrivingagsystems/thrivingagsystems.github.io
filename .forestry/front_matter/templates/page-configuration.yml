@@ -20,3 +20,8 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: page-sections
+  type: include
+  config: {}
+  template: page-sections
+  label: Page Sections

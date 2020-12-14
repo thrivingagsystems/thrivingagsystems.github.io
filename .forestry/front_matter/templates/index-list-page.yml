@@ -27,4 +27,5 @@ fields:
   label: Page Section
 pages:
 - pages/education.html
+- pages/news-and-activities.html
 - pages/research.html

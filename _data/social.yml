@@ -1,9 +1,9 @@
 accounts:
-  Twitter:
+  twitter:
     url: http://twitter.com
-  Facebook:
+  facebook:
     url: http://facaebook.com
-  Linkedin:
+  linkedin:
     url: http://linkedin.com
-  Instagram:
+  instagram:
     url: http://instagram.com

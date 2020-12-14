@@ -10,6 +10,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: enable_header
+  type: boolean
+  label: Enable Header
+  hidden: true
+  default: true
 - type: file
   name: primary image
   label: primary image
@@ -55,3 +60,7 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: enable_banner
+  type: boolean
+  label: Enable Banner
+  hidden: true

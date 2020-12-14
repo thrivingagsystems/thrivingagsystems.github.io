@@ -40,7 +40,7 @@ fields:
     min: 
     max: 
     labelField: name
-  label: Partner
+  label: Partners
   description: Add an image and link to partnering institutions.
 pages:
 - _layout-sections/footer-content.md

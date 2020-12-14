@@ -1,6 +1,8 @@
 ---
 layout: research-project
 title: Research Project 1
+enable-header: true
+enable-banner: false
 primary image: research-project-1.jpg
 image-gallery:
 - image: gallery-image-1.jpg

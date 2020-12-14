@@ -14,7 +14,7 @@ sections:
   label: Social Media Accounts
 - type: document
   path: _layout-sections/footer-content.md
-  label: Footer
+  label: Partners and Footer Text
 - type: heading
   label: Page configuration
 - type: document

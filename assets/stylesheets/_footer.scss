@@ -1,16 +1,21 @@
 // Colors
 $btn-color-1:#fff; //white
+$footer-text-color:rgb(199, 199, 199);
+$footer-text-color-hover:rgb(168, 216, 238);
 
 .footer {
-	background-color: #efefef;
+	background-color: #464646;
 	// color:#efefef;
 	padding-top:12vh;
 	padding-bottom:12vh;
-	margin-top: 2rem;
+	margin-top:0;
 	text-align: center;
 	p a {
 		
-		color:#333;
+		color:$footer-text-color;
+	}
+	p {
+		color:$footer-text-color;
 	}
 
 	a.expanded.button {
@@ -20,7 +25,7 @@ $btn-color-1:#fff; //white
 
     	&:hover, &:focus {
     		background-color: $btn-color-1;
-    		color:#333;
+    		color:$footer-text-color-hover;
     	}
 	}
 }

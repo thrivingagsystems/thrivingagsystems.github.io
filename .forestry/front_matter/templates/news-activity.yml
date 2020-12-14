@@ -8,7 +8,7 @@ fields:
   default: news-activity
   hidden: true
 - type: text
-  name: enable-header 
+  name: enable-header
   label: enable-header
   default: false
   hidden: true

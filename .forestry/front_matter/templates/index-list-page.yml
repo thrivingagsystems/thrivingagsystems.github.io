@@ -24,3 +24,5 @@ fields:
   config: {}
   template: page-sections
   label: Page Section
+pages:
+- pages/research.html

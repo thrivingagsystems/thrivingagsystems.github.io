@@ -2,8 +2,6 @@
 enabled: true
 title: About the Project
 heading: About the Project
-enable-on-page:
-- Home
 
 ---
 # H1 Heading

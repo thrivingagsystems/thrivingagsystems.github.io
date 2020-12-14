@@ -72,5 +72,10 @@ fields:
     field: enable-default-header
     value: true
   default: true
+- name: page-section
+  type: include
+  config: {}
+  template: page-sections
+  label: Page Section
 pages:
 - index.html

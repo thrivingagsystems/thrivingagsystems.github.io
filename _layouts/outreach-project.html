@@ -3,4 +3,30 @@ layout: page
 enable-header: true
 enable-banner: true
 ---
-{{ content }}
+<div class="row head-spacing foot-spacing">
+  <div class="small-12 medium-4 columns">
+    {{ page.primary-image }}
+  </div>
+  
+  <div class="small-12 medium-8 columns">
+    {{ content }}
+    
+    <div class="row head-spacing foot-spacing">
+      <div class="small-12 columns">
+        <h2>Media and Communications</h2>
+        <hr>
+        {% for image in page.image-gallery %}
+        <img alt="{{ image.alt-text }}" src="{{ image.image }}">
+        {% endfor %}
+      </div>
+      <div class="small-12 columns">
+        <h2>Project Team</h2>
+        <hr>
+        {% for person in page.associated-people %}
+          person name
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</div>

@@ -3,7 +3,7 @@ layout: research-project
 title: Research Project 1
 enable-header: false
 breadcrumbs: true
-primary-image: assets/img/1067-300x300.jpg
+primary-image: assets/img/1021-400x800.jpg
 image-gallery:
 - image: assets/img/241-400x400.jpg
   alt-text: black and white picture of a fence leading up a hill

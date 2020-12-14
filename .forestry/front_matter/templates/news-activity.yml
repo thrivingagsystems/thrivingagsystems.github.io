@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: enable-featured-card
+  type: boolean
+  label: Enable on Front Page
+  default: true
+  description: Disable if you don't want this to show on the home page.
 - type: boolean
   name: enable-image
   label: enable-image

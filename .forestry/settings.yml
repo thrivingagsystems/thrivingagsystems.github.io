@@ -12,7 +12,6 @@ sections:
 - type: document
   path: _data/social.yml
   label: Social Media Accounts
-  match: "**/*"
 - type: document
   path: _includes/footer-content.md
   label: Footer

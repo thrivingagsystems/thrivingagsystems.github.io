@@ -1,0 +1,9 @@
+accounts:
+  Twitter:
+    url: http://twitter.com
+  Facebook:
+    url: http://facaebook.com
+  Linkedin:
+    url: http://linkedin.com
+  Instagram:
+    url: http://instagram.com

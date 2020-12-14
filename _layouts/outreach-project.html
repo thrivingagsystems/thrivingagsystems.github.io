@@ -3,7 +3,9 @@ layout: page
 ---
 <div class="row head-spacing foot-spacing">
   <div class="small-12 medium-4 columns">
-    {{ page.primary-image }}
+    {% if page.image-gallery and page.image-gallery != empty and page.image-gallery != '' and page.image-gallery != null %}
+    <img alt="Image for {{ page.title}}" src="/{{ page.primary-image }}">
+    {% endif %}
   </div>
   
   <div class="small-12 medium-8 columns">
@@ -14,13 +16,15 @@ layout: page
     {{ content }}
     
     <div class="row head-spacing foot-spacing">
+      {% if page.image-gallery and page.image-gallery != empty and page.image-gallery != '' and page.image-gallery != null %}
       <div class="small-12 columns">
         <h2>Media and Communications</h2>
         <hr>
         {% for image in page.image-gallery %}
-        <img alt="{{ image.alt-text }}" src="{{ image.image }}">
+        <img alt="{{ image.alt-text }}" src="/{{ image.image }}">
         {% endfor %}
       </div>
+      {% endif %}
       <div class="small-12 columns">
         <h2>Project Team</h2>
         <hr>

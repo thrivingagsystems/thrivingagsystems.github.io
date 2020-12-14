@@ -1,6 +1,6 @@
 ---
 enabled: true
-title: About the Project
+title: Home Page Content
 heading: About the Project
 
 ---

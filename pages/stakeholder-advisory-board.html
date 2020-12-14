@@ -12,16 +12,8 @@ page-sections:
 {% for group in groups %}
 <h2>{{group.title}}</h2>
 <p>{{ group.description}}</p>
-    {% assign people = group.associated-people %}
-    {% if people != 0 %}
-        {% for person_name in people %}
-        
-        {% assign person_array = site.people | where: "name", person_name %}
-            {% for person in person_array %}
-            <h3>{{ person.name }}</h3>
-            <p>{{ person.professional-title }}</p>
-            <p>{{ person.email }}</p>
-            {% endfor %}
-        {% endfor %}
-    {% endif %}
+
+{% assign people_array = group.associated-people %}
+{% include associated-people.html custom_array=true array=people_array display-card=true display-raw=false name=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}
+
 {% endfor %}

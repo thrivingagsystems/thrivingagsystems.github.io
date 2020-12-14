@@ -1,7 +1,13 @@
 <div class="row">
-{% if page.associated-people != empty and page.associated-people != '' and page.associated-people != null %}
+{% if include.custom_array == true %}
+    {% assign people_array = include.array %}
+{% else %}
+    {% assign people_array = page.associated-people %}
+{% endif %}
+
+{% if people_array != empty and people_array != '' and people_array != null %}
     {% assign site-people = site.people %}
-    {% assign assigned-people = page.associated-people %}
+    {% assign assigned-people = people_array %}
     {% for assigned-person in assigned-people %}
         {% for site-person in site-people %}
             {% if  assigned-person == site-person.relative_path  %}

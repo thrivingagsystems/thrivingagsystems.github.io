@@ -112,7 +112,7 @@ $orange:#F7941E;
 
 $main-accent-color:#A80532;
 $heading-color:#fff;
-$sig-blue:#4683BA;
+$menu-dropdown-bg:#000;
 
 h1, h2, h3, h4, h5, h6{
 	font-weight: 200;
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6{
 	font-family: "Oswald","Impact","Tahoma",sans-serif;
 	color: $heading-color;
 	text-transform: uppercase;
-	color: $sig-blue;
+	color: $menu-dropdown-bg;
 	a {
 		text-decoration: underline;
 	}
@@ -248,7 +248,7 @@ span.highlight{
 }
 .menu .active>a {
     color: #fff !important;
-    background: #A80532;
+    background: #000;
     border-radius: 6px;
     margin-right:0.25rem;
 }
@@ -449,7 +449,7 @@ img.logo {
 .mega-menu .dropdown-pane {
 	// width: 100vw;
 	// max-width: 100vw;
-	background-color: $sig-blue;
+	background-color: $menu-dropdown-bg;
 	width: 100% !important;
 	max-width: 100%;
 	margin: 0 auto !important;

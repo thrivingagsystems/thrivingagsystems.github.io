@@ -3,7 +3,7 @@ label: News / Activity
 hide_body: true
 fields:
 - type: text
-  name: layout 
+  name: layout
   label: layout
   default: news-activity
   hidden: true

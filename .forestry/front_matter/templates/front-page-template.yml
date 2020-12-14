@@ -24,14 +24,6 @@ fields:
   showOnly:
     field: enable-default-header
     value: true
-- type: select
-  name: columns
-  label: Front page columns
-  description: Set the number of page columns ('1' or '2')
-  config:
-    options:
-    - 1
-    - 2
 - type: text
   name: text-heading
   label: Text Heading
@@ -42,8 +34,8 @@ fields:
 - type: text
   name: twitter-account
   label: Twitter account
-  description: 'Which Twitter account to show: IE - ''siggraph''. Don''t inlcude the
-    ''@''.'
+  description: 'Which Twitter account to show: IE - ''agsciences''. Don''t inlcude
+    the ''@''.'
   showOnly:
     field: twitter-feed
     value: true
@@ -63,15 +55,6 @@ fields:
   label: Enable Featured Banner Carousel
   description: If an event has the featured card toggle enabled, then it will automatically
     show up on the front page. You can disable all featured events with this toggle.
-- type: boolean
-  name: remove-duplicate-logo
-  label: remove-duplicate-logo
-  description: On the front page, it's possible to have the s3 logo visible in the
-    navigation bar. This is hidden by default.
-  showOnly:
-    field: enable-default-header
-    value: true
-  default: true
 - name: page-section
   type: include
   config: {}

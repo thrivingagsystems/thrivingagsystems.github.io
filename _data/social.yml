@@ -1,3 +1,4 @@
+---
 accounts:
   Twitter:
     url: http://twitter.com
@@ -6,4 +7,4 @@ accounts:
   Linkedin:
     url: http://linkedin.com
   Instagram:
-    url: http://instagram.com
+    url: ''

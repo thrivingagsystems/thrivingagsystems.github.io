@@ -2,7 +2,6 @@
 layout: outreach-project
 title: Outreach Project 1
 enable-header: true
-enable-banner: false
 primary-image: assets/img/611-600x300-1.jpg
 image-gallery:
 - image: assets/img/news-item-1-3.jpg

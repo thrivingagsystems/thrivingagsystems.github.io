@@ -6,7 +6,7 @@ layout: default
 
 {% include top-bar.html %}
 {% if page.enable-default-header == true %}
-<div class="svg-header isolate header-bg" style="background: url('/{{ page.page-header-image }}') center center/cover no-repeat;">
+<div class="svg-header isolate {{page.title | slugify }}-banner" style="background: url('/{{ page.page-header-image }}') center center/cover no-repeat;">
   <!-- TOP BAR -->
     <div class="row header-content">
       {% if page.text-heading == '' or page.text-heading == empty or page.text-heading == null %}  
@@ -50,25 +50,23 @@ layout: default
     {% endif %}
 
     <div class="row">
-      {% if content_columns == 2 %}
+      
       {% comment %}{% two column layout%}{% endcomment %}
           <div class="small-12 medium-push-1 medium-6 large-push-1 large-5 columns head-spacing foot-spacing">
   
-                {% comment %}{% START left column content%}{% endcomment %}
                 {% include assigned-page-sections.html %}
-                {% comment %}{% END left column content%}{% endcomment %}
 
           </div>
   
   
           <div class="small-12 medium-push-1 medium-4 large-push-2 large-4 columns head-spacing foot-spacing">
-            {% assign events = site.events | reverse %}
+            {% assign events = site.news-activities | reverse %}
             {% for event in events %}
             {% if event.enable-featured-card == true %}
             {% capture featured_title %}{{event.title}}{% endcapture %}
             {% capture featured_text %}{{event.description}}{% endcapture %}
             {% capture featured_class %}{{event.class}}{% endcapture %}
-            {% capture featured_image %}{{event.card-img-url}}{% endcapture %}
+            {% capture featured_image %}{{event.image}}{% endcapture %}
             {% capture featured_url %}{{event.url}}{% endcapture %}
             {% include featured-card.html featured_class=featured_class featured_image=featured_image featured_title=featured_title featured_text=featured_text featured_url=featured_url %}
             <hr>
@@ -80,32 +78,9 @@ layout: default
             </div>
             {% endif %}
           </div>
-      {% else %}
-        
-        <div class="small-12 medium-push-1 medium-10 large-push-2 large-8 columns">
-          
-          {% include assigned-page-sections.html %}
-        </div>
-        <div class="row">
-          <hr> 
-          <div class="small-12 medium-push-1 medium-10 large-push-2 large-8 columns">
-            <div class="center-align">
-              <a href="{{ site.baseurl }}/programs/" class="large button call-to-action-btn animated-bg">See all S3 programs <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
-          </div>
-          <div class="small-12 medium-push-1 medium-10 large-push-2 large-8 columns">
-            <hr>
-            {% if page.twitter-feed == true %}
-            
-            <div class="tweet-box">
-              <a class="twitter-timeline" data-lang="en" data-height="800" data-dnt="true" href="https://twitter.com/{{ page.twitter-account }}">Tweets by {{ page.twitter-account }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div>            
+      
 
-            {% endif %}
-          </div>
-        </div>
-
-      {% endif %}
+      
       
     </div>
   </div> 

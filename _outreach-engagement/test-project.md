@@ -1,7 +1,6 @@
 ---
 layout: outreach-project
 enable-header: true
-enable-banner: false
 title: Test project
 enable-banner: false
 primary-image: assets/img/news-item-1-2.jpg

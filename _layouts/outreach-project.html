@@ -22,7 +22,7 @@ layout: page
         <hr>
         
         {% assign image = page.image-gallery %}
-        {% include image-gallery.html image=image enable_caption=true %}
+        {% include image-gallery.html display_mode='lightbox' image=image enable_caption=true %}
         
       </div>
       {% endif %}

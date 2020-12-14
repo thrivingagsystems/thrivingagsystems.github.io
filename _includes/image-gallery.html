@@ -1,21 +1,33 @@
-<div class="row small-up-1 medium-up-2 large-up-3">
-    {% if include.gallery_title %}
-        <h3>{{ include.gallery_title }}</h3>
-    {% endif %}
-    {% for item in include.image %}
-    <div class="column">
-    <a href="#{{ item.image | slugify }}">
-        <img src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail">
-        </a></li>
-        <!-- lightbox container hidden with CSS -->
-        <a href="#_" class="lightbox" id="{{ item.image | slugify }}">
-        <img src="{{ site.baseurl }}/{{ item.image }}">
-        </a>
-        {%- if item.enable_caption == true -%}
-            <p class="italic small">{{ item.alt-text }}</p>
-        {%- endif -%}
+{% if include.display_mode == lightbox %}
+
+    <div class="row small-up-1 medium-up-2 large-up-3">
+        {% if include.gallery_title %}
+            <h3>{{ include.gallery_title }}</h3>
+        {% endif %}
+        {% for item in include.image %}
+        <div class="column">
+        <a href="#{{ item.image | slugify }}">
+            <img src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail">
+            </a></li>
+            <!-- lightbox container hidden with CSS -->
+            <a href="#_" class="lightbox" id="{{ item.image | slugify }}">
+            <img src="{{ site.baseurl }}/{{ item.image }}">
+            </a>
+            {%- if item.enable_caption == true -%}
+                <p class="italic small">{{ item.alt-text }}</p>
+            {%- endif -%}
+        </div>
+        {% endfor %}
+    </div>
+{% else %}
+    
+    <div class="row small-up-3 medium-up-6">
+        {% for item in include.image %}
+        <div class="column"></div>
+        <a href="{{ item.url }}"><img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}"></a>
     </div>
     {% endfor %}
     </div>
-    
+   
+{% endif %}
     

@@ -9,13 +9,6 @@ sections:
 - type: document
   path: _data/navbar.yml
   label: Site Menu
-- type: directory
-  path: _front-page-callouts
-  label: Home Page Announcements
-  create: documents
-  match: "**/*"
-  templates:
-  - front-page-callout
 - type: document
   path: _includes/footer-content.md
   label: Footer
@@ -27,31 +20,24 @@ sections:
 - type: document
   path: pages/project-overview.html
   label: About Project Overview
-  match: "**/*"
 - type: document
   path: pages/project-objectives.html
   label: About Project Objectives
-  match: "**/*"
 - type: document
   path: pages/stakeholder-advisory-board.html
   label: About Stakeholder Adv. Board
-  match: "**/*"
 - type: document
   path: pages/outreach-engagement.html
   label: Outreach / Engagement
-  match: "**/*"
 - type: document
   path: pages/research.html
   label: Research
-  match: "**/*"
 - type: document
   path: pages/education.html
   label: Education
-  match: "**/*"
 - type: document
   path: pages/news-and-activites.html
   label: News and Activities
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -108,6 +94,13 @@ sections:
   match: "**/*"
   templates:
   - course
+- type: directory
+  path: _front-page-callouts
+  label: Home Page Announcements
+  create: documents
+  match: "**/*"
+  templates:
+  - front-page-callout
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''

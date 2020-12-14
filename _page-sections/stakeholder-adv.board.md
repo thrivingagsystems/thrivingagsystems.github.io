@@ -1,6 +1,6 @@
 ---
 enabled: true
-title: Stakeholder Adv. Board Content
+title: About Stakeholder Adv. Board Page Content
 
 ---
 ## About the Stakeholders

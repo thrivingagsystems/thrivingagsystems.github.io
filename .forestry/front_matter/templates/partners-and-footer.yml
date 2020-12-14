@@ -9,7 +9,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: Footer Text
   description: Add text here to display in the footer above the copyright notice.
 - name: partner

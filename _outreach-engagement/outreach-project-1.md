@@ -3,7 +3,7 @@ layout: outreach-project
 title: Outreach Project 1
 enable-header: false
 breadcrumbs: true
-primary-image: assets/img/611-600x300-1.jpg
+primary-image: assets/img/98-400x800.jpg
 image-gallery:
 - image: assets/img/news-item-1-3.jpg
   alt-text: alley
@@ -20,7 +20,7 @@ associated-people:
 - _people/adams-john.md
 - _people/smith-joan.md
 - _people/jobs-steve.md
-date-added: 2020-12-24 05:00:00 +0000
+date-added: 2020-12-24T05:00:00.000+00:00
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ultrices tincidunt arcu non sodales neque sodales ut. Purus viverra accumsan in nisl nisi scelerisque eu. Purus gravida quis blandit turpis cursus in. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Pharetra vel turpis nunc eget lorem dolor sed. Massa sed elementum tempus egestas sed sed risus pretium quam. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Amet consectetur adipiscing elit ut. Augue eget arcu dictum varius duis at consectetur lorem. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Ut pharetra sit amet aliquam id diam maecenas ultricies. Ipsum nunc aliquet bibendum enim. Eget arcu dictum varius duis at consectetur. Est velit egestas dui id ornare arcu odio.

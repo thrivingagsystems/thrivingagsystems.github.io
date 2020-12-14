@@ -1,0 +1,8 @@
+{% for section in site.layout-sections  %}
+    {% if section.slug == "footer-content" %}
+
+        {% assign image = section.partner%}
+        {% include image-gallery.html image=image %}
+
+    {% endif %}
+{% endfor %}

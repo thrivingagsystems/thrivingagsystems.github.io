@@ -20,9 +20,10 @@ layout: page
       <div class="small-12 columns">
         <h2>Media and Communications</h2>
         <hr>
-        {% for image in page.image-gallery %}
-        <img alt="{{ image.alt-text }}" src="/{{ image.image }}">
-        {% endfor %}
+        
+        {% assign image = page.image-gallery %}
+        {% include image-gallery.html image=image enable_caption=true %}
+        
       </div>
       {% endif %}
       <div class="small-12 columns">

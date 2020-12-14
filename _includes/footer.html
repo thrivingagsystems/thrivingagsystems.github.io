@@ -8,6 +8,8 @@
 	</div> -->
 	{% for section in site.layout-sections  %}
 		{% if section.slug == "footer-content" %}	
+			
+			<div class="column small-12"><span class="center-align">{% include partners.html %}</span></div>
 			<div class="column small-12"><span class="center-align">{{ section.content}}</span></div>
 		{% endif %}
 	{% endfor %}

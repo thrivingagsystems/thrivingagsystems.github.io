@@ -31,4 +31,3 @@ partner:
 description: This text displays in the footer.
 
 ---
-Footer content.

@@ -54,10 +54,10 @@
                 <p class="{{ site-person.professional-title }} {{include.class}}">Title: {{ site-person.professional-title }}</p>
                 {% endif %}
                 {% if include.link-to-bio-page == true and site-person.link-to-bio-page != empty and site-person.link-to-bio-page != '' and site-person.link-to-bio-page != null %}
-                <p class="{{ site-person.link-to-bio-page }} {{include.class}}">Bio: {{ site-person.link-to-bio-page }}</p>
+                <p class="{{ site-person.link-to-bio-page }} {{include.class}}">Bio: <a href="{{ site-person.link-to-bio-page }}">{{ site-person.link-to-bio-page }}</a></p>
                 {% endif %}
                 {% if include.link-to-personal-website == true and site-person.link-to-personal-website != empty and site-person.link-to-personal-website != '' and site-person.link-to-personal-website != null %}
-                <p class="{{ site-person.link-to-personal-website }} {{include.class}}">Website: {{ site-person.link-to-personal-website }}</p>
+                <p class="{{ site-person.link-to-personal-website }} {{include.class}}">Website: <a href="{{ site-person.link-to-personal-website }}">{{ site-person.link-to-personal-website }}</a></p>
                 {% endif %}
                 {% if include.linkedin == true and site-person.linkedin != empty and site-person.linkedin != '' and site-person.linkedin != null %}
                 <p class="{{ site-person.linkedin }} {{include.class}}"><a href="{{ site-person.linkedin }}">Linkedin</a></p>

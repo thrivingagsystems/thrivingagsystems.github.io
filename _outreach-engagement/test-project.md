@@ -1,8 +1,9 @@
 ---
 layout: outreach-project
-enable_header: true
+enable-header: true
+enable-banner: false
 title: Test project
-enable_banner: false
+enable-banner: false
 primary image: assets/img/news-item-1-2.jpg
 image-gallery: []
 website: http://google.com

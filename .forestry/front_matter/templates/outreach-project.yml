@@ -10,15 +10,16 @@ fields:
 - type: text
   name: title
   label: title
-- name: enable_header
+- name: enable-header
   type: boolean
   label: Enable Header
   hidden: true
   default: true
-- name: enable_banner
+- name: enable-banner
   type: boolean
   label: Enable Banner
   hidden: true
+  default: false
 - type: file
   name: primary image
   label: primary image

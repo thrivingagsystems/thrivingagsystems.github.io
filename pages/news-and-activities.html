@@ -17,7 +17,7 @@ permalink: /news-and-activities/
                  
             
             <div class="column small-12 medium-4 center">
-		        <img class="center-align"  src="{{site.baseurl}}/{{ item.image }}" width="200" />
+		        <a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" ><img class="center-align"  src="{{site.baseurl}}/{{ item.image }}" width="200" /></a>
 		    </div>
 		    <div class="column small-12 medium-8">
 		        <h3 class="show-for-medium">{{ item.title }}</h3>
@@ -25,7 +25,7 @@ permalink: /news-and-activities/
 		        <p> {{ item.event-date }}</p>
                 <p> {{ item.description  }}</p>
                 {% if item.enable-button-link == true %}
-                    <a href="{{ item.button-url }}">{{ item.button-text }}</a>
+                <a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" >Read more</a>
                 {% endif%}
             </div>
             
@@ -38,9 +38,7 @@ permalink: /news-and-activities/
 		        <h3 class="show-for-small-only center-align">{{ item.title }}</h3>
 		        <p> {{ item.event-date }}</p>
                 <p> {{ item.description  }}</p>
-                {% if item.enable-button-link == true %}
-                    <a href="{{ item.button-url }}">{{ item.button-text }}</a>
-                {% endif%}
+                <a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" >Read more</a>
             </div>
 
             {% endif %}

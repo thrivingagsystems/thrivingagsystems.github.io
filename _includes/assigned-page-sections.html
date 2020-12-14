@@ -1,5 +1,5 @@
 {% if page.page-sections != empty and page.page-sections != '' and page.page-sections != null %}
-    {% assign site-sections = site.page-sections | map: 'relative_path' | uniq %}
+    {% assign site-sections = site.page-sections %}
     {% assign assigned-sections = page.page-sections %}
     {% for assigned-section in assigned-sections %}
         {% for site-section in site-sections %}

@@ -1,7 +1,6 @@
 ---
 enabled: true
 title: Overview
-published: false
 
 ---
 ## Project Overview

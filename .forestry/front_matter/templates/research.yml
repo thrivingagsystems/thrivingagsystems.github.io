@@ -15,6 +15,10 @@ fields:
   label: Enable Header
   hidden: true
   default: true
+- name: enable-banner
+  type: boolean
+  label: Enable Banner
+  hidden: true
 - type: file
   name: primary image
   label: primary image
@@ -60,7 +64,3 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: enable-banner
-  type: boolean
-  label: Enable Banner
-  hidden: true

@@ -2,16 +2,6 @@
 label: Partners
 hide_body: true
 fields:
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: Footer Text
-  description: Add text here to display in the footer above the copyright notice.
 - name: partner
   type: field_group_list
   fields:
@@ -42,5 +32,15 @@ fields:
     labelField: name
   label: Partners
   description: Add an image and link to partnering institutions.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Footer Text
+  description: Add text here to display in the footer above the copyright notice.
 pages:
 - _layout-sections/footer-content.md

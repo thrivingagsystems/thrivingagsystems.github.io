@@ -1,6 +1,7 @@
 ---
 label: Page section
 hide_body: false
+display_field: title
 fields:
 - type: boolean
   name: enabled

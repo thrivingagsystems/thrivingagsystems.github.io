@@ -3,7 +3,7 @@ layout: outreach-project
 title: Outreach Project 1
 enable-header: true
 enable-banner: false
-primary image: ''
+primary-image: ''
 image-gallery:
 - image: gallery-image-1.jpg
   alt-text: Image 1

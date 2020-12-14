@@ -4,7 +4,7 @@ enable-header: true
 enable-banner: false
 title: Test project
 enable-banner: false
-primary image: assets/img/news-item-1-2.jpg
+primary-image: assets/img/news-item-1-2.jpg
 image-gallery: []
 website: http://google.com
 linkedin: ''

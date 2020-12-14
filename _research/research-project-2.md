@@ -3,7 +3,7 @@ layout: research-project
 title: Research Project 2
 enable-header: true
 enable-banner: false
-primary image: assets/img/241-400x400-1.jpg
+primary-image: assets/img/241-400x400-1.jpg
 image-gallery:
 - image: assets/img/1067-300x300-1.jpg
   alt-text: City from above

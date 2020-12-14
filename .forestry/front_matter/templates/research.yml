@@ -21,7 +21,7 @@ fields:
   hidden: true
   default: false
 - type: file
-  name: primary image
+  name: primary-image
   label: primary image
 - type: field_group_list
   name: image-gallery

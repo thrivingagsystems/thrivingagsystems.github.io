@@ -27,6 +27,10 @@ fields:
 - type: textarea
   name: description
   label: description
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - type: boolean
   name: enable-button-link
   label: enable-button-link

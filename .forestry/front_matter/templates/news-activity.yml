@@ -5,7 +5,12 @@ fields:
 - type: text
   name: layout 
   label: layout
-  default: single-column
+  default: news-activity
+  hidden: true
+- type: text
+  name: enable-header 
+  label: enable-header
+  default: false
   hidden: true
 - type: text
   name: title

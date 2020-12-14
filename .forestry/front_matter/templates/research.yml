@@ -14,7 +14,7 @@ fields:
   type: boolean
   label: Enable Header
   hidden: true
-  default: true
+  default: false
 - name: enable-banner
   type: boolean
   label: Enable Banner

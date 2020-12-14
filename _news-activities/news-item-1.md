@@ -1,6 +1,7 @@
 ---
-layout: single-column
+layout: news-activity
 title: News Item 1
+enable-header: false
 enable-image: true
 image: assets/img/news-item-1-1.jpg
 event-date: 01/01/2021

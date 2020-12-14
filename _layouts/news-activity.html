@@ -1,0 +1,44 @@
+---
+layout: page
+---
+<div class="row head-spacing foot-spacing">
+		    
+  
+  {% if page.enable-image == true and page.image != empty and page.image != null and page.image != '' %}
+      
+
+       
+  
+  <div class="column small-12 medium-4 center">
+  <img class="center-align"  src="{{site.baseurl}}/{{ page.image }}" width="200" />
+</div>
+<div class="column small-12 medium-8">
+  <h3 class="show-for-medium">{{ page.title }}</h3>
+  <h3 class="show-for-small-only center-align">{{ page.title }}</h3>
+  <p> {{ page.event-date }}</p>
+      <p> {{ page.description  }}</p>
+      {% if page.enable-button-link == true %}
+          <a href="{{ page.button-url }}">{{ page.button-text }}</a>
+      {% endif%}
+  </div>
+  
+
+  
+  {% else %}
+
+<div class="column small-12 medium-12">
+  <h3 class="show-for-medium">{{ page.title }}</h3>
+  <h3 class="show-for-small-only center-align">{{ page.title }}</h3>
+  <p> {{ page.event-date }}</p>
+      <p> {{ page.description  }}</p>
+      {% if page.enable-button-link == true %}
+          <a href="{{ page.button-url }}">{{ page.button-text }}</a>
+      {% endif%}
+  </div>
+
+  {% endif %}
+
+
+
+
+</div>

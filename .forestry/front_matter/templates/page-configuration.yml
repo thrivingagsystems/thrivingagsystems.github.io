@@ -31,4 +31,5 @@ fields:
     Make sure the page section is published, then choose that section from this list
     and press save.
 pages:
+- pages/outreach-engagement.html
 - pages/project-objectives.html

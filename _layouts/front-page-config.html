@@ -51,22 +51,16 @@ layout: default
     <div class="row">
       {% if content_columns == 2 %}
       {% comment %}{% two column layout%}{% endcomment %}
-          <div class="small-12 medium-push-1 medium-6 large-push-1 large-5 columns">
-            {% assign sections_array = site.page-sections | where: 'enable-on-page', page.title %}
-            {% include page-section.html sections-array=sections_array %}
-            <div class="row">
-              
-              <div class="small-12 columns head-spacing foot-spacing">
-                
+          <div class="small-12 medium-push-1 medium-6 large-push-1 large-5 columns head-spacing foot-spacing">
+  
                 {% comment %}{% START left column content%}{% endcomment %}
+                {% include assigned-page-sections.html %}
                 {% comment %}{% END left column content%}{% endcomment %}
 
-              </div>
-            </div>
           </div>
   
   
-          <div class="small-12 medium-push-1 medium-4 large-push-2 large-4 columns">
+          <div class="small-12 medium-push-1 medium-4 large-push-2 large-4 columns head-spacing foot-spacing">
             {% assign events = site.events | reverse %}
             {% for event in events %}
             {% if event.enable-featured-card == true %}
@@ -88,8 +82,8 @@ layout: default
       {% else %}
         
         <div class="small-12 medium-push-1 medium-10 large-push-2 large-8 columns">
-          {% assign sections_array = site.page-sections | where: 'enable-on-page', page.title %}
-          {% include page-section.html sections-array=sections_array %}
+          
+          {% include assigned-page-sections.html %}
         </div>
         <div class="row">
           <hr> 

@@ -1,11 +1,15 @@
-{% assign site-sections = site.page-sections %}
-{% assign assigned-sections = page.page-sections %}
-{% for assigned-section in assigned-sections %}
-    {% for site-section in site-sections %}
-        {% if site-section.relative_path == assigned-section  %}
-        <div class="{{ site-section.title | slug }}-content">
-        {{ site-section.content }}
-         </div>
-        {% endif %}
+{% if page.page-sections != empty and page.page-sections != '' and page.page-sections != null %}
+    <div class="foot-spacing">
+    {% assign site-sections = site.page-sections %}
+    {% assign assigned-sections = page.page-sections %}
+    {% for assigned-section in assigned-sections %}
+        {% for site-section in site-sections %}
+            {% if site-section.relative_path == assigned-section  %}
+            <div class="{{ site-section.title | slugify }} page-section">
+            {{ site-section.content }}
+            </div>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
-{% endfor %}
+    </div>
+{% endif %}

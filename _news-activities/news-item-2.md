@@ -3,7 +3,7 @@ layout: news-activity
 title: News Item 2
 enable-header: ''
 breadcrumbs: true
-enable-image: true
+enable-image: false
 image: assets/img/1067-300x300-3.jpg
 event-date: 01/02/2021
 description: You'll never believe what happened! First this happened. Then, this other
@@ -13,7 +13,7 @@ enable-button-link: true
 button-text: Go to the Evenbrite Page
 button-url: http://google.com
 date-added: 
-date_added: 
+date_added: 2020-12-18 05:00:00 +0000
 enable-featured-card: true
 
 ---

@@ -31,5 +31,6 @@ fields:
   name: instagram
   label: instagram
 pages:
+- _people/collins-michael.md
 - _people/jobs-steve.md
 - _people/smith-joan.md

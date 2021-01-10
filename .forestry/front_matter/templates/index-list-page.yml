@@ -14,6 +14,14 @@ fields:
 - type: boolean
   name: enable-banner
   label: enable-banner
+- name: page-header-image
+  type: file
+  config:
+    maxSize: 2
+  label: Page Header Image
+  showOnly:
+    field: enable-banner
+    value: true
 - type: boolean
   name: enable-header
   label: enable-header

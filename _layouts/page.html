@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
+
 {% if page.enable-header == true %}
-<div class="{{ page.title | slugify }}-header header-bg">
-    <!-- TOP BAR -->
-    {% include top-bar.html %}
-    <!-- END TOP BAR -->
+{% include top-bar.html %}
     {% if page.enable-banner == true %}
-    <div class="row quote-row">
-        <div class="small-12 columns">
-            <h1 class="secondary-page-heading">{{ page.title }}</h1>
+        <div class="svg-header isolate {{page.title | slugify }}-banner" style="background: url('/{{ page.image }}') center center/cover no-repeat;">
+          <div class="row header-content">
+            {% if page.text-heading == '' or page.text-heading == empty or page.text-heading == null %}  
+            {% else %}
+            <div class="small-12 center columns">
+              <h2 class="header-attn-text">{{ page.text-heading}}</h2>
+              </div>
+            {% endif %}
+          </div>
         </div>
-        <div class="small-12 columns">
-            <h2 class="quote">{{page.tagline}}</h2>
-        </div>
-    </div>
     {% endif %}
-</div>
 {% else%}
 
 {% include top-bar.html %}

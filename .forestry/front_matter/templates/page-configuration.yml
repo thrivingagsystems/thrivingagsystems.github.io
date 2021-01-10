@@ -8,18 +8,30 @@ fields:
   label: layout
   default: single-column-wide
   hidden: true
-- type: text
-  name: title
-  label: title
-- type: boolean
-  name: enable-banner
-  label: enable-banner
 - type: boolean
   name: enable-header
   label: enable-header
+  hidden: true
+  default: true
+- type: text
+  name: title
+  label: Title
+- type: boolean
+  name: enable-banner
+  label: Enable Banner
+- name: image
+  type: file
+  config:
+    maxSize: 2
+  label: Banner Image
+  showOnly:
+    field: enable-banner
+    value: true
+  description: Upload images less than 2MB. Ideally, this will be web optimized and
+    would be under 500KB.
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
   description: If you change this link, you must manually update the Site Menu in
     the Site Configuration section.
 - name: page-sections

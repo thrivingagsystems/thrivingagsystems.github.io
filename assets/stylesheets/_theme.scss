@@ -1,6 +1,9 @@
 //
 // Foundation-Jekyll - Custom Theme Styles
 //
+// Font families
+$roboto: 'Roboto', Consolas, Monospace;
+$open-sans: 'Open Sans', sans-serif;
 // Color overrides
 $black:#000;
 $soft-grey:#999;
@@ -117,7 +120,7 @@ $menu-dropdown-bg:#000;
 h1, h2, h3, h4, h5, h6{
 	font-weight: 200;
 	// font-family: 'Roboto Mono', Helvetica, Roboto, Arial, sans-serif;
-	font-family: "Oswald","Impact","Tahoma",sans-serif;
+	font-family: $open-sans;
 	color: $heading-color;
 	text-transform: uppercase;
 	color: $menu-dropdown-bg;
@@ -184,7 +187,7 @@ h3{
 }
 
 body {
-	font-family: "Roboto Mono", Consolas, Monospace;
+	font-family: $roboto;
 }
 a {
 	color:#000;
@@ -298,7 +301,7 @@ span.highlight{
 	margin-top: 3.5rem;
 	margin-bottom: 3.5rem;
 	font-size: 5rem;
-    font-family: "Source code pro", monospace;
+    font-family: $open-sans;
     font-weight: 400;
     line-height: 5rem;
     padding: 0 3rem;
@@ -329,7 +332,7 @@ span.highlight{
 }
 .tabs-content{
 	border: 0;
-	min-height: 60vh;
+	min-height: 75vh;
 }
 .secondary-tabs-row {
     position: relative;
@@ -612,3 +615,7 @@ li.orbit-slide {
 	.home-banner {
 		min-height: 60vh;
 	}
+
+.header-attn-text {
+	font-size: 4rem;
+}

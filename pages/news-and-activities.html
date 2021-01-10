@@ -8,45 +8,39 @@ page-sections: []
 
 ---
 {% assign items = site.news-activities | sort: 'date-added' | reverse %}
-		{% for item in items %}
-		<div class="row head-spacing foot-spacing">
-		    
-  
-            {% if item.enable-image == true and item.image != empty and item.image != null and item.image != '' %}
-                
+{% for item in items %}
+<div class="row head-spacing foot-spacing">
+	
+	{% if item.enable-image == true and item.image != empty and item.image != null and item.image != '' %}
+	
+	
+	<div class="column small-12 medium-4 center">
+		<a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" ><img class="center-align"  src="{{site.baseurl}}/{{ item.image }}" width="200" /></a>
+	</div>
+	<div class="column small-12 medium-8">
+		<h3 class="show-for-medium">{{ item.title }}</h3>
+		<h3 class="show-for-small-only center-align">{{ item.title }}</h3>
+		<p> {{ item.event-date }}</p>
+		<p> {{ item.description  }}</p>
+		{% if item.enable-button-link == true %}
+		<a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" >Read more</a>
+		{% endif%}
+	</div>
+	
 
-                 
-            
-            <div class="column small-12 medium-4 center">
-		        <a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" ><img class="center-align"  src="{{site.baseurl}}/{{ item.image }}" width="200" /></a>
-		    </div>
-		    <div class="column small-12 medium-8">
-		        <h3 class="show-for-medium">{{ item.title }}</h3>
-		        <h3 class="show-for-small-only center-align">{{ item.title }}</h3>
-		        <p> {{ item.event-date }}</p>
-                <p> {{ item.description  }}</p>
-                {% if item.enable-button-link == true %}
-                <a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" >Read more</a>
-                {% endif%}
-            </div>
-            
+	
+	{% else %}
 
-            
-            {% else %}
+	<div class="column small-12 medium-12">
+		<h3 class="show-for-medium">{{ item.title }}</h3>
+		<h3 class="show-for-small-only center-align">{{ item.title }}</h3>
+		<p> {{ item.event-date }}</p>
+		<p> {{ item.description  }}</p>
+		<a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" >Read more</a>
+	</div>
 
-		    <div class="column small-12 medium-12">
-		        <h3 class="show-for-medium">{{ item.title }}</h3>
-		        <h3 class="show-for-small-only center-align">{{ item.title }}</h3>
-		        <p> {{ item.event-date }}</p>
-                <p> {{ item.description  }}</p>
-                <a alt="{{item.title}}" href="{{site.baseurl}}{{item.url}}" >Read more</a>
-            </div>
+	{% endif %}
 
-            {% endif %}
-
-
-
-
-		</div>
-		<hr>
-		{% endfor %}
+</div>
+<hr>
+{% endfor %}

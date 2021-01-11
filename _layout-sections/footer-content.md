@@ -31,7 +31,7 @@ partner:
 description: "<p>This text will display in the footer.</p>"
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
-project-sponsor-logo: ''
+project-sponsor-logo: assets/img/usda-logo-color.png
 project-sponsor-description: ''
 
 ---

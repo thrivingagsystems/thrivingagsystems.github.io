@@ -6,10 +6,10 @@ enable-header: true
 permalink: "/education/"
 page-sections:
 - _page-sections/education.md
-page-header-image: assets/img/james-baltz-sdcnfqxisv4-unsplash.jpg
+image: assets/img/james-baltz-sdcnfqxisv4-unsplash.jpg
 
 ---
-<img src="assets/img/james-baltz-sdcnfqxisv4-unsplash.jpg">{% assign items = site.courses | sort: 'date-added' | reverse %}
+{% assign items = site.courses | sort: 'date-added' | reverse %}
 {% for item in items %}
 <div class="row head-spacing foot-spacing">
     

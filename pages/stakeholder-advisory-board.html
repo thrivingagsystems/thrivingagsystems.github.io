@@ -9,7 +9,7 @@ page-sections:
 image: assets/img/wolfgang-hasselmann-o9djtuw2_jq-unsplash.jpg
 
 ---
-<img src="assets/img/wolfgang-hasselmann-o9djtuw2_jq-unsplash.jpg">{% assign groups = site.stakeholder-groups | sort: "page-order" %}
+{% assign groups = site.stakeholder-groups | sort: "page-order" %}
 {% for group in groups %}
 <h2>{{group.title}}</h2>
 <p>{{ group.description}}</p>

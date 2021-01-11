@@ -9,7 +9,7 @@ page-sections:
 image: assets/img/roger-starnes-sr-q9vusvh5e_i-unsplash.jpg
 
 ---
-<img src="assets/img/roger-starnes-sr-q9vusvh5e_i-unsplash.jpg">{% assign teams = site.objective-teams | sort: "page-order" %}
+{% assign teams = site.objective-teams | sort: "page-order" %}
 {% for team in teams %}
 <h2>{{team.title}}</h2>
 <p>{{ team.description}}</p>

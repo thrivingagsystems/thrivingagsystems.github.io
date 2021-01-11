@@ -8,9 +8,27 @@
 	</div> -->
 	{% for section in site.layout-sections  %}
 		{% if section.slug == "footer-content" %}	
-		<div class="column small-12"><span class="center-align">PSU LOGO HERE</span><hr></div>
+		<div class="column small-12"><span class="center-align">
+			
+			{% for section in site.layout-sections  %}
+				{% if section.slug == "footer-content" %}
+				<span class="center-align project-lead-logo"><img src="{{site.baseurl}}/{{ section.project-lead-logo }}"></span>
+				{% endif %}
+			{% endfor %}
+			<hr>
+		
+		</div>
 			<div class="column small-12"><span class="center-align">{% include partners.html %}</span><hr></div>
-			<div class="column small-12"><span class="center-align">USDA LOGO AND TEXT HERE</span><hr></div>
+			<div class="column small-12"><span class="center-align">
+			
+				{% for section in site.layout-sections  %}
+					{% if section.slug == "footer-content" %}		
+					<span class="center-align project-sponsor-logo"><img src="{{site.baseurl}}/{{ section.project-sponsor-logo }}"></span>
+					{% endif %}
+				{% endfor %}
+				<hr>
+
+			</div>
 			<div class="column small-12"><span class="center-align">{{ section.description}}</span></div>
 		{% endif %}
 	{% endfor %}

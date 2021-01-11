@@ -29,7 +29,7 @@ partner:
   enable-image-link: false
   url: ''
 description: "<p>This text will display in the footer.</p>"
-project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
+project-lead-logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color.png
 project-sponsor-description: USDA Description Text.

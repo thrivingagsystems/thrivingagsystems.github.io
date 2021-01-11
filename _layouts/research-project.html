@@ -16,14 +16,14 @@ layout: page
 
     {{ content }}
     
-    <div class="row head-spacing foot-spacing">
-      <div class="small-12 columns">
+    <div class="row">
+      <div class="small-12 columns head-spacing">
         <h2>Media and Communications</h2>
         <hr>
         {% assign image = page.image-gallery %}
         {% include image-gallery.html display_mode='lightbox' image=image enable_caption=true %}
       </div>
-      <div class="small-12 columns">
+      <div class="small-12 columns head-spacing foot-spacing">
         <h2>Project Team</h2>
         <hr>
         {% include associated-people.html display-card=true display-raw=false name=true image=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}

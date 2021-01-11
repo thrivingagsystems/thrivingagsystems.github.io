@@ -13,22 +13,9 @@ image: assets/img/roger-starnes-sr-q9vusvh5e_i-unsplash.jpg
 {% for team in teams %}
 <h2>{{team.title}}</h2>
 <p>{{ team.description}}</p>
-    {% assign people = team.associated-people %}
-    {{people | inspect }}
-    {% assign people_array = people %}
+    {% assign people_array = team.associated-people %}
     {% include associated-people.html custom_array=true array=people_array display-card=true display-raw=false name=true image=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}
-    {% if people != 0 %}
-        {% for person_name in people %}
-        
-        {% assign person_array = site.people | where: "name", person_name %}
-            
-        {% for person in person_array %}
-            <h3>{{ person.name }}</h3>
-            <p>{{ person.professional-title }}</p>
-            <p>{{ person.email }}</p>
-            {% endfor %}
-        {% endfor %}
-    {% endif %}
+    
 {% endfor %}
 
 

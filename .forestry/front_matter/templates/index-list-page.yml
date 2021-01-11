@@ -13,20 +13,20 @@ fields:
   label: enable-header
   default: true
   hidden: true
-- type: text
-  name: title
-  label: title
 - type: boolean
   name: enable-banner
   label: enable-banner
-- name: page-header-image
+- name: image
   type: file
   config:
     maxSize: 2
-  label: Page Header Image
+  label: Banner Image
   showOnly:
     field: enable-banner
     value: true
+- type: text
+  name: title
+  label: title
 - type: text
   name: permalink
   label: permalink

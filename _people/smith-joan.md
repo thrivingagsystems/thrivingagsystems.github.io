@@ -8,5 +8,6 @@ linkedin: http://linkedin.com
 twitter: http://twitter.com
 facebook: http://facebook.com
 instagram: http://instagram.com
+image: assets/img/150-1.jpg
 
 ---

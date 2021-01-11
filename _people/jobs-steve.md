@@ -8,5 +8,6 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
+image: assets/img/150.jpg
 
 ---

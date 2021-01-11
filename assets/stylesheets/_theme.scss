@@ -115,14 +115,15 @@ $orange:#F7941E;
 
 $main-accent-color:#A80532;
 $heading-color:#fff;
-$menu-dropdown-bg:#000;
+$menu-dropdown-bg:rgba(29,143,0,0.9);
+$text-heading-color:rgb(39, 39, 39);
 
 h1, h2, h3, h4, h5, h6{
 	font-weight: 200;
 	font-family: $open-sans;
 	color: $heading-color;
 	text-transform: uppercase;
-	color: $menu-dropdown-bg;
+	color: $text-heading-color;
 	&.title {
 		font-weight: 700;
 
@@ -304,7 +305,7 @@ span.highlight{
 
 }
 .button {
-	background-color:#A80532;
+	background-color:rgba(29,143,0,0.9);
 }
 .center-align {
 	text-align: center;
@@ -440,13 +441,12 @@ a.accordion-title:hover, a.accordion-title:focus{
 	background-color: $white !important;
 }
 // S3R3
-.s3r3-callout {
+.callout {
 	background-color:#eeeeee;
 	max-width:100%;
 	padding: 3rem 3rem;
 }
-.s3r3-inner {
-	// border: 1px solid #ccc;
+.callout-inner {
 	padding: 1rem 1rem 0 1rem;
 }
 .thirds {
@@ -583,7 +583,7 @@ li.orbit-slide {
 }
 
 .social-icons-row {
- background: #8a8a8a;
+ background: #c7c7c7;
  padding: 4rem 0;
  margin: 0; 
 }
@@ -649,7 +649,7 @@ li.orbit-slide {
 	border-radius: 0px;
 	padding:0.5rem 1rem ;
 	font-weight:800;
-	color: rgba(0,0,0,0.75);
+	color: rgba(255,255,255,1);
 	// background-color:rgba(0,0,0,0.5);
 	// text-shadow: 0px 3px 20px rgba(0,0,0,0.8);
 	// mix-blend-mode: multiply;

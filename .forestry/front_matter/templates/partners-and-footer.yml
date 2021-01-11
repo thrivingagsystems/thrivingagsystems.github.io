@@ -16,6 +16,11 @@ fields:
     schema:
       format: markdown
   label: Project Lead Description
+- name: project-lead-link
+  type: text
+  config:
+    required: false
+  label: Project Lead Link
 - name: partner
   type: field_group_list
   fields:
@@ -60,6 +65,11 @@ fields:
     schema:
       format: markdown
   label: Project Sponsor Description
+- name: project-sponsor-link
+  type: text
+  config:
+    required: false
+  label: Project Sponsor Link
 - name: description
   type: textarea
   default: ''

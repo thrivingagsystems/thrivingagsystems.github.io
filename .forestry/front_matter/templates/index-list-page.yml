@@ -8,6 +8,9 @@ fields:
   label: layout
   default: index-list
   hidden: true
+- type: text
+  name: title
+  label: title
 - type: boolean
   name: enable-header
   label: enable-header
@@ -24,9 +27,6 @@ fields:
   showOnly:
     field: enable-banner
     value: true
-- type: text
-  name: title
-  label: title
 - type: text
   name: permalink
   label: permalink

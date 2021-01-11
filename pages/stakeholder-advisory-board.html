@@ -6,9 +6,10 @@ enable-header: true
 permalink: "/about/stakeholder-advisory-board/"
 page-sections:
 - _page-sections/stakeholder-adv.board.md
+image: assets/img/wolfgang-hasselmann-o9djtuw2_jq-unsplash.jpg
 
 ---
-{% assign groups = site.stakeholder-groups | sort: "page-order" %}
+<img src="assets/img/wolfgang-hasselmann-o9djtuw2_jq-unsplash.jpg">{% assign groups = site.stakeholder-groups | sort: "page-order" %}
 {% for group in groups %}
 <h2>{{group.title}}</h2>
 <p>{{ group.description}}</p>

@@ -5,9 +5,10 @@ enable-banner: true
 enable-header: true
 permalink: "/news-activities/"
 page-sections: []
+page-header-image: assets/img/priscilla-du-preez-tgtwkddicn4-unsplash.jpg
 
 ---
-{% assign items = site.news-activities | sort: 'date-added' | reverse %}
+<img src="assets/img/priscilla-du-preez-tgtwkddicn4-unsplash.jpg">{% assign items = site.news-activities | sort: 'date-added' | reverse %}
 {% for item in items %}
 <div class="row head-spacing foot-spacing">
 	

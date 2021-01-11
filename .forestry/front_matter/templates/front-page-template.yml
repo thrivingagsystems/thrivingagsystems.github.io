@@ -42,9 +42,9 @@ fields:
   default: true
 - type: boolean
   name: enable-callouts
-  label: Enable Callouts
-  description: You can add  and edit callouts in the content section called "Front
-    Page Callouts."
+  label: Enable Announcements
+  description: You can add and edit callouts in the content section called "Home Page
+    Announcements."
 - type: boolean
   name: enable-featured-events
   label: Enable Featured Event Cards

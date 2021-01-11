@@ -464,6 +464,12 @@ img.logo {
 }
 
 // Mega menu
+li.mega-menu a {
+	cursor:default;
+}
+li.mega-menu-sub-item-link a {
+	cursor:pointer;
+}
 .mega-menu .dropdown-pane {
 	// width: 100vw;
 	// max-width: 100vw;

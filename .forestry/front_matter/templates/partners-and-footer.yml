@@ -2,6 +2,20 @@
 label: Partners
 hide_body: true
 fields:
+- name: project_lead_logo
+  type: file
+  config:
+    maxSize: 2
+  label: Project Lead Logo
+- name: project-lead-description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Project Lead Description
 - name: partner
   type: field_group_list
   fields:
@@ -32,6 +46,20 @@ fields:
     labelField: name
   label: Partners
   description: Add an image and link to partnering institutions.
+- name: project-sponsor-logo
+  type: file
+  config:
+    maxSize: 64
+  label: Project Sponsor Logo
+- name: project-sponsor-description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Project Sponsor Description
 - name: description
   type: textarea
   default: ''

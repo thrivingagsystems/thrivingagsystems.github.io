@@ -7,10 +7,10 @@ layout: default
     {% if page.enable-banner == true %}
         <div class="isolate page-banner {{page.title | slugify }}-banner" style="background: url('/{{ page.image }}') center center/cover no-repeat;">
           <div class="row header-content">
-            {% if page.text-heading == '' or page.text-heading == empty or page.text-heading == null %}  
+            {% if page.title == '' or page.title == empty or page.title == null %}  
             {% else %}
             <div class="small-12 center columns">
-              <h2 class="header-attn-text">{{ page.text-heading}}</h2>
+              <!-- <h2 class="header-attn-text">{{ page.title}}</h2> -->
               </div>
             {% endif %}
           </div>

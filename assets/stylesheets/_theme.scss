@@ -119,20 +119,28 @@ $menu-dropdown-bg:#000;
 
 h1, h2, h3, h4, h5, h6{
 	font-weight: 200;
-	// font-family: 'Roboto Mono', Helvetica, Roboto, Arial, sans-serif;
 	font-family: $open-sans;
 	color: $heading-color;
 	text-transform: uppercase;
 	color: $menu-dropdown-bg;
+	&.title {
+		font-weight: 700;
+
+		a {
+			font-weight: 700;
+			text-decoration: underline;
+		}
+	}
 	a {
 		text-decoration: underline;
+		
 	}
 }
 h3 {
 	text-transform: none;
 	color: #333;
 	a {
-		font-weight: 400;
+		font-weight: 700;
 	}
 }
 p {
@@ -185,7 +193,14 @@ h3{
 	}
 
 }
+.medium {
+	&-padding {
+		&-top {
+			padding-top:2rem;
+		}
+	}
 
+}
 body {
 	font-family: $roboto;
 }
@@ -251,7 +266,7 @@ span.highlight{
 }
 .menu .active>a {
     color: #fff !important;
-    background: #000;
+    background: rgba(29, 143, 0, 0.9);
     border-radius: 6px;
     margin-right:0.25rem;
 }
@@ -431,7 +446,7 @@ a.accordion-title:hover, a.accordion-title:focus{
 	padding: 3rem 3rem;
 }
 .s3r3-inner {
-	border: 1px solid #ccc;
+	// border: 1px solid #ccc;
 	padding: 1rem 1rem 0 1rem;
 }
 .thirds {
@@ -516,6 +531,9 @@ div.featured-card {
 	.featured-card {
 		padding:0 1rem;
 	}
+	img {
+		min-width:100%;
+	}
 }
 
 // ANIMATED CALLOUT BUTTON
@@ -555,8 +573,8 @@ li.orbit-slide {
 }
 
 .tweet-box {
-	background-color: #efefef;
-	border-radius:10px;
+	background-color: transparent;
+	border-radius:0;
 	padding:5px 5px 0px;
 }
 
@@ -572,9 +590,19 @@ li.orbit-slide {
 
 /** LIGHTBOX MARKUP **/
 .thumbnail {
-	// max-width: 40%;
+	border:4px solid rgb(116, 116, 116);
+	box-shadow: none;
+	display: inline-block;
+	line-height: 0;
+	max-width: 100%;
+	transition: border 200ms ease-out;
+	border-radius: 0;
+	margin-bottom: 1rem;
+	&:hover, &:focus {
+		border:4px solid #000;
+		box-shadow: none;
 	}
-	
+}
 	.italic { font-style: italic; }
 	.small { font-size: 0.8em; }
 	
@@ -618,4 +646,11 @@ li.orbit-slide {
 
 .header-attn-text {
 	font-size: 4rem;
+	border-radius: 0px;
+	padding:0.5rem 1rem ;
+	font-weight:800;
+	color: rgba(0,0,0,0.75);
+	// background-color:rgba(0,0,0,0.5);
+	// text-shadow: 0px 3px 20px rgba(0,0,0,0.8);
+	// mix-blend-mode: multiply;
 }

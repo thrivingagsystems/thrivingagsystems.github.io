@@ -6,9 +6,9 @@ layout: default
 
 {% include top-bar.html %}
 {% if page.enable-default-header == true %}
-<div class="svg-header isolate {{page.title | slugify }}-banner" style="background: url('/{{ page.page-header-image }}') center center/cover no-repeat;">
+<div class=" isolate {{page.title | slugify }}-banner" style="background: url('/{{ page.page-header-image }}') center center/cover no-repeat;">
   <!-- TOP BAR -->
-    <div class="row header-content">
+    <div class="row header-content front-page-header">
       {% if page.text-heading == '' or page.text-heading == empty or page.text-heading == null %}  
       {% else %}
       <div class="small-12 center columns">
@@ -75,8 +75,9 @@ layout: default
                 {% capture featured_text %}{{event.description | truncate: 20, '...' }}{% endcapture %}
                 {% capture featured_class %}{{event.class}}{% endcapture %}
                 {% capture featured_image %}{{event.image}}{% endcapture %}
+                {% capture featured_enable_image %}{{event.enable-image}}{% endcapture %}
                 {% capture featured_url %}{{event.url}}{% endcapture %}
-                {% include featured-card.html featured_class=featured_class featured_image=featured_image featured_title=featured_title featured_text=featured_text featured_url=featured_url %}
+                {% include featured-card.html featured_class=featured_class featured_image=featured_image featured_enable_image=featured_enable_image featured_title=featured_title featured_text=featured_text featured_url=featured_url %}
               
               {% endif %}
             {% endfor %}

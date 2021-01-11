@@ -183,10 +183,21 @@ svg {
   padding-top:20vh;
   padding-bottom:20vh;
   min-height:60vh;
+  &.front-page-header {
+    min-height:80vh;
+  }
+  @media #{$medium-only} {
+    &.front-page-header {
+      min-height:60vh;
+    }
+  }
   @media #{$small-only} {
-		padding-top: 5vh;
+    padding-top: 5vh;
     padding-bottom: 5vh;
     min-height:40vh;
+    &.front-page-header {
+      min-height:40vh;
+    }
 	}
 }
 
@@ -195,6 +206,7 @@ svg {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   // height:$header-height;
   // margin-top: 20vh;
   resize: vertical;

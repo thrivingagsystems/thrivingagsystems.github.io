@@ -4,34 +4,9 @@ title: Home Page Content
 heading: About the Project
 
 ---
-# H1 Heading
 
-## H2 Heading
+### The Thriving Ag Project Story 
 
-### H3 Heading
+A sustainable and economically viable agriculture is essential for the future of our environment and quality of life. Support for functional, healthy ecosystems and profitable farming is necessary for this future. Agricultural systems that will benefit urbanized landscapes, the metropolitan counties, and areas surrounding these metropolitan counties, will help to sustain agriculture and enhance ecosystem services. The focus on urbanized landscapes is important because two-thirds of US net farm income comes from these areas. Sustainability is threatened in urbanized areas with the increase in competition for land and water, therefore it is crucial that the benefits of the agricultural systems are recognized.
 
-#### H4 Heading
-
-##### H5 Heading
-
-###### H6 Heading
-
-**Lorem ipsum dolor sit amet**, _consectetur adipiscing elit_, sed [do eiusmod tempor](http://google.com "http://google.com") incididunt ut labore et dolore magna **_aliqua_**. Elit at imperdiet dui accumsan sit amet nulla. Nulla aliquet enim tortor at auctor urna nunc. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eget magna fermentum iaculis eu non diam phasellus. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Nec feugiat nisl pretium fusce. Pellentesque eu tincidunt tortor aliquam. Nibh venenatis cras sed felis eget velit aliquet sagittis.
-
-> Tellus mauris a diam maecenas sed enim ut. Lobortis mattis aliquam faucibus purus in massa tempor. Eget mi proin sed libero enim sed faucibus. Eget aliquet nibh praesent tristique magna. Habitant morbi tristique senectus et netus et malesuada fames ac. Quam id leo in vitae turpis. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor.
-
-Dictum sit amet justo donec enim diam vulputate ut. Volutpat commodo sed egestas egestas fringilla phasellus. Iaculis urna id volutpat lacus laoreet non curabitur gravida arcu. A pellentesque sit amet porttitor. Accumsan lacus vel facilisis volutpat est.
-
-* Item one
-* Item two
-* Item three
-
-Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel. Ultrices dui sapien eget mi proin sed libero. Sapien eget mi proin sed libero enim sed faucibus. Id semper risus in hendrerit gravida rutrum quisque. Et netus et malesuada fames ac turpis egestas. Risus feugiat in ante metus dictum at tempor. Maecenas volutpat blandit aliquam etiam erat velit scelerisque. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Risus sed vulputate odio ut enim.
-
-1. Numbered list item one
-2. Numbered list item two
-3. Numbered list item three
-
-Diam volutpat commodo sed egestas egestas fringilla phasellus. Et pharetra pharetra massa massa ultricies. Sed cras ornare arcu dui vivamus arcu felis bibendum ut. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Cum sociis natoque penatibus et magnis dis parturient montes. Quis enim lobortis scelerisque fermentum dui faucibus in ornare quam. Phasellus egestas tellus rutrum tellus pellentesque eu. Risus feugiat in ante metus dictum at. Sapien et ligula ullamcorper malesuada proin. Suspendisse faucibus interdum posuere lorem ipsum.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XqrMm31KDP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The Thriving Agricultural Systems in Urbanized Landscapes project aims to achieve these goals of sustainable agriculture within a 25-year period. The Chesapeake Bay watershed will be used as a case study for the project. The research findings from the project will be translatable to other urbanized landscapes. A team of researchers from The Pennsylvania State University, University of Maryland, Virginia Tech, The Ohio State University, and the Stroud Water Research Center will work to achieve these goals with input from key stakeholder members that are part of the agriculture community. Together, the team is dedicated to creating economically thriving and environmentally beneficial agricultural systems in urbanized landscapes.

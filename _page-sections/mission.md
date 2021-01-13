@@ -8,4 +8,4 @@ enabled: true
 ---
 ## Mission
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit at imperdiet dui accumsan sit amet nulla. Nulla aliquet enim tortor at auctor urna nunc. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eget magna fermentum iaculis eu non diam phasellus. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Nec feugiat nisl pretium fusce. Pellentesque eu tincidunt tortor aliquam. Nibh venenatis cras sed felis eget velit aliquet sagittis.
+The central hypothesis of the Thriving Ag project is that value-added agriculture of the kind required to be economically sustainable in urbanized landscapes can be achieved while enhancing ecosystem services. The mission of the project is to make this hypothesis a reality within the next 25 years, using the Chesapeake Bay watershed as a case study translatable to other urbanized landscapes.

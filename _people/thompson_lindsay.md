@@ -9,6 +9,5 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-published: false
 
 ---

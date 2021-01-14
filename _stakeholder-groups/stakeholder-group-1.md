@@ -2,6 +2,8 @@
 title: Stakeholder Advisory Board Members
 description: ''
 associated-people:
+- _people/woodward_timothy.md
+- _people/james_dean.md
 - _people/zimmerman_daniel.md
 - _people/ohlinger_keith.md
 - _people/thompson_lindsay.md
@@ -15,6 +17,7 @@ associated-people:
 - _people/rotz_joel.md
 - _people/nitterhouse_patrice.md
 - _people/brosch_chris.md
+- _people/cross_dorothy.md
 - _people/tyree_kendall.md
 - _people/duncan_paul.md
 - _people/gates_melissa.md

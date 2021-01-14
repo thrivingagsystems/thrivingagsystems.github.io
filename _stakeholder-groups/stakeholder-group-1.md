@@ -1,6 +1,6 @@
 ---
-title: Stakeholder group 1
-description: This group of stakeholders is interested in a particular category.
+title: Stakeholder Advisory Board Members
+description: ''
 associated-people:
 - _people/jobs-steve.md
 - _people/smith-joan.md

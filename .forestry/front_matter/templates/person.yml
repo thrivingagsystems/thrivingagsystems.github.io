@@ -37,6 +37,7 @@ fields:
   name: instagram
   label: instagram
 pages:
+- _people/brosch_chris.md
 - _people/collins-michael.md
 - _people/duncan_paul.md
 - _people/gates_melissa.md

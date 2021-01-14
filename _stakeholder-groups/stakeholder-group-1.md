@@ -2,6 +2,7 @@
 title: Stakeholder Advisory Board Members
 description: ''
 associated-people:
+- _people/jobs-steve.md
 - _people/duncan_paul.md
 - _people/gates_melissa.md
 - _people/oneill_kelly.md

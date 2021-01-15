@@ -1,7 +1,7 @@
 ---
 name: Edward (Ted) Jaenicke
 image: assets/img/jaenicke-photo.jpg
-professional-title: Co-PI
+professional-title: Co-Principal Investigator
 email: ecj3@psu.edu
 link-to-bio-page: 'https://aese.psu.edu/directory/ecj3 '
 link-to-personal-website: ''

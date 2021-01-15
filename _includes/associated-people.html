@@ -22,29 +22,32 @@
                         {% endif %}
                         <div class="small-9 large-8 columns">
                             {% if include.name == true and site-person.name != empty and site-person.name != '' and site-person.name != null %}
-                                <h3 class="{{ site-person.name }} {{include.class}}">{{ site-person.name }}</h3>
+                                <h3 class="person-name {{include.class}}">{{ site-person.name }}</h3>
                             {% endif %}
                             <p class="member-info">
                                     {% if include.professional-title == true and site-person.professional-title != empty and site-person.professional-title != '' and site-person.professional-title != null %}
-                                    <span class="{{ site-person.professional-title }} {{include.class}}"><strong>Title:</strong> {{ site-person.professional-title }}</span><br>
+                                    <span class="professional-title {{include.class}}">{{ site-person.professional-title }}</span><br>
+                                    {% endif %}
+                                    {% if include.email == true and site-person.email != empty and site-person.email != '' and site-person.email != null %}
+                                    <span class="email {{include.class}}">{{ site-person.email }}</span><br>
                                     {% endif %}
                                     {% if include.link-to-bio-page == true and site-person.link-to-bio-page != empty and site-person.link-to-bio-page != '' and site-person.link-to-bio-page != null %}
-                                    <span class="{{ site-person.link-to-bio-page }} {{include.class}}"></strong>Bio:</strong> <a href="{{ site-person.link-to-bio-page }}">{{ site-person.link-to-bio-page }}</a></span><br>
-                                    {% endif %}
+                                    <span class="bio {{include.class}}"><a href="{{ site-person.link-to-bio-page }}">Link to bio</a></span><br>
+                                    {% endif %}                                    
                                     {% if include.link-to-personal-website == true and site-person.link-to-personal-website != empty and site-person.link-to-personal-website != '' and site-person.link-to-personal-website != null %}
-                                    <span class="{{ site-person.link-to-personal-website }} {{include.class}}">Website: <a href="{{ site-person.link-to-personal-website }}">{{ site-person.link-to-personal-website }}</a></span><br>
+                                    <span class="website {{include.class}}">Website: <a href="{{ site-person.link-to-personal-website }}">{{ site-person.link-to-personal-website }}</a></span><br>
                                     {% endif %}
                                     {% if include.linkedin == true and site-person.linkedin != empty and site-person.linkedin != '' and site-person.linkedin != null %}
-                                    <span class="{{ site-person.linkedin }} {{include.class}}"><a href="{{ site-person.linkedin }}">Linkedin</a></span><br>
+                                    <span class="linkedin {{include.class}}"><a href="{{ site-person.linkedin }}">Linkedin</a></span><br>
                                     {% endif %}
                                     {% if include.twitter == true and site-person.twitter != empty and site-person.twitter != '' and site-person.twitter != null %}
-                                    <span class="{{ site-person.twitter }} {{include.class}}"><a href="{{ site-person.twitter }}">Twitter</a></span><br>
+                                    <span class="twitter {{include.class}}"><a href="{{ site-person.twitter }}">Twitter</a></span><br>
                                     {% endif %}
                                     {% if include.facebook == true and site-person.facebook != empty and site-person.facebook != '' and site-person.facebook != null %}
-                                    <span class="{{ site-person.facebook }} {{include.class}}"><a href="{{ site-person.facebook }}">Facebook</a></span><br>
+                                    <span class="facebook {{include.class}}"><a href="{{ site-person.facebook }}">Facebook</a></span><br>
                                     {% endif %}
                                     {% if include.instagram == true and site-person.instagram != empty and site-person.instagram != '' and site-person.instagram != null %}
-                                    <span class="{{ site-person.instagram }} {{include.class}}"><a href="{{ site-person.instagram }}">Instagram</a></span>
+                                    <span class="instagram {{include.class}}"><a href="{{ site-person.instagram }}">Instagram</a></span>
                                     {% endif %}
                             </p>
                             

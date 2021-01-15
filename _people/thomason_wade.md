@@ -1,6 +1,6 @@
 ---
 name: Wade Thomason
-image: assets/img/thomason_may_2017.jpg
+image: assets/img/thomason.jpg
 professional-title: Co-PI
 email: wthomaso@vt.edu
 link-to-bio-page: https://spes.vt.edu/faculty-staff/faculty/thomason-wade.html

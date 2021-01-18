@@ -17,6 +17,7 @@ associated-people:
 - _people/lisenbee_whitney.md
 - _people/toor_gurpal.md
 - _people/bosch_darrell.md
+- _people/hu_chenyang.md
 - _people/liu_yizao.md
 - _people/read_dan.md
 - _people/bradley_brosi.md

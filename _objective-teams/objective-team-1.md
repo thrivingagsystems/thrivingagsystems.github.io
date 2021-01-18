@@ -15,6 +15,7 @@ associated-people:
 - _people/huang_xuetao.md
 - _people/mohammadpour_paniz.md
 - _people/sanders_zack.md
+- _people/kumarchaudhary_anil.md
 - _people/zhang_wei.md
 - _people/bosch_darrell.md
 - _people/white_charlie.md

@@ -1,8 +1,8 @@
 ---
-title: Objective team 1
-description: This objective is about completing this particular task. There are a
-  lot of great people on the team. It's great!
+title: ''
+description: ''
 associated-people:
+- _people/toor_gurpal.md
 - _people/bosch_darrell.md
 - _people/abler_dave.md
 - _people/thomason_wade.md

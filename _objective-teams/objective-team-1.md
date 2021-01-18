@@ -2,7 +2,6 @@
 title: ''
 description: ''
 associated-people:
-- _people/lisenbee_whitney.md
 - _people/white_charlie.md
 - _people/klaiber_allen.md
 - _people/lisenbee_whitney.md

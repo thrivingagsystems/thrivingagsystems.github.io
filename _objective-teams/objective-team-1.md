@@ -2,6 +2,7 @@
 title: ''
 description: ''
 associated-people:
+- _people/lisenbee_whitney.md
 - _people/toor_gurpal.md
 - _people/bosch_darrell.md
 - _people/abler_dave.md

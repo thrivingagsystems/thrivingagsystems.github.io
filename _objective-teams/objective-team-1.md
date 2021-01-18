@@ -5,6 +5,7 @@ associated-people:
 - _people/abler_dave.md
 - _people/wainger_lisa.md
 - _people/jaenicke-ted.md
+- _people/kaye_jason.md
 - _people/thomason_wade.md
 - _people/grady_caitlin.md
 - _people/harrison_terry.md

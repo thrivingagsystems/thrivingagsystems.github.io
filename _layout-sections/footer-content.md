@@ -16,8 +16,8 @@ partner:
   image: assets/img/stroud-black-bright-blue-2.jpg
   enable-image-link: false
   url: ''
-- name: 5th
-  image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
+- name: Utah State University
+  image: assets/img/usu.jpg
   enable-image-link: false
   url: ''
 - name: 6th

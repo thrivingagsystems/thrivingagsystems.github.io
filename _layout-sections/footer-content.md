@@ -20,14 +20,6 @@ partner:
   image: assets/img/usu.jpg
   enable-image-link: false
   url: ''
-- name: 6th
-  image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
-  enable-image-link: false
-  url: ''
-- name: 7th
-  image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
-  enable-image-link: false
-  url: ''
 description: "<p>This text will display in the footer.</p>"
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''

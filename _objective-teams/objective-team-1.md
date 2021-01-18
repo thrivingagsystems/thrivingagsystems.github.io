@@ -19,6 +19,7 @@ associated-people:
 - _people/bosch_darrell.md
 - _people/liu_yizao.md
 - _people/read_dan.md
+- _people/bradley_brosi.md
 - _people/schad_jessica.md
 - _people/schmidt_cristy.md
 page-order: 1

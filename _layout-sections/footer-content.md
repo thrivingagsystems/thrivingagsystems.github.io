@@ -4,9 +4,9 @@ partner:
   image: assets/img/ohio_state_buckeyes_logo.jpg
   enable-image-link: false
   url: ''
-- name: Another partner
-  image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
-  enable-image-link: true
+- name: University of Maryland College Park
+  image: assets/img/university_of_maryland_seal.jpg
+  enable-image-link: false
   url: http://google.com
 - name: A Third Parnter
   image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png

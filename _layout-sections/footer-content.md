@@ -13,7 +13,7 @@ partner:
   enable-image-link: false
   url: http://google.com
 - name: Stroud Water Research Center
-  image: assets/img/stroud_logo.jpg
+  image: assets/img/stroud-black-bright-blue-2.jpg
   enable-image-link: false
   url: ''
 - name: 5th

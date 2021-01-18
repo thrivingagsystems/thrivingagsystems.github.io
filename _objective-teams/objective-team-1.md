@@ -28,6 +28,7 @@ associated-people:
 - _people/read_dan.md
 - _people/bradley_brosi.md
 - _people/lisenbee_whitney.md
+- _people/nunn_nancy.md
 - _people/schmidt_cristy.md
 page-order: 1
 

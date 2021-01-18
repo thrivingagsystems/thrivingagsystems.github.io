@@ -31,6 +31,7 @@ associated-people:
 - _people/lisenbee_whitney.md
 - _people/nunn_nancy.md
 - _people/schmidt_cristy.md
+- _people/avemegah_edem.md
 page-order: 1
 
 ---

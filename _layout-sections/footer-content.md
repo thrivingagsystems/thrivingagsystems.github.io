@@ -12,8 +12,8 @@ partner:
   image: assets/img/vt.jpg
   enable-image-link: false
   url: http://google.com
-- name: 4th one
-  image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
+- name: Stroud Water Research Center
+  image: assets/img/stroud_logo.jpg
   enable-image-link: false
   url: ''
 - name: 5th

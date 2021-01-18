@@ -2,6 +2,8 @@
 title: ''
 description: ''
 associated-people:
+- _people/sanders_zack.md
+- _people/zhang_wei.md
 - _people/white_charlie.md
 - _people/klaiber_allen.md
 - _people/lisenbee_whitney.md

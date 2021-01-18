@@ -2,10 +2,13 @@
 title: ''
 description: ''
 associated-people:
+- _people/lisenbee_whitney.md
+- _people/white_charlie.md
 - _people/klaiber_allen.md
 - _people/lisenbee_whitney.md
 - _people/toor_gurpal.md
 - _people/bosch_darrell.md
+- _people/liu_yizao.md
 - _people/abler_dave.md
 - _people/thomason_wade.md
 - _people/read_dan.md
@@ -13,6 +16,7 @@ associated-people:
 - _people/schad_jessica.md
 - _people/harrison_terry.md
 - _people/grady_caitlin.md
+- _people/schmidt_cristy.md
 page-order: 1
 
 ---

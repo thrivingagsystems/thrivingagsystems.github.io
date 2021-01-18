@@ -1,31 +1,23 @@
 ---
 layout: research-project
-title: Research Project 2
+title: Blockchain Technology to Expand Markets for Value-Added Products
 enable-header: false
 breadcrumbs: true
-primary-image: assets/img/241-400x400-1.jpg
+primary-image: assets/img/launchpresso-h5iazr-wlju-unsplash.jpg
 image-gallery:
 - image: assets/img/1067-300x300-1.jpg
   alt-text: City from above
-website: http://google.com
-linkedin: http://linkedin.com
-twitter: http://twitter.com
-facebook: http://facebook.com
-instagram: http://instagram.com
+website: ''
+linkedin: ''
+twitter: ''
+facebook: ''
+instagram: ''
 associated-people:
-- _people/adams-john.md
+- _people/harrison_terry.md
 date-added: 
-dated-added: 2020-12-04 05:00:00 +0000
+dated-added: 2020-12-04T05:00:00.000+00:00
 
 ---
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ultrices tincidunt arcu non sodales neque sodales ut. Purus viverra accumsan in nisl nisi scelerisque eu. Purus gravida quis blandit turpis cursus in. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Pharetra vel turpis nunc eget lorem dolor sed. Massa sed elementum tempus egestas sed sed risus pretium quam. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Amet consectetur adipiscing elit ut.
->
-> Augue eget arcu dictum varius duis at consectetur lorem. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Ut pharetra sit amet aliquam id diam maecenas ultricies. Ipsum nunc aliquet bibendum enim. Eget arcu dictum varius duis at consectetur. Est velit egestas dui id ornare arcu odio.
+Food manufacturers, retailers, and consumers value traceability and security in food supply chains (Bosona and Gebresenbet, 2013; Dabbene et al., 2014). This is a challenge for small- to mid-scale agricultural producers, who face difficulties aggregating quality products into a quantity needed by buyers, and who usually forfeit traceability when they do aggregate. This in turn limits potential market outlets and makes it problematic for small producers to capture premium pricing opportunities for value-added products. Blockchain technology shows considerable promise in offering a traceability solution to small- and mid-scale farmers, and to their supply chain partners such as food wholesalers, processors, and retailers (Galen et al., 2018; Tian, 2017). Blockchain is “an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way,” protected against deletion, tampering, and revision (Iansiti and Lakhani, 2017). However, convincing farmers and their supply chain partners to transition away from traditional methods of tracking shipments, such as locally stored spreadsheets or even paper records, remains an obstacle to the adoption of blockchain technology (McDermott, 2018).
 
-Dapibus ultrices in iaculis nunc sed augue. Felis bibendum ut tristique et egestas quis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Ut eu sem integer vitae. Quis enim lobortis scelerisque fermentum dui faucibus in ornare quam. Turpis tincidunt id aliquet risus. Non arcu risus quis varius quam quisque id. Tincidunt tortor aliquam nulla facilisi. Condimentum lacinia quis vel eros donec ac. Placerat vestibulum lectus mauris ultrices eros in. Turpis in eu mi bibendum neque egestas congue. In est ante in nibh mauris cursus mattis. Integer feugiat scelerisque varius morbi enim. Est ultricies integer quis auctor elit.
-
-Non nisi est sit amet facilisis magna. Molestie at elementum eu facilisis sed odio. Vitae auctor eu augue ut lectus arcu bibendum at varius. In egestas erat imperdiet sed. Suspendisse potenti nullam ac tortor. Odio aenean sed adipiscing diam donec. Nibh cras pulvinar mattis nunc sed blandit. Nam aliquam sem et tortor consequat id porta nibh venenatis. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Magna fringilla urna porttitor rhoncus dolor purus non. Sociis natoque penatibus et magnis dis parturient montes nascetur. Aliquam etiam erat velit scelerisque in dictum non consectetur. Eget velit aliquet sagittis id consectetur purus ut faucibus. Cursus risus at ultrices mi tempus imperdiet nulla. Amet risus nullam eget felis eget. At lectus urna duis convallis convallis.
-
-Sit amet tellus cras adipiscing enim eu. Pellentesque massa placerat duis ultricies. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Amet facilisis magna etiam tempor. Imperdiet sed euismod nisi porta. Neque ornare aenean euismod elementum nisi quis. Eget egestas purus viverra accumsan in. Nulla facilisi nullam vehicula ipsum. Amet massa vitae tortor condimentum lacinia quis. Rutrum quisque non tellus orci. Etiam dignissim diam quis enim lobortis. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Mattis molestie a iaculis at erat pellentesque adipiscing. Duis ultricies lacus sed turpis. Sem nulla pharetra diam sit amet nisl suscipit.
-
-Aliquet enim tortor at auctor urna nunc id. Amet luctus venenatis lectus magna. Lectus urna duis convallis convallis tellus. Nisi lacus sed viverra tellus in. At consectetur lorem donec massa sapien faucibus et molestie ac. Eu scelerisque felis imperdiet proin fermentum leo vel. Est sit amet facilisis magna etiam tempor orci eu lobortis. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Dui nunc mattis enim ut tellus elementum sagittis vitae et. Pellentesque dignissim enim sit amet venenatis urna cursus. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Gravida quis blandit turpis cursus in. Leo a diam sollicitudin tempor id eu nisl nunc mi.
+Co-PI Harrison and key personnel Eury and Schmidt will examine the potential of blockchain technology to efficiently connect agricultural producers to wholesalers, processors, institutional buyers, and consumers; decrease regulatory compliance and certification costs; better document food safety critical control point checks from producers to consumers; and increase market and premium pricing opportunities for specialized or value-added agricultural products through transparency and greater connection to producers. They will carry out interviews and focus groups in the case study Chesapeake Bay region with small- and mid-scale farmers, local small packers and shippers, regional distributors, and institutional buyers to identify key bottlenecks to utilizing more local products from smaller-scale farmers and to utilizing blockchain technology. They will then work on a blockchain design to reduce these bottlenecks and implement a small-scale blockchain proof of concept.

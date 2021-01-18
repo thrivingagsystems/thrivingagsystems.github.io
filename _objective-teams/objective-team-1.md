@@ -4,6 +4,7 @@ description: ''
 associated-people:
 - _people/abler_dave.md
 - _people/wainger_lisa.md
+- _people/shortle_jim.md
 - _people/jaenicke-ted.md
 - _people/ehrhart_matt.md
 - _people/thomason_wade.md

@@ -1,9 +1,9 @@
 ---
 partner:
-- name: University Parnter!
-  image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
-  enable-image-link: true
-  url: http://google.com
+- name: Ohio State
+  image: assets/img/ohio_state_buckeyes_logo.jpg
+  enable-image-link: false
+  url: ''
 - name: Another partner
   image: assets/img/screen-shot-2020-12-14-at-1-37-57-am.png
   enable-image-link: true
@@ -34,5 +34,7 @@ project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color-1.jpg
 project-sponsor-description: 'Project sponsored by the USDA. '
 project-lead-logo: assets/img/psu-mark.jpg
+project-lead-link: ''
+project-sponsor-link: ''
 
 ---

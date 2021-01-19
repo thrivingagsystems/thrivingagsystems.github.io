@@ -30,6 +30,7 @@ associated-people:
 - _people/read_dan.md
 - _people/bradley_brosi.md
 - _people/lisenbee_whitney.md
+- _people/luthard_madeline.md
 - _people/nunn_nancy.md
 - _people/everts_kate.md
 - _people/hua_junyi.md

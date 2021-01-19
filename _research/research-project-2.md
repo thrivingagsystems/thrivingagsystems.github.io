@@ -14,6 +14,9 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/harrison_terry.md
+- _people/ladlee_jim.md
+- _people/eury_jay.md
+- _people/schmidt_cristy.md
 date-added: 
 dated-added: 2020-12-04T05:00:00.000+00:00
 

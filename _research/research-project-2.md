@@ -4,9 +4,7 @@ title: Blockchain Technology to Expand Markets for Value-Added Products
 enable-header: false
 breadcrumbs: true
 primary-image: assets/img/launchpresso-h5iazr-wlju-unsplash.jpg
-image-gallery:
-- image: assets/img/1067-300x300-1.jpg
-  alt-text: City from above
+image-gallery: []
 website: ''
 linkedin: ''
 twitter: ''

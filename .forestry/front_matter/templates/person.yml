@@ -9,9 +9,11 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 64
+    maxSize: 1
   label: Image
-  description: Upload a square image.
+  description: Upload a square image for this to look correct. Use this image compression
+    tool to make image between 300KB and 800KB. <a href="https://www.adobe.com/photoshop/online/compress-image.html"
+    title="https://www.adobe.com/photoshop/online/compress-image.html" target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
 - type: text
   name: professional-title
   label: professional-title

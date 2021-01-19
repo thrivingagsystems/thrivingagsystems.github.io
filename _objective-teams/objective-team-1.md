@@ -12,6 +12,7 @@ associated-people:
 - _people/royer_matt.md
 - _people/grady_caitlin.md
 - _people/harrison_terry.md
+- _people/raj_cibin.md
 - _people/frederick_maggie.md
 - _people/huang_xuetao.md
 - _people/mohammadpour_paniz.md

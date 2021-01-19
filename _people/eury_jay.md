@@ -1,7 +1,7 @@
 ---
 name: Jay Eury
 image: assets/img/eury.jpg
-professional-title: Co-Principal Investigator
+professional-title: 'Extension Educator '
 email: Jay.Eury@psu.edu
 link-to-bio-page: https://extension.psu.edu/jay-eury
 link-to-personal-website: ''

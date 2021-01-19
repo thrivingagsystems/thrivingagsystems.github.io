@@ -12,6 +12,7 @@ associated-people:
 - _people/royer_matt.md
 - _people/grady_caitlin.md
 - _people/harrison_terry.md
+- _people/frederick_maggie.md
 - _people/huang_xuetao.md
 - _people/mohammadpour_paniz.md
 - _people/sanders_zack.md
@@ -31,6 +32,8 @@ associated-people:
 - _people/lisenbee_whitney.md
 - _people/nunn_nancy.md
 - _people/everts_kate.md
+- _people/hua_junyi.md
+- _people/kalra_marali.md
 - _people/schmidt_cristy.md
 - _people/avemegah_edem.md
 page-order: 1

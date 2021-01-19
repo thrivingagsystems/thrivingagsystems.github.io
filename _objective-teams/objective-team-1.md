@@ -30,6 +30,7 @@ associated-people:
 - _people/bradley_brosi.md
 - _people/lisenbee_whitney.md
 - _people/nunn_nancy.md
+- _people/everts_kate.md
 - _people/schmidt_cristy.md
 - _people/avemegah_edem.md
 page-order: 1

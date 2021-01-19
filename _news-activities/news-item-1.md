@@ -5,7 +5,7 @@ enable-header: ''
 breadcrumbs: true
 enable-image: false
 image: assets/img/news-item-1-1.jpg
-event-date: 01/01/2021
+event-date: 2021-01-19 19:43:36 +0000
 description: "<p>Penn State releases a news article on the Thriving Ag project titled,
   <em>Researchers aim to create thriving agricultural systems in urbanizing landscapes</em>.</p>"
 enable-button-link: true

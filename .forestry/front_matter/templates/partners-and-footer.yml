@@ -7,6 +7,9 @@ fields:
   config:
     maxSize: 2
   label: Project Lead Logo
+  description: Use this image compression tool to make image between 300KB and 800KB.
+    <a href="https://www.adobe.com/photoshop/online/compress-image.html" title="https://www.adobe.com/photoshop/online/compress-image.html"
+    target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
 - name: project-lead-description
   type: textarea
   default: ''
@@ -32,8 +35,11 @@ fields:
   - name: image
     type: file
     config:
-      maxSize: 64
+      maxSize: 1
     label: Image
+    description: Use this image compression tool to make image between 300KB and 800KB.
+      <a href="https://www.adobe.com/photoshop/online/compress-image.html" title="https://www.adobe.com/photoshop/online/compress-image.html"
+      target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
   - name: enable-image-link
     type: boolean
     label: Enable Image Link
@@ -54,8 +60,11 @@ fields:
 - name: project-sponsor-logo
   type: file
   config:
-    maxSize: 64
+    maxSize: 1
   label: Project Sponsor Logo
+  description: Use this image compression tool to make image between 300KB and 800KB.
+    <a href="https://www.adobe.com/photoshop/online/compress-image.html" title="https://www.adobe.com/photoshop/online/compress-image.html"
+    target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
 - name: project-sponsor-description
   type: textarea
   default: ''

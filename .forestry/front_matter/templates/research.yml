@@ -81,4 +81,5 @@ fields:
     display_utc: false
 pages:
 - _research/agent-based-modelling.md
+- _research/economic-simulations-and-modelling.md
 - _research/watershed-scale-nutrient-management-tools.md

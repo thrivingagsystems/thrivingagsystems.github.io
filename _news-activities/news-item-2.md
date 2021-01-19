@@ -13,7 +13,8 @@ enable-button-link: true
 button-text: Go to the Evenbrite Page
 button-url: http://google.com
 date-added: 
-date_added: 2020-12-18 05:00:00 +0000
+date_added: 2020-12-18T05:00:00.000+00:00
 enable-featured-card: true
+published: false
 
 ---

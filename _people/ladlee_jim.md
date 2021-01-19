@@ -1,6 +1,6 @@
 ---
 name: James R. Ladlee
-image: assets/img/ladlee_jim.jpg
+image: assets/img/ladlee_j.jpg
 professional-title: 'Extension Educator '
 email: jrl110@psu.edu
 link-to-bio-page: https://extension.psu.edu/james-r-ladlee

@@ -10,6 +10,5 @@ description: This course explores the research topic through a series of engagin
   learning outcomes using sound pedagocial approaches to teaching and learning. The
   field is explored, projects are created, lessons are learned, lectures are given,
   group work also happens.
-published: false
 
 ---

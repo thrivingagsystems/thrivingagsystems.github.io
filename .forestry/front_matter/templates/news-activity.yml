@@ -31,11 +31,14 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 2
+    maxSize: 1
   label: Image
   showOnly:
     field: enable-image
     value: true
+  description: Use this image compression tool to make image between 300KB and 800KB.
+    <a href="https://www.adobe.com/photoshop/online/compress-image.html" title="https://www.adobe.com/photoshop/online/compress-image.html"
+    target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
 - type: datetime
   name: event-date
   label: event-date

@@ -11,8 +11,8 @@
   subfolderitems:
   - name: Project Overview
     url: "/about/project-overview/"
-  - name: Project Objectives
-    url: "/about/project-objectives/"
+  - name: Project Team
+    url: "/about/project-team/"
   - name: Stakeholder Advisory Board
     url: "/about/stakeholder-advisory-board/"
 - name: Outreach & Engagement
@@ -33,6 +33,5 @@
 - name: News & Activities
   url: "/news-activities/"
   url_active: true
-  enable_sublinks: false
-  subfolderitems: []
   enable_sublinks: true
+  subfolderitems: []

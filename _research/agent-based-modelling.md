@@ -16,7 +16,7 @@ associated-people:
 - _people/wrenn_doug.md
 - _people/shortle_jim.md
 - _people/hua_junyi.md
-dated-added: 
+dated-added: 2021-01-19 19:00:00 +0000
 
 ---
 Co-PIs Klaiber, Wrenn, and Shortle are developing agent-based models of individual farmer-landowner decision-making to understand changes in behavior that impact both TFP and NUE across spatial scales (Irwin and Wrenn, 2014; Nguyen et al., 2013). The spatial agro-environmental choices farmers make are expected to depend critically on the scale of operation and the spatial pattern of landholdings by individual landowners, opportunities to sell farmland to developers, and consumer demands for locally grown foods. These individual farm decisions aggregate across space to drive watershed-level economic and environmental outcomes. Our agent-based models of producer behavior will build on the joint multiple output representation of production (Chambers and Just, 1989) to model the amount of farmland, land allocation on farms, inputs, yields, and intensity outcomes (Fezzi and Bateman, 2011).

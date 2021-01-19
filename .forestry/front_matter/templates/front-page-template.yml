@@ -18,9 +18,11 @@ fields:
 - name: page-header-image
   type: file
   config:
-    maxSize: 64
+    maxSize: 2
   label: Page Header Image
-  description: Upload a header image for the page.
+  description: Use this image compression tool to make image between 500KB and 1MB.
+    <a href="https://www.adobe.com/photoshop/online/compress-image.html" title="https://www.adobe.com/photoshop/online/compress-image.html"
+    target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
   showOnly:
     field: enable-default-header
     value: true

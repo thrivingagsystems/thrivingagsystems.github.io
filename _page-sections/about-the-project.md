@@ -4,9 +4,11 @@ title: Home Page Content
 heading: About the Project
 
 ---
+### Thriving Ag Project 
+
 Welcome to the website for the Thriving Agricultural Systems in Urbanized Landscapes project! This 5-year, $9 million project funded by USDA’s National Institute of Food and Agriculture (NIFA) is working to create economically thriving and environmentally beneficial agricultural systems in urbanized landscapes. These agricultural systems are located in metropolitan counties and in non-metropolitan counties adjacent to metro areas, and are vital to the sustainability of U.S. agriculture. Over two-thirds of U.S. net farm income comes from these urbanized landscapes.
 
-#### The Thriving Ag Project Story
+#### The Project Story
 
 A sustainable and economically viable agriculture is essential for the future of our environment and quality of life. Support for functional, healthy ecosystems and profitable farming is necessary for this future. Sustainability is threatened in urbanized areas with the increase in competition for land and water, therefore it is crucial that the benefits of the agricultural systems are recognized.
 

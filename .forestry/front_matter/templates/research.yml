@@ -28,7 +28,10 @@ fields:
   name: primary-image
   label: primary image
   config:
-    maxSize: 2
+    maxSize: 1
+  description: 'Use this image compression tool to make image between 300Kb and 800Kb:
+    <a href="https://www.adobe.com/photoshop/online/compress-image.html" title="https://www.adobe.com/photoshop/online/compress-image.html"
+    target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>'
 - type: field_group_list
   name: image-gallery
   label: image-gallery

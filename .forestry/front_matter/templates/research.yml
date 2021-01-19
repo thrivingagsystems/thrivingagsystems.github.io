@@ -70,5 +70,6 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _research/agent-based-modelling.md
 - _research/cool-new-research.md
 - _research/watershed-scale-nutrient-management-tools.md

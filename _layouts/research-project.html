@@ -17,12 +17,14 @@ layout: page
     {{ content }}
     
     <div class="row">
+      {% if page.image-gallery and page.image-gallery != empty and page.image-gallery != '' and page.image-gallery != null %}
       <div class="small-12 columns head-spacing">
         <h2>Media and Communications</h2>
         <hr>
         {% assign image = page.image-gallery %}
         {% include image-gallery.html display_mode='lightbox' image=image enable_caption=true %}
       </div>
+      {% endif %}
       <div class="small-12 columns head-spacing foot-spacing">
         <h2>Project Team</h2>
         <hr>

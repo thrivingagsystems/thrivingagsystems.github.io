@@ -16,6 +16,8 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/jaenicke-ted.md
+- _people/liu_yizao.md
+- _people/reed_josh.md
 date-added: 
 dated-added: 2020-12-13T05:00:00.000+00:00
 

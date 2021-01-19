@@ -1,6 +1,6 @@
 ---
 enabled: true
-title: Project Objectives Page Content
+title: Project Team Page Content
 
 ---
 ## Project Team

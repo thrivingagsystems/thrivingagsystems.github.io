@@ -27,6 +27,8 @@ fields:
 - type: file
   name: primary-image
   label: primary image
+  config:
+    maxSize: 2
 - type: field_group_list
   name: image-gallery
   label: image-gallery

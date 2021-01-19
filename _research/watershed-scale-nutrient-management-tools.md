@@ -12,8 +12,8 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
-- _people/kalra_marali.md
 - _people/raj_cibin.md
+- _people/kalra_marali.md
 dated-added: 
 
 ---

@@ -14,13 +14,15 @@ associated-people:
 - _people/harrison_terry.md
 - _people/raj_cibin.md
 - _people/frederick_maggie.md
+- _people/white_charlie.md
+- _people/wrenn_doug.md
 - _people/huang_xuetao.md
 - _people/mohammadpour_paniz.md
 - _people/sanders_zack.md
 - _people/kumarchaudhary_anil.md
 - _people/zhang_wei.md
 - _people/bosch_darrell.md
-- _people/white_charlie.md
+- _people/weil_ray.md
 - _people/schad_jessica.md
 - _people/eury_jay.md
 - _people/klaiber_allen.md
@@ -37,6 +39,7 @@ associated-people:
 - _people/everts_kate.md
 - _people/hua_junyi.md
 - _people/reed_josh.md
+- _people/si_qianyao.md
 - _people/kalra_marali.md
 - _people/schmidt_cristy.md
 - _people/avemegah_edem.md

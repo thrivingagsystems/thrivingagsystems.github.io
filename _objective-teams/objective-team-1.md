@@ -33,8 +33,10 @@ associated-people:
 - _people/lisenbee_whitney.md
 - _people/luthard_madeline.md
 - _people/nunn_nancy.md
+- _people/sharma_sadikshya.md
 - _people/everts_kate.md
 - _people/hua_junyi.md
+- _people/reed_josh.md
 - _people/kalra_marali.md
 - _people/schmidt_cristy.md
 - _people/avemegah_edem.md

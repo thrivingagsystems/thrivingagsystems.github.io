@@ -1,7 +1,7 @@
 ---
 name: Jessica Schad
 image: assets/img/schad_jessica.jpg
-professional-title: External Project Evaluator
+professional-title: Assistant Professor of Sociology, Utah State
 email: jessica.schad@usu.edu
 link-to-bio-page: https://sociology.usu.edu/people/directory/jessica-schad
 link-to-personal-website: ''

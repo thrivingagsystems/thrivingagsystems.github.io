@@ -1,7 +1,8 @@
 ---
 name: Caitlin Grady
 image: assets/img/grady_headshot.jpg
-professional-title: Co-Principal Investigator
+professional-title: Assistant Professor of Civil and Environmental Engineering, Penn
+  State
 email: cgrady@psu.edu
 link-to-bio-page: www.fewslab.org
 link-to-personal-website: ''

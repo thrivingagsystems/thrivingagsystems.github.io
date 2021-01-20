@@ -1,7 +1,7 @@
 ---
 name: Zachary Sanders
 image: assets/img/sanders.jpg
-professional-title: Research Technician & PhD Candidate
+professional-title: Research Technician & PhD Candidate, Penn State
 email: zps10@psu.edu
 link-to-bio-page: https://plantscience.psu.edu/directory/zps10
 link-to-personal-website: ''

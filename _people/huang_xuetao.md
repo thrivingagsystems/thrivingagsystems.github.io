@@ -1,7 +1,7 @@
 ---
 name: Xuetao Huang
 image: assets/img/huang.jpg
-professional-title: 'Graduate Assistant '
+professional-title: Graduate Assistant, Penn State
 email: xtw.huang@gmail.com
 link-to-bio-page: ''
 link-to-personal-website: ''

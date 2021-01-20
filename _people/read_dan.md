@@ -1,7 +1,7 @@
 ---
 name: Daniel J. Read
 image: assets/img/read.jpg
-professional-title: Assistant Research Scientist, Postdoctoral
+professional-title: Assistant Research Scientist, Postdoctoral, University of Maryland
 email: dread@umces.edu
 link-to-bio-page: https://www.umces.edu/directory/daniel-j-read
 link-to-personal-website: ''

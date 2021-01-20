@@ -4,11 +4,7 @@ title: Market Analysis for Local and Organic Products
 enable-header: false
 breadcrumbs: true
 primary-image: assets/img/neonbrand-sewtu-qy06c-unsplash.jpg
-image-gallery:
-- image: assets/img/241-400x400.jpg
-  alt-text: black and white picture of a fence leading up a hill
-- image: assets/img/611-600x300.jpg
-  alt-text: Birds taking flight
+image-gallery: []
 website: ''
 linkedin: ''
 twitter: ''

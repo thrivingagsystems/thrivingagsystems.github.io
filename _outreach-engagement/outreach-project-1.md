@@ -1,34 +1,26 @@
 ---
 layout: outreach-project
-title: Outreach Project 1
+title: Farmer-Stakeholder Experiments
 enable-header: false
 breadcrumbs: true
-primary-image: assets/img/98-400x800.jpg
-image-gallery:
-- image: assets/img/news-item-1-3.jpg
-  alt-text: alley
-- image: assets/img/241-400x400-2.jpg
-  alt-text: fence
-- image: assets/img/1067-300x300-2.jpg
-  alt-text: Image 3
-website: http://google.com
-linkedin: http://linkedin.com
-twitter: http://twitter.com
-facebook: http://facebook.com
-instagram: http://instagram.com
+primary-image: assets/img/ngobeni-communications-mowl8x32sni-unsplash.jpg
+image-gallery: []
+website: ''
+linkedin: ''
+twitter: ''
+facebook: ''
+instagram: ''
 associated-people:
-- _people/adams-john.md
-- _people/smith-joan.md
-- _people/jobs-steve.md
+- _people/wainger_lisa.md
+- _people/read_dan.md
+- _people/shortle_jim.md
 date-added: 2020-12-24T05:00:00.000+00:00
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ultrices tincidunt arcu non sodales neque sodales ut. Purus viverra accumsan in nisl nisi scelerisque eu. Purus gravida quis blandit turpis cursus in. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Pharetra vel turpis nunc eget lorem dolor sed. Massa sed elementum tempus egestas sed sed risus pretium quam. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Amet consectetur adipiscing elit ut. Augue eget arcu dictum varius duis at consectetur lorem. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Ut pharetra sit amet aliquam id diam maecenas ultricies. Ipsum nunc aliquet bibendum enim. Eget arcu dictum varius duis at consectetur. Est velit egestas dui id ornare arcu odio.
+To achieve nutrient reduction targets and improve water quality, farmer incentive programs will need to reach beyond enthusiastic BMP adopters to communities with lower baseline environmental motivation. Reducing nutrient runoff is likely to require creating incentives for more farms to adopt revenue-enhancing or revenue-neutral practices and motivating farmers to adopt practices that provide nonmonetary benefits to themselves and communities (Wainger et al., 2013). Group incentive instruments are a promising approach to increasing levels of practice adoption (Kaczan et al., 2017; Poe et al., 2004; Segerson, 1988). Collective action is induced by generating reciprocal behavior among group members but can be undermined by free-riders (Sobel, 2005). Groups with pro-social members can induce self-interested members to make sacrifices to achieve a public good.
 
-Dapibus ultrices in iaculis nunc sed augue. Felis bibendum ut tristique et egestas quis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Ut eu sem integer vitae. Quis enim lobortis scelerisque fermentum dui faucibus in ornare quam. Turpis tincidunt id aliquet risus. Non arcu risus quis varius quam quisque id. Tincidunt tortor aliquam nulla facilisi. Condimentum lacinia quis vel eros donec ac. Placerat vestibulum lectus mauris ultrices eros in. Turpis in eu mi bibendum neque egestas congue. In est ante in nibh mauris cursus mattis. Integer feugiat scelerisque varius morbi enim. Est ultricies integer quis auctor elit.
+Wainger, Read, and Shortle are using farmer-stakeholder meetings to test aspects of institutional structures that are hypothesized to promote pro-social behavior and collective problem-solving. The primary hypothesis to test is: Are participants more motivated to act to reduce nutrients when they develop a threshold goal through group interaction or when one is imposed upon on them? They are testing whether the degree of motivation varies by the probability of legal liability being imposed on the group, if the threshold reduction is not achieved. They are recruiting diverse farmer participants and statistically test for differences between experimental and control groups. 
 
-Non nisi est sit amet facilisis magna. Molestie at elementum eu facilisis sed odio. Vitae auctor eu augue ut lectus arcu bibendum at varius. In egestas erat imperdiet sed. Suspendisse potenti nullam ac tortor. Odio aenean sed adipiscing diam donec. Nibh cras pulvinar mattis nunc sed blandit. Nam aliquam sem et tortor consequat id porta nibh venenatis. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Magna fringilla urna porttitor rhoncus dolor purus non. Sociis natoque penatibus et magnis dis parturient montes nascetur. Aliquam etiam erat velit scelerisque in dictum non consectetur. Eget velit aliquet sagittis id consectetur purus ut faucibus. Cursus risus at ultrices mi tempus imperdiet nulla. Amet risus nullam eget felis eget. At lectus urna duis convallis convallis.
+They have been putting forth a lot of effort designing a collaborative field test with a group of technical assistance providers. They are trying to figure out an intervention that they could test while they're out on the farm working. They may be shifting to more of kind of photo visualization and showing photos of different best management practices and seeing if that is more effective or not for getting indviduals interested in adopting the pratices in the coming year.
 
-Sit amet tellus cras adipiscing enim eu. Pellentesque massa placerat duis ultricies. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Amet facilisis magna etiam tempor. Imperdiet sed euismod nisi porta. Neque ornare aenean euismod elementum nisi quis. Eget egestas purus viverra accumsan in. Nulla facilisi nullam vehicula ipsum. Amet massa vitae tortor condimentum lacinia quis. Rutrum quisque non tellus orci. Etiam dignissim diam quis enim lobortis. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Mattis molestie a iaculis at erat pellentesque adipiscing. Duis ultricies lacus sed turpis. Sem nulla pharetra diam sit amet nisl suscipit.
-
-Aliquet enim tortor at auctor urna nunc id. Amet luctus venenatis lectus magna. Lectus urna duis convallis convallis tellus. Nisi lacus sed viverra tellus in. At consectetur lorem donec massa sapien faucibus et molestie ac. Eu scelerisque felis imperdiet proin fermentum leo vel. Est sit amet facilisis magna etiam tempor orci eu lobortis. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Dui nunc mattis enim ut tellus elementum sagittis vitae et. Pellentesque dignissim enim sit amet venenatis urna cursus. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Gravida quis blandit turpis cursus in. Leo a diam sollicitudin tempor id eu nisl nunc mi.
+They're going to be rolling out these collaborative field tests with the with photo visualizations and we've also begun thinking about a natural experiment that tests higher-level variables such as the presence or absence of a farmer mentoring program or just the influence of staff funding on best management practice implementation. 

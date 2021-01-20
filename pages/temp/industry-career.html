@@ -1,9 +1,0 @@
----
-layout: page
-title: Industry and Career
-enable-banner: true
-enable-header: true
-permalink: /industry-career/
----
-{% assign sections_array = site.page-sections | where: 'enable-on-page', page.title | where: 'enabled', 'true' %}
-{% include page-section.html sections-array=sections_array %}

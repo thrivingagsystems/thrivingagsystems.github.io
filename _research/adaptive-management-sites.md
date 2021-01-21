@@ -11,7 +11,11 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people: []
+associated-people:
+- _people/kaye_jason.md
+- _people/lisenbee_whitney.md
+- _people/bradley_brosi.md
+- _people/luthard_madeline.md
 dated-added: 
 published: false
 

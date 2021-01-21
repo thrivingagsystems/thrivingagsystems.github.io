@@ -1,5 +1,5 @@
 ---
-layout: index-list
+layout: single-column-wide
 title: News and Activities
 enable-banner: true
 enable-header: true

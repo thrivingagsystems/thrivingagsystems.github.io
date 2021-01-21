@@ -1,5 +1,5 @@
 ---
-layout: index-list
+layout: single-column-wide
 title: Education
 enable-banner: true
 enable-header: true

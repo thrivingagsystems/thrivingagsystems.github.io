@@ -80,6 +80,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _research/adaptive-management-sites.md
 - _research/agent-based-modelling.md
 - _research/economic-simulations-and-modelling.md
 - _research/soil-health-and-nutrient-flows-with-enhanced-cover-cropping-and-soil-management.md

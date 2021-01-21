@@ -1,5 +1,5 @@
 ---
-layout: index-list
+layout: single-column-wide
 title: Research
 enable-banner: true
 enable-header: true

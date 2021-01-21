@@ -5,7 +5,11 @@ title: Soil Health and Nutrient Flows With Enhanced Cover Cropping and Soil Mana
 enable-header: false
 enable-banner: false
 primary-image: assets/img/sas-ccrop-3-mix-under-corn.JPG
-image-gallery: []
+image-gallery:
+- image: assets/img/field_work.jpg
+  alt-text: Ray and Qianyao working on the field site
+- image: assets/img/field_work.jpg
+  alt-text: ''
 website: ''
 linkedin: ''
 twitter: ''

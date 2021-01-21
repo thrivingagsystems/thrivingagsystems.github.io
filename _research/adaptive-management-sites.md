@@ -4,7 +4,7 @@ breadcrumbs: true
 title: Adaptive Management Sites
 enable-header: false
 enable-banner: false
-primary-image: ''
+primary-image: assets/img/milly-vueti-fbimfwf_lya-unsplash.jpg
 image-gallery: []
 website: ''
 linkedin: ''
@@ -17,7 +17,6 @@ associated-people:
 - _people/bradley_brosi.md
 - _people/luthard_madeline.md
 dated-added: 
-published: false
 
 ---
 Kaye, Bradley, Luthard, and Lisenbee are managing a cover crop species selection trial that helps farmers figure out which cover crops help meet their needs. Luthard is doing work on specifically how cover crops affect nutrient cycling across soil texture, so the team can extrapolate what they learn from their local site to other soil sites with other soil textures around the Chesapeake Bay. Most of that work has to do with how they can use cover crops in combination with manure to achieve high yielding corn. If the manure brings a lot of phosphorus and that can be coupled with a lot of nitrogen from legume cover crops, then theoretically we might not need any synthetic fertilizers at all.

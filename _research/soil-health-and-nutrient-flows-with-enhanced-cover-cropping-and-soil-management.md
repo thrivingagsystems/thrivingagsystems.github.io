@@ -8,8 +8,8 @@ primary-image: assets/img/sas-ccrop-3-mix-under-corn.JPG
 image-gallery:
 - image: assets/img/field_work.jpg
   alt-text: Ray and Qianyao working on the field site
-- image: assets/img/field_work.jpg
-  alt-text: ''
+- image: assets/img/sas39d_3mixcover-post-harvest6.JPG
+  alt-text: Field site
 website: ''
 linkedin: ''
 twitter: ''

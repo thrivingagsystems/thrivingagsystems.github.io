@@ -23,7 +23,7 @@ dated-added:
 ---
 Weil and Si are working on the evaluation of soil health and nutrient flow evaluation with some types of best management practices like enhanced cover cropping and soil management. They are working on three field sites in total which are at the CMREC Beltsville Facility and Hayden Farm Fields in Glenn Dale, MD. They have started their research and established the corn and soybean rotations with different treatments of cover crop.
 
-These split plots use enhanced cover cropping and minimal cover cropping: no cover, rye, and a radish-rye-clover mix. Weil and Si have been tracking soil moisture and temperature sensor data, as well as calibrating sensors for topsoil and subsoil at sandy and clay sites.
+The split plots use enhanced cover cropping and minimal cover cropping: no cover, rye, and a radish-rye-clover mix. Weil and Si have been tracking soil moisture and temperature sensor data, as well as calibrating sensors for topsoil and subsoil at sandy and clay sites.
 
 In the field, they have installed the erosion runoff weirs for runoff and are collecting surface runoff after major rain events. They are also harvesting and measuring corn and soybean yields. 
 

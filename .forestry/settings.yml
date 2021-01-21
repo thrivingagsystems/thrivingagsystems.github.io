@@ -70,28 +70,28 @@ sections:
 - type: heading
   label: Page configuration
 - type: document
-  path: index.html
+  path: index.md
   label: Home Page
 - type: document
-  path: pages/project-overview.html
+  path: pages/project-overview.md
   label: About Project Overview
 - type: document
-  path: pages/project-objectives.html
+  path: pages/project-objectives.md
   label: About Project Objectives
 - type: document
-  path: pages/stakeholder-advisory-board.html
+  path: pages/stakeholder-advisory-board.md
   label: About Stakeholder Adv. Board
 - type: document
-  path: pages/outreach-engagement.html
+  path: pages/outreach-engagement.md
   label: Outreach / Engagement
 - type: document
-  path: pages/research.html
+  path: pages/research.md
   label: Research
 - type: document
-  path: pages/education.html
+  path: pages/education.md
   label: Education
 - type: document
-  path: pages/news-and-activities.html
+  path: pages/news-and-activities.md
   label: News and Activities
 - type: heading
   label: Site Configuration

@@ -1,6 +1,6 @@
 ---
 title: 'Investigating the U.S. Food System: How Food Moves from Field to Table'
-course-number: AGBM 170Z - A Course at Penn State
+course-number: AGBM 170Z - Penn State
 image: ''
 bulletin-link: ''
 instructors:

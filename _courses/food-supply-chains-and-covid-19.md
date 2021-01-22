@@ -1,6 +1,6 @@
 ---
 title: Food Supply Chains and Covid-19
-course-number: AGBM 497 - A Course at Penn State
+course-number: AGBM 497 - Penn State
 image: ''
 bulletin-link: ''
 instructors:

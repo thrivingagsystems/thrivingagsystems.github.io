@@ -1,15 +1,18 @@
 ---
-title: A course about thriving systems
-course-number: Course 101
+title: 'Investigating the U.S. Food System: How Food Moves from Field to Table'
+course-number: 'AGBM 170Z '
 image: ''
-bulletin-link: http://bulletins.psu.edu
+bulletin-link: ''
 instructors:
-- Joan Smith
-- John Adams
-description: This course explores the research topic through a series of engaging
-  learning outcomes using sound pedagocial approaches to teaching and learning. The
-  field is explored, projects are created, lessons are learned, lectures are given,
-  group work also happens.
-published: false
+- Ted Jaenicke
+description: 'The American food system is a product of a complex interaction of three
+  systems: the natural ecosystem, the managed agricultural system, and the socio-economic
+  system. Farming, food processing, food distribution, and consumption decisions are
+  all governed by the interaction of these systems. This course investigates a number
+  of overarching scientific and social "hot-button" topics that affect or are affected
+  by the food system, such as genetically modified organisms (GMOs), organic crops
+  and food, agricultural and food policy, environmental implications of agricultural
+  production, food safety, diet and health, agricultural trade and international development,
+  and domestic food insecurity and food access.'
 
 ---

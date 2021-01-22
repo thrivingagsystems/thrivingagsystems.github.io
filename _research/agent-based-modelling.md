@@ -19,7 +19,7 @@ associated-people:
 dated-added: 2021-01-19T19:00:00.000+00:00
 
 ---
-Klaiber, Wrenn, Shortle, and Hua are focusing their research on a land conversion model and how one land use type is converting to another. They are using data to try to discover what land is undeveloped and then using that to figure out when that undeveloped land becomes developed. They are aiming to gain a richer characterization of conversions from one land use type to another.
+Klaiber, Wrenn, Shortle, and Hua are focusing their research on a land conversion model and how one land use type is converting to another. They are using data to discover what land is undeveloped and then using that to figure out when that undeveloped land becomes developed. They are aiming to gain a richer characterization of conversions from one land use type to another.
 
 This research team is also gathering information on prices and have assembled a nationwide data set. In the Chesapeake Bay region, there are several million housing transactions, farm transactions, and vacant land transactions. The team is thinking about how to create measures of both the value of locations for urban development, as well as the value of farmland that's being transacted. This involves taking millions of housing transactions and farm transactions and trying to estimate the price of land in these different land use types in different regions. The aim is to use these prices as key determinants of why land might change from one type to another.
 

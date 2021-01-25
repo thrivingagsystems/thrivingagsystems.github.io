@@ -8,7 +8,7 @@ enable-image: true
 image: assets/img/umd
 event-date: 
 description: "<p>The University of Maryland featured an article about the Thriving
-  Ag Project titled, <em>Creating a Sustainable Future for the Chesapeake Bay Watershed
+  Ag project titled, <em>Creating a Sustainable Future for the Chesapeake Bay Watershed
   and its People</em>.</p>"
 enable-button-link: true
 button-text: Go to the news article

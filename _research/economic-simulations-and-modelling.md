@@ -4,7 +4,7 @@ breadcrumbs: true
 title: Economic Simulations and Modelling
 enable-header: false
 enable-banner: false
-primary-image: ''
+primary-image: assets/img/urbanized_ag
 image-gallery: []
 website: ''
 linkedin: ''

@@ -4,8 +4,8 @@ breadcrumbs: true
 enable-featured-card: true
 enable-header: ''
 title: University of Maryland's News Article on the Thriving Ag Project
-enable-image: false
-image: ''
+enable-image: true
+image: assets/img/umd
 event-date: 
 description: "<p>The University of Maryland featured an article about the Thriving
   Ag Project titled, <em>Creating a Sustainable Future for the Chesapeake Bay Watershed

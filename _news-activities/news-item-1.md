@@ -3,8 +3,8 @@ layout: news-activity
 title: 'Penn State''s Press Release '
 enable-header: ''
 breadcrumbs: true
-enable-image: false
-image: assets/img/news-item-1-1.jpg
+enable-image: true
+image: assets/img/news-item-psu-00001.jpg
 event-date: 
 description: "<p>Penn State releases a news article on the Thriving Ag project titled,
   <em>Researchers aim to create thriving agricultural systems in urbanizing landscapes</em>.</p>"

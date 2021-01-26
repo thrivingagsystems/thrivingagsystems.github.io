@@ -14,6 +14,9 @@ associated-people:
 - _people/wainger_lisa.md
 - _people/read_dan.md
 - _people/shortle_jim.md
+- _people/nunn_nancy.md
+- _people/kumarchaudhary_anil.md
+- _people/everts_kate.md
 date-added: 2020-12-24T05:00:00.000+00:00
 
 ---

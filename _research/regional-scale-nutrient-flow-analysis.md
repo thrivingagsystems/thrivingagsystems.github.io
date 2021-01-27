@@ -4,7 +4,7 @@ breadcrumbs: true
 title: Regional-Scale Nutrient Flow Analysis 
 enable-header: false
 enable-banner: false
-primary-image: ''
+primary-image: assets/img/kim-gorga-bmghcvb2axa-unsplash.jpg
 image-gallery: []
 website: 'www.fewslab.org '
 linkedin: ''

@@ -12,7 +12,15 @@ layout: page
   <div class="small-12 medium-8 columns">
     
     <h1 class="title">{{ page.title}}</h1>
-    <p><a href="{{ page.website}}">{{ page.website}}</a></p>
+    {% capture orig_url %}{{ page.website | split:"."}}{% endcapture %}
+    
+    {% if orig_url contains "http" %}
+    {% assign updated_url = page.website %}
+    <p><a href="{{ updated_url }}">{{ page.website }}</a></p>
+    {% else %}
+    {% assign updated_url = page.website | prepend: 'https://' %}
+    <p><a href="{{ updated_url }}">{{ page.website }}</a></p>
+    {% endif %}
 
     {{ content }}
     

@@ -6,7 +6,7 @@ enable-header: false
 enable-banner: false
 primary-image: assets/img/kim-gorga-bmghcvb2axa-unsplash.jpg
 image-gallery: []
-website: 'www.fewslab.org '
+website: https://www.fewslab.org
 linkedin: ''
 twitter: ''
 facebook: ''

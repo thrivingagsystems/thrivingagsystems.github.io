@@ -1,10 +1,10 @@
 ---
 accounts:
   twitter:
-    url: http://twitter.com
+    url: https://twitter.com/thrivingag
   facebook:
     url: https://www.facebook.com/thrivingag
   linkedin:
-    url: http://linkedin.com
+    url: ''
   instagram:
     url: http://instagram.com

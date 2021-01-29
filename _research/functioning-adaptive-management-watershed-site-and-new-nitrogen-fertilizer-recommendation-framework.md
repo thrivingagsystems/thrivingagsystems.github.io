@@ -5,8 +5,12 @@ title: Functioning Adaptive Management Watershed Site and New Nitrogen Fertilize
   Recommendation Framework
 enable-header: false
 enable-banner: false
-primary-image: ''
-image-gallery: []
+primary-image: assets/img/20201013_112807.jpg
+image-gallery:
+- image: assets/img/20201113_124543.jpg
+  alt-text: Collecting samples on the field site.
+- image: assets/img/field_work_sanders.jpg
+  alt-text: The team completing field work on site.
 website: 'https://extension.psu.edu/nitrogen-recommendations-for-corn '
 linkedin: ''
 twitter: ''

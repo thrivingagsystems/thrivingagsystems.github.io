@@ -17,9 +17,9 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
-- _people/white_charlie.md
-- _people/sanders_zack.md
 - _people/ordonez_raziel.md
+- _people/sanders_zack.md
+- _people/white_charlie.md
 dated-added: 
 
 ---

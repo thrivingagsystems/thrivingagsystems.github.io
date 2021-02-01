@@ -6,7 +6,7 @@ enable-header: false
 enable-banner: false
 primary-image: assets/img/flowers
 image-gallery: []
-website: ''
+website: https://doi.org/10.1371/journal.pone.0235868
 linkedin: ''
 twitter: ''
 facebook: ''

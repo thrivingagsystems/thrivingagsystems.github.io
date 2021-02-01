@@ -30,13 +30,13 @@ image: assets/img/istock-975086022.jpg
             <h3 class="center-align">{{ item.course-number }}</h3>
             <h2 class="center-align">{{ item.title }}</h2>
         </div>
-        
+        {% if item.bulletin-link and item.bulletin-link != '' and item.bulletin-link != empty and item.bulletin-link != null %}
         <p> <a href="{{ item.bulletin-link }}">Course Bulletin</a></p>
+        {% endif %}
         {% assign instructors = item.instructors %}
-        <p><strong>Instructor(s):</strong></p>
-        {% for instructor in instructors %}
-            <p class="instructor-name">{{ instructor }}</p>
-        {% endfor %}
+        <p><strong>Instructor(s): </strong>
+        {{ instructors | array_to_sentence_string: '' }}
+        </p>
         <p><strong>Course Description:</strong> {{ item.description  }}</p>
         {% if item.enable-button-link == true %}
             <a href="{{ item.button-url }}">{{ item.button-text }}</a>
@@ -57,12 +57,14 @@ image: assets/img/istock-975086022.jpg
             <h2 class="center-align">{{ item.title }}</h2>
         </div>
         
+        {% if item.bulletin-link and item.bulletin-link != '' and item.bulletin-link != empty and item.bulletin-link != null %}
         <p> <a href="{{ item.bulletin-link }}">Course Bulletin</a></p>
+        {% endif %}
         {% assign instructors = item.instructors %}
-        <p><strong>Instructor(s):</strong></p>
-        {% for instructor in instructors %}
-            <p class="instructor-name">{{ instructor }}</p>
-        {% endfor %}
+        <p><strong>Instructor(s): </strong>
+        {{ instructors | array_to_sentence_string: '' }}
+        
+        </p>
         <p><strong>Course Description:</strong> {{ item.description  }}</p>
         {% if item.enable-button-link == true %}
             <a href="{{ item.button-url }}">{{ item.button-text }}</a>

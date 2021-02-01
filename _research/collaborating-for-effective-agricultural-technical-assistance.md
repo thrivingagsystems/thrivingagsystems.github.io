@@ -4,7 +4,7 @@ breadcrumbs: true
 title: Collaborating for Effective Agricultural Technical Assistance
 enable-header: false
 enable-banner: false
-primary-image: ''
+primary-image: assets/img/unleashed-agency-kcu1rxdrb2e-unsplash.jpg
 image-gallery: []
 website: 'https://farmpartners.cbl.umces.edu/ '
 linkedin: ''
@@ -19,7 +19,6 @@ associated-people:
 - _people/shortle_jim.md
 - _people/wainger_lisa.md
 dated-added: 
-published: false
 
 ---
 This task aims to understand what agricultural technical assistance practices are most effective at promoting farmers’ adoption of soil and water conservation practices, and to expand their use throughout the Chesapeake watershed. To achieve this goal, we are working with the technical assistance providers to understand the possibilities for how best to reach out and talk to farmers about conservation practices. Ultimately, our goal is to realize an increase in the number of farmers adopting conservation practices for the amount of effort being put into outreach.

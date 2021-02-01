@@ -12,13 +12,13 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
-- _people/bosch_darrell.md
 - _people/abler_dave.md
+- _people/bosch_darrell.md
+- _people/hu_chenyang.md
+- _people/huang_xuetao.md
+- _people/sharma_sadikshya.md
 - _people/shortle_jim.md
 - _people/zhang_wei.md
-- _people/hu_chenyang.md
-- _people/sharma_sadikshya.md
-- _people/huang_xuetao.md
 dated-added: 
 
 ---

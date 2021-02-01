@@ -12,10 +12,10 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
-- _people/klaiber_allen.md
-- _people/wrenn_doug.md
-- _people/shortle_jim.md
 - _people/hua_junyi.md
+- _people/klaiber_allen.md
+- _people/shortle_jim.md
+- _people/wrenn_doug.md
 dated-added: 2021-01-19T19:00:00.000+00:00
 
 ---

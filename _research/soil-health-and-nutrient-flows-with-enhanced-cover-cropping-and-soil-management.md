@@ -10,7 +10,8 @@ image-gallery:
   alt-text: Ray and Qianyao working on the field site
 - image: assets/img/sas39d_3mixcover-post-harvest6.JPG
   alt-text: Field site
-website: 'http://www.sciencedirect.com/science/article/pii/S0167880920304606, http://dx.doi.org/10.2134/ael2018.10.0055 '
+website: 'http://www.sciencedirect.com/science/article/pii/S0167880920304606, http://dx.doi.org/10.2134/ael2018.10.0055,
+  http://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf  '
 linkedin: ''
 twitter: ''
 facebook: ''

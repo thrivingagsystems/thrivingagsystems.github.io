@@ -20,7 +20,7 @@ partner:
   image: assets/img/usu.jpg
   enable-image-link: false
   url: ''
-description: "<p>This text will display in the footer.</p>"
+description: "<p></p>"
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color-1.jpg

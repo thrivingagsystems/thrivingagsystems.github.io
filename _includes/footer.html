@@ -15,11 +15,12 @@
 			<hr>
 		
 		</div>
-			<div class="column small-12"><span class="center-align partner-logos">{% include partners.html %}</span><hr></div>
+			<div class="column small-12 medium-6 medium-push-3 "><span class="center-align partner-logos">{% include partners.html %}</span></div>
 			<div class="column small-12"><span class="center-align">
 			
 				{% for section in site.layout-sections  %}
-					{% if section.slug == "footer-content" %}		
+					{% if section.slug == "footer-content" %}
+					<hr>	
 					<p>{{ section.project-sponsor-description }}</p>
 					<span class="center-align project-sponsor-logo"><img src="{{site.baseurl}}/{{ section.project-sponsor-logo }}"></span>
 					{% endif %}

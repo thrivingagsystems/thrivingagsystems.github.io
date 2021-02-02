@@ -25,7 +25,7 @@ Luthard is doing work specifically on how cover crops affect nutrient cycling ac
 
 Lisenbee has parameterized the Soil Water Assessment Tool (SWAT) to the cover crop site at Rock Springs, PA. Next, she will develop scenarios in SWAT to understand how environmental or climate changes could affect nutrient cycling in the field. She is also looking to parameterize other adaptive management field sites in SWAT to be compared to field measurements. Lisenbee will be using SWAT to model multiple field sites across the Chesapeake Bay watershed to create a network of adaptive management sites with a range of physical characteristics synthesized through modeling.
 
-Related Publications and Websites:
+#### Related Publications:
 
 * [Managing nitrogen through cover crop species selection in the U.S. mid-Atlantic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215448)
 * [Cover crop mixture expression is influenced by nitrogen availability and growing degree days](https://doi.org/10.1371/journal.pone.0235868)

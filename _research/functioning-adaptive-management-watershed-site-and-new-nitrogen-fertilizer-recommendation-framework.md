@@ -30,3 +30,5 @@ This team has identified an adaptive management field site in State College, PA.
 Each growing season, the team conducts a series of on-farm experiments on different soil types and with different cover crop management practices. Six different nitrogen rates are applied to the corn to develop a yield response curve to applied nitrogen. The results of the yield response curve, and measurements of plant biomass partitioning and N uptake will help the team refine and validate the new nitrogen fertilizer recommendation framework that credits N from cover crops and soil organic matter.
 
 #### Related Publications:
+
+* [Experimental Nitrogen Recommendation Framework Tools](https://extension.psu.edu/nitrogen-recommendations-for-corn)

@@ -10,8 +10,7 @@ image-gallery:
   alt-text: Ray and Qianyao working on the field site
 - image: assets/img/sas39d_3mixcover-post-harvest6.JPG
   alt-text: Field site
-website: 'http://www.sciencedirect.com/science/article/pii/S0167880920304606, http://dx.doi.org/10.2134/ael2018.10.0055,
-  http://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf  '
+website: ''
 linkedin: ''
 twitter: ''
 facebook: ''
@@ -31,3 +30,9 @@ Weil and Si have been tracking soil moisture and temperature via a network of se
 In the field, they have installed 22 mini erosion runoff weirs for collecting surface runoff after major rain events during the fall-winter-spring cover cropping season. They have also installed nearly 100 suction lysimeters to sample soil macropore water at 50 and 90 cm depth to determine nutrient concentrations in water leaching below the root zone. In addition, they have installed 12 shallow piezometer wells in transects running downslope from the cropland into the adjacent forest wetland. An additional 12 deeper wells will be installed in summer when the water table is lower. These wells will be used to periodically sample the upper meter of groundwater year around.
 
 The nutrient concentrations and soil water data will be used to model the hydrology of the sites and provide parameters for regional water and nutrient modeling. The biomass samples of the cover crops have been collected as well and will be analyzed for total N. They are also harvesting and measuring corn and soybean yields. These data will assist in modeling productivity and profitability of the practices.
+
+#### Related Publications and Websites:
+
+* [Scavenging and recycling deep soil nitrogen using cover crops on mid-Atlantic, USA farms](https://www.sciencedirect.com/science/article/abs/pii/S0167880920304606 "Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA farms")
+* [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]( "https://acsess.onlinelibrary.wiley.com/doi/10.2134/ael2018.10.0055")
+* [2019 Field Crop Budgets & Custom Farming Rates, University of Maryland Extension](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf)

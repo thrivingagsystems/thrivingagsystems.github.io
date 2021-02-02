@@ -6,7 +6,7 @@ enable-header: false
 enable-banner: false
 primary-image: assets/img/unleashed-agency-kcu1rxdrb2e-unsplash.jpg
 image-gallery: []
-website: 'https://farmpartners.cbl.umces.edu/ '
+website: ''
 linkedin: ''
 twitter: ''
 facebook: ''
@@ -26,3 +26,7 @@ This task aims to understand what agricultural technical assistance practices ar
 To achieve this goal, we are pursuing a two-stage research agenda. For the first stage, we interviewed technical assistance providers to understand what they find to be most effective ways of engaging farmers about conservation, and also interviewed and surveyed farmers to understand their experiences working with technical assistance. We used results from this exploratory work to design the second stage of our project. For this stage, we are designing a collaborative field experiment to test the effectiveness of different outreach techniques. We will work with technical assistance providers to test different techniques with randomly selected groups of farmers and measure how effective those techniques were at achieving multiple outcomes. Additionally, we are exploring county-level data to see how the implementation of different programs and policies across the watershed associated with conservation practice adoption and changes in water quality.
 
 Through this work, we aim to generate an evidence base that will be relevant to practitioners and policy-makers looking to effectively promote the adoption of agricultural conservation practices.
+
+#### Related Websites:
+
+[Enhancing Farmer Engagement in the Chesapeake](https://farmpartners.cbl.umces.edu/ )

@@ -5,7 +5,8 @@ enable-header: false
 breadcrumbs: true
 primary-image: assets/img/neonbrand-sewtu-qy06c-unsplash.jpg
 image-gallery: []
-website: ''
+website: 'Campbell, Benjamin., Liu, Yizao , and Katz, Michael. (2019). Local and Organic
+  Preference: Logo versus Text. Journal of Agricultural and Applied Economics. Forthcoming. '
 linkedin: ''
 twitter: ''
 facebook: ''

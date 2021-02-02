@@ -31,7 +31,7 @@ In the field, they have installed 22 mini erosion runoff weirs for collecting su
 
 The nutrient concentrations and soil water data will be used to model the hydrology of the sites and provide parameters for regional water and nutrient modeling. The biomass samples of the cover crops have been collected as well and will be analyzed for total N. They are also harvesting and measuring corn and soybean yields. These data will assist in modeling productivity and profitability of the practices.
 
-#### Related Publications and Websites:
+#### Related Publications:
 
 * [Scavenging and recycling deep soil nitrogen using cover crops on mid-Atlantic, USA farms](https://www.sciencedirect.com/science/article/abs/pii/S0167880920304606 "Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA farms")
 * [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]( "https://acsess.onlinelibrary.wiley.com/doi/10.2134/ael2018.10.0055")

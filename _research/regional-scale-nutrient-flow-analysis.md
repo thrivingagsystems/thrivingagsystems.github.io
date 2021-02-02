@@ -21,4 +21,4 @@ Grady and Mohammadpour are using embedded resource accounting to track imports a
 
 #### Related Publications and Websites:
 
-* [FEWs Lab](https://gradylab.psu.edu/)
+[FEWs Lab](https://gradylab.psu.edu/)

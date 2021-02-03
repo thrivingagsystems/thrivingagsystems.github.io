@@ -50,6 +50,11 @@ fields:
 - type: text
   name: website
   label: website
+- name: link-title
+  type: text
+  config:
+    required: false
+  label: Website Link Title
 - type: text
   name: linkedin
   label: linkedin

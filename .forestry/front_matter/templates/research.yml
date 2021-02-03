@@ -50,6 +50,12 @@ fields:
 - type: text
   name: website
   label: website
+- name: link-title
+  type: text
+  config:
+    required: false
+  label: Website Link Title
+  description: The title text will be display as linked text.
 - type: text
   name: linkedin
   label: linkedin

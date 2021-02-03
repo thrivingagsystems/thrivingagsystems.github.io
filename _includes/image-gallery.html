@@ -25,11 +25,21 @@
         {% for item in include.image %}
         {% if item.enable-image-link == true %}
         <div class="column column-block">
-            <a href="{{ item.url }}"><img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail"></a>
+            <figure>
+                <a href="{{ item.url }}"><img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail"></a>
+                {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}{{ item.caption }}
+                    <figcaption >Space, the final frontier.</figcaption>
+                {% endif %}
+              </figure>
         </div>
         {% else %}
         <div class="column column-block">
-            <img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail">
+            <figure>
+                {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}{{ item.caption }}
+                    <figcaption >Space, the final frontier.</figcaption>
+                    {% endif %}
+                <img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail">
+            </figure>
         </div>
 
         {% endif %}

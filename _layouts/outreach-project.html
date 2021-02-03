@@ -16,10 +16,10 @@ layout: page
     
     {% if orig_url contains "http" %}
     {% assign updated_url = page.website %}
-    <p><a href="{{ updated_url }}">{{ page.website }}</a></p>
+    <p><a href="{{ updated_url }}">{% if page.link-title and page.link-title != '' and page.link-title != empty and page.link-title != null %}{{ page.link-title }}{% else %}{{ page.website }}{% endif %}</a></p>
     {% else %}
     {% assign updated_url = page.website | prepend: 'https://' %}
-    <p><a href="{{ updated_url }}">{{ page.website }}</a></p>
+    <p><a href="{{ updated_url }}">{% if page.link-title and page.link-title != '' and page.link-title != empty and page.link-title != null %}{{ page.link-title }}{% else %}{{ page.website }}{% endif %}</a></p>
     {% endif %}
 
     {{ content }}

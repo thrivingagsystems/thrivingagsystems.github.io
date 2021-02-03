@@ -1,44 +1,55 @@
 {% if include.display_mode == "lightbox" %}
 
-    <div class="row small-up-1 medium-up-2 large-up-3">
+    <div class="row small-up-1 medium-up-2">
         {% if include.gallery_title %}
             <h3>{{ include.gallery_title }}</h3>
         {% endif %}
         {% for item in include.image %}
         <div class="column column-block">
-        <a href="#{{ item.image | slugify }}">
-            <img src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail">
-            </a></li>
-            <!-- lightbox container hidden with CSS -->
-            <a href="#_" class="lightbox" id="{{ item.image | slugify }}">
-            <img src="{{ site.baseurl }}/{{ item.image }}">
-            </a>
-            {%- if item.enable_caption == true -%}
-                <p class="italic small">{{ item.alt-text }}</p>
+        
+            
+            {%- if include.enable_caption == true -%}
+            <figure>
+                <a href="#{{ item.image | slugify }}">
+                    <img src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail" alt="{{ item.alt-text }}">
+                </a></li>
+                <!-- lightbox container hidden with CSS -->
+                <a href="#_" class="lightbox" id="{{ item.image | slugify }}">
+                <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.alt-text }}">
+                </a>
+                {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}
+                <figcaption ><p class="italic small">{{ item.caption }}</p></figcaption>
+                {% endif %}
+            </figure>
             {%- endif -%}
         </div>
         {% endfor %}
     </div>
 {% else %}
     
-    <div class="row small-up-3 medium-up-5 large-up-6 small-centered">
+    <div class="row small-up-2 medium-up-4 large-up-6 small-centered">
         {% for item in include.image %}
         {% if item.enable-image-link == true %}
-        <div class="column column-block">
+        <div class="column column-block small-centered">
             <figure>
                 <a href="{{ item.url }}"><img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail"></a>
-                {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}{{ item.caption }}
-                    <figcaption >Space, the final frontier.</figcaption>
+                {%- if include.enable_caption == true -%}
+                    {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}
+                        <figcaption >{{ item.caption }}</figcaption>
+                    {% endif %}
                 {% endif %}
               </figure>
         </div>
         {% else %}
-        <div class="column column-block">
+        <div class="column column-block small-centered">
             <figure>
-                {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}{{ item.caption }}
-                    <figcaption >Space, the final frontier.</figcaption>
-                    {% endif %}
                 <img alt="{{ image.alt-text }}" src="{{ site.baseurl }}/{{ item.image }}" class="thumbnail">
+                {%- if include.enable_caption == true -%}
+                    {% if item.caption and item.caption != '' and item.caption != empty and item.caption != null %}
+                        <figcaption >{{ item.caption }}</figcaption>
+                    {% endif %}
+                {% endif %}
+                
             </figure>
         </div>
 

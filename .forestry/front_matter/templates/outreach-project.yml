@@ -47,6 +47,11 @@ fields:
   - type: text
     name: alt-text
     label: alt-text
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
 - type: text
   name: website
   label: website

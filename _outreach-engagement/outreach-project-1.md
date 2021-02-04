@@ -20,4 +20,4 @@ associated-people:
 date-added: 2020-12-24T05:00:00.000+00:00
 
 ---
-The research behind this outreach aims to generate an understanding of best practices to guide agri-environmental problem solving among agricultural producers, technical assistance providers promoting environmental goals, and other stakeholders. Research results will help inform field staff from USDA's Natural Resources Conservation Service (NRCS), soil and water conservation districts, university extension programs, non-profits, and private consultants on how to effectively engage with farmers across the Chesapeake Bay region.
+The research behind this outreach aims to generate an understanding of best practices to guide agri-environmental problem solving among agricultural producers, technical assistance providers promoting environmental goals, and other stakeholders. Research results will help inform field staff from USDA's Natural Resources Conservation Service (NRCS), soil and water conservation districts, university extension programs, non-profits, and private consultants on how to effectively engage with farmers across the Chesapeake Bay watershed.

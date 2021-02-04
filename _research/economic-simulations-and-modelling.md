@@ -20,6 +20,7 @@ associated-people:
 - _people/shortle_jim.md
 - _people/zhang_wei.md
 dated-added: 
+link-title: ''
 
 ---
 Bosch, Zhang, Abler, Shortle, Hu, Huang, and Sharma are looking at how the economic and environmental sustainability of agriculture in the Chesapeake Bay watershed is impacted by national-level government policies and market developments. To accomplish this task they are using the Regional Environment and Agriculture Programming (REAP) model. REAP is a large-scale, partial-equilibrium economic-environmental model of the U.S. agricultural sector developed by USDA’s Economic Research Service (ERS). The model is partial equilibrium in the sense that it focuses on the agricultural sector and not other sectors of the economy.
@@ -28,4 +29,4 @@ The REAP model currently divides the U.S. into 273 agricultural production regio
 
 The REAP model is used to simulate the regional allocation of agricultural resources (land, fertilizer, water, and other inputs) and agricultural production in response to changes in policy, market, and biophysical conditions. The research team is currently working with ERS and other cooperating institutions to update and refine the REAP model. The team is also currently using the REAP model to evaluate effects of energy cost changes on U.S. and regional crop and livestock production, consumption, and prices.
 
-In addition to the work using the REAP model, the research team is examining trends in agricultural production and environmental indicators in urbanized landscapes – metro counties and metro-adjacent counties – over the period from 2007 to 2017. The team is examining both counties in the Chesapeake Bay watershed and in the U.S. as a whole. The questions the team is investigating are: where is agriculture thriving, which counties are doing better than others on the agricultural and environmental indicators, what can be learned from the counties that are doing better than others.
+In addition to the work using the REAP model, the research team is examining trends in agricultural production and environmental indicators in urbanized landscapes – metro counties and metro-adjacent counties – over the period from 2007 to 2017. The team is examining both counties in the Chesapeake Bay watershed and in the U.S. as a whole. Using data envelopment analysis (DEA), the questions the team is investigating are: where is agriculture thriving, which counties are doing better than others on the agricultural and environmental indicators, what can be learned from the counties that are doing better than others.

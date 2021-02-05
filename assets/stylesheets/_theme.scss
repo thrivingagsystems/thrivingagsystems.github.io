@@ -653,13 +653,27 @@ li.orbit-slide {
 
 .header-attn-text {
 	font-size: 4rem;
+	line-height: 4.5rem;
 	border-radius: 0px;
 	padding:0.5rem 1rem ;
 	font-weight:800;
 	color: rgba(255,255,255,1);
+	text-align:center;
 	// background-color:rgba(0,0,0,0.5);
-	// text-shadow: 0px 3px 20px rgba(0,0,0,0.8);
+	text-shadow: 0px 3px 20px rgba(0,0,0,0.8);
 	// mix-blend-mode: multiply;
+	@media #{$small-only} {
+		font-size: 3rem;
+		line-height: 3.5rem;
+		padding: 5rem 1rem ;
+	}
+	@media #{$xlarge-up} {
+		font-size: 5rem;
+		padding: 0.5rem 1rem ;
+		// text-align:left;
+		line-height: 5.5rem;
+	}
+
 }
 
 

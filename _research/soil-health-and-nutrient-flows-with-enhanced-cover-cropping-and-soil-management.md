@@ -38,4 +38,4 @@ The nutrient concentrations and soil water data will be used to model the hydrol
 
 * Hirsh, S.M., Duiker, S.W., Graybill, J., Nichols, K., & Weil, R. (2021). [Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA Farms](https://doi.org/10.1016/j.agee.2020.107274).
 * Hirsh, S., & Weil, R. (2019). [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]( "https://acsess.onlinelibrary.wiley.com/doi/10.2134/ael2018.10.0055").
-* Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). _Agronomy News, University of Maryland Extension, 10(1_), 3-4.
+* Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). _Agronomy News, University of Maryland Extension, 10(1), 3-4._

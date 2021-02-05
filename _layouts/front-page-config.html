@@ -62,11 +62,7 @@ layout: default
 
           <div class="small-12 medium-push-1 medium-4 large-push-2 large-4 columns head-spacing foot-spacing">
             
-            {% if page.twitter-feed == true %}
-            <div class="tweet-box">
-              <a class="twitter-timeline" data-lang="en" data-height="800" data-dnt="true" href="https://twitter.com/{{ page.twitter-account }}">Tweets by {{ page.twitter-account }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div>
-            {% endif %}
+            
 
             {% assign events = site.news-activities | reverse %}
             {% for event in events %}
@@ -81,6 +77,11 @@ layout: default
               
               {% endif %}
             {% endfor %}
+            {% if page.twitter-feed == true %}
+            <div class="tweet-box">
+              <a class="twitter-timeline" data-lang="en" data-height="640" data-dnt="true" href="https://twitter.com/{{ page.twitter-account }}">Tweets by {{ page.twitter-account }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            {% endif %}
             
           </div>
       

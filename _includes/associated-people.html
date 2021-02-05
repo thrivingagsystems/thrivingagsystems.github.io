@@ -15,11 +15,13 @@
 
                 <div class="columns small-12 medium-6 ">   
                     <div class="row team-member">   
-                        {% if include.image == true and site-person.image != empty and site-person.image != '' and site-person.image != null %} 
                         <div class="small-3 large-4 columns">
+                        {% if include.image == true and site-person.image != empty and site-person.image != '' and site-person.image != null %} 
+                        
                             <img class="profile-img" src="{{site.baseurl}}/{{ site-person.image }}" />
-                        </div>
+                        
                         {% endif %}
+                        </div>
                         <div class="small-9 large-8 columns">
                             {% if include.name == true and site-person.name != empty and site-person.name != '' and site-person.name != null %}
                                 <h3 class="person-name {{include.class}}">{{ site-person.name }}</h3>

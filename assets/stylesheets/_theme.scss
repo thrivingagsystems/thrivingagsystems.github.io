@@ -531,14 +531,27 @@ div.featured-card {
 	padding:1rem;
 	margin:1rem 0;
 	border:3px solid #efefef;
-	// background-color: #efefef;
+	background-color: #efefef;
 	border-radius: 4px;
 
-	.featured-card {
-		padding:0 1rem;
+	h4.featured-card {
+		// font-family: "Open Sans",sans-serif;
+		// color: #fff;
+		text-transform: none;
+		// color: #ccc;
+		font-size: 1.25rem;
+		padding: 1.5rem 0.5rem 1rem;
+		
+		a {
+			text-decoration: none;
+			padding-left: 0rem;
+		}
 	}
 	img {
 		min-width:100%;
+	}
+	.card-section a {
+		padding-left: 0.5rem;
 	}
 }
 

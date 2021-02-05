@@ -11,7 +11,7 @@ layout: page
        
   
   <div class="column small-12 medium-4 center">
-  <img class="center-align"  src="{{site.baseurl}}/{{ page.image }}" width="200" />
+  <img class="center-align"  src="{{site.baseurl}}/{{ page.image }}" width="400" />
 </div>
 <div class="column small-12 medium-8">
   <h3 class="show-for-medium title">{{ page.title }}</h3>
@@ -19,7 +19,7 @@ layout: page
   <p> {{ page.event-date }}</p>
       <p> {{ page.description  }}</p>
       {% if page.enable-button-link == true %}
-          <a href="{{ page.button-url }}">{{ page.button-text }}</a>
+          <a href="{{ page.button-url }}" class="button radius">{{ page.button-text }}</a>
       {% endif%}
   </div>
   
@@ -33,7 +33,7 @@ layout: page
   <p> {{ page.event-date }}</p>
       <p> {{ page.description  }}</p>
       {% if page.enable-button-link == true %}
-          <a href="{{ page.button-url }}">{{ page.button-text }}</a>
+          <a href="{{ page.button-url }}" class="button radius">{{ page.button-text }}</a>
       {% endif%}
   </div>
 

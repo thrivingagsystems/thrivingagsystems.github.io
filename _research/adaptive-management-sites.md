@@ -28,5 +28,5 @@ Lisenbee has parameterized the Soil Water Assessment Tool (SWAT) to the cover cr
 
 #### Related Publications:
 
-* [Managing nitrogen through cover crop species selection in the U.S. mid-Atlantic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215448)
-* [Cover crop mixture expression is influenced by nitrogen availability and growing degree days](https://doi.org/10.1371/journal.pone.0235868)
+* Kaye, J., Finney, D., White, C., Bradley, B., Schipanski, M., Alonso-Ayuso, M., Hunter, M., Burgess, M., & Mejia, C. (2019). [Managing Nitrogen Through Cover Crop Species Selection in the U.S. Mid-Atlantic](https://doi.org/10.1371/journal.pone.0215448). 
+* Baraibar, B., Murrell, E.G., Bradley, B.A., Barbercheck, M.E., Mortensen, D.A., Kaye, J.P., White, C.M. (2020). [Cover Crop Mixture Expression is Influenced by Nitrogen Availability and Growing Degree Days](https://doi.org/10.1371/journal.pone.0235868).

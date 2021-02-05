@@ -24,6 +24,6 @@ Jaenicke, Liu, and Reed are studying consumer demand for local and organic produ
 
 #### Related Publications:
 
-* Campbell, Benjamin., Liu, Yizao , and Katz, Michael. (2019). Local and Organic Preference: Logo versus Text. Journal of Agricultural and Applied Economics. Forthcoming.
+* Campbell, Benjamin., Liu, Yizao, and Katz, Michael. (2019). Local and Organic Preference: Logo versus Text. Journal of Agricultural and Applied Economics. Forthcoming.
 * Qi, Lingqiao, Adam N. Rabinowitz, Yizao Liu and Benjamin Campbell, (2017). "[Buyer and Non-Buyer Barriers to Purchasing Local Food](https://www.google.com/url?q=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fagricultural-and-resource-economics-review%2Farticle%2Fbuyer-and-nonbuyer-barriers-to-purchasing-local-food%2FA67CD1E24F9226F118A164BEEE1D8E54&sa=D&sntz=1&usg=AFQjCNEsFZIT32UKqiNOt2bU8lof5-LWGQ)," _Agricultural and Resource Economics Review._
 * Jaenicke, E. C., and A. Carlson. 2015. “[Estimating and Investigating Organic Premiums for Retail-Level Food Products](https://onlinelibrary.wiley.com/doi/full/10.1002/agr.21413?casa_token=rqwJygopNv4AAAAA%3AmwROrCk8Tqz31TPOkgijp3a12HEhv1O1QrHKyofiVVwFb4k7l5RNeFz8PFj2oxT1qKXixU-5PQGzZg).” _Agribusiness: An International Journal, 31 (4): 453–471._

@@ -24,8 +24,8 @@ description: "<p></p>"
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color-1.jpg
-project-sponsor-description: 'Project funded by the USDA''s National Institute of
-  Food and Agriculture '
+project-sponsor-description: 'Project funded by USDA''s National Institute of Food
+  and Agriculture '
 project-lead-logo: assets/img/psu-mark.jpg
 project-lead-link: ''
 project-sponsor-link: ''

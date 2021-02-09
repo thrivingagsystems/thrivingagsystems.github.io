@@ -18,6 +18,18 @@ date-added:
 dated-added: 2020-12-13T05:00:00.000+00:00
 
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RFJEY5FM58');
+</script>
+
+
+
 Consumer studies find that both local and organic attributes are highly valued in the marketplace. One of our hypotheses is that this value may be higher in areas where farms coexist and come into frequent contact with urban and exurban consumers. If consumers fail to value these attributes, the spatial distribution of agricultural production will be driven only by production and distribution costs, and the prospects for agriculture’s survival against development pressures in urbanized landscapes will generally be dim. However, we already observe large and increasing amounts of value-added local and organic products in the marketplace.
 
 Jaenicke, Liu, and Reed are studying consumer demand for local and organic products to assess their future growth potential. More specifically, they are using micro-level food-purchase data for 100,000 U.S. households (obtained via collaboration agreements with the USDA’s Economic Research Service) to empirically estimate how consumer demand varies by product attribute and by geography. Organic is a product attribute identified in the data; however, a product’s “localness” is generally not identified. Thus, a product’s localness will have to be identified separately and added to the dataset. Once the enhanced database is built, this research team will estimate consumer demand for these products, how consumers value the organic and local attributes, and how this valuation may vary across the rural-urban geography.

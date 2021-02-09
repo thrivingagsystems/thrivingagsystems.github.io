@@ -3,6 +3,16 @@ enabled: true
 title: Project Objectives Page Overview Content
 
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RFJEY5FM58');
+</script>
+
 ## Project Objectives
 
 The project consists of four major objectives and sixteen task teams that are working toward accomplishing those objectives.

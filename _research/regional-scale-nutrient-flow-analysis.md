@@ -18,6 +18,17 @@ dated-added:
 link-title: ''
 
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RFJEY5FM58');
+</script>
+
+
 Grady and Mohammadpour are using embedded resource accounting to track imports and exports of nutrients from the Chesapeake Bay watershed using commodity trade data. These models allow them to link social and biophysical nutrient management scenarios. Initial work focuses exclusively on nitrogen and includes major commodity and consumer products along livestock and meat supply chains. Future work will integrate additional crops and will explore additional nutrients such as phosphorus using embedded resource accounting.
 
 #### Related Websites:

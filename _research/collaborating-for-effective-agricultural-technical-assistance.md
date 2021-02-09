@@ -22,6 +22,17 @@ dated-added:
 link-title: ''
 
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RFJEY5FM58');
+</script>
+
+
 This research activity seeks to learn what agricultural technical assistance practices are most effective in facilitating farmers’ adoption of soil and water conservation practices, and to foster increased use of such practices throughout the Chesapeake watershed. Towards these ends, the research team is working with technical assistance providers to understand how best to reach out and talk to farmers about conservation practices. The overarching goal is to increase the number of farmers adopting conservation practices for the amount of effort being put into outreach.
 
 The team’s research proceeds in two stages. The first stage involved interviews with technical assistance providers to learn what they consider to be the most effective ways of engaging farmers about conservation. Interviews and surveys were also used to learn what farmers believe can be done to improve technical assistance. The results from the first stage are being used to design the second stage, which is a collaborative field experiment to test the effectiveness of different outreach techniques. Additionally, the team is exploring how county-level data can be used to investigate how the implementation of programs and policies across the watershed affect conservation practice adoption and water quality.

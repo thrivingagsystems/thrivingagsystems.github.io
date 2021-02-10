@@ -23,18 +23,6 @@ dated-added:
 link-title: ''
 
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RFJEY5FM58');
-</script>
-
-
-
 Bosch, Zhang, Abler, Shortle, Hu, Huang, and Sharma are looking at how the economic and environmental sustainability of agriculture in the Chesapeake Bay watershed is impacted by national-level government policies and market developments. To accomplish this task they are using the Regional Environment and Agriculture Programming (REAP) model. REAP is a large-scale, partial-equilibrium economic-environmental model of the U.S. agricultural sector developed by USDA’s Economic Research Service (ERS). The model is partial equilibrium in the sense that it focuses on the agricultural sector and not other sectors of the economy.
 
 The REAP model currently divides the U.S. into 273 agricultural production regions, with 10 major commodity crops and 4 major livestock product groups. Many of the 273 production regions are further subdivided into highly erodible and normal cropland, resulting in 456 combinations of region and soil erodibility class. 33 of the 273 regions lie partly or entirely in the Chesapeake Bay watershed. Crop and livestock outputs in the REAP model are processed into food, livestock feed, and bioenergy products.

@@ -94,7 +94,7 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: html-blocks
   label: Tracking Code

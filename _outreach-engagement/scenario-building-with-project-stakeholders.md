@@ -21,16 +21,6 @@ date-added:
 link-title: ''
 
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RFJEY5FM58');
-</script>
-
 One of the first activities that took place with the Thriving Ag project Stakeholder Advisory Board members, was envisioning desired futures for agricultural systems in urbanized landscapes over a 25-year period. Topics for this envisioning exercise included: (1) What does the term “sustainable agriculture” mean to you? (2) What would agricultural systems in urbanized landscapes need to look like to be sustainable? (3) How would we know if the desired futures have been achieved?
 
 Following the envisioning exercise will be scenario-building exercises with the Board and project team. Scenarios will be used to explore alternative approaches to achieving the long-term economic and environmental sustainability for agriculture in urbanized landscapes. Scenario storylines are designed to illuminate different visions of what the future could hold; they are not predictions. One scenario will be a business-as-usual scenario of how agriculture in urbanized areas of the U.S. may evolve over the next 25 years if current trends continue, as a basis against which other scenarios will be assessed. Other scenarios will be normative and participatory, framed around desired futures for agriculture in urbanized landscapes and shaped by the Board, while retaining scientific realism.

@@ -24,19 +24,6 @@ dated-added:
 link-title: ''
 
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RFJEY5FM58');
-</script>
-
-
-
-
 Weil and Si are working on the evaluation of soil health and nutrient flow evaluation with best management practices such as enhanced cover cropping and soil management. Their overall goal is to improve the efficiency of use and to reduce losses of the nutrients, nitrogen and phosphorus, which are important for both crop yields and water pollution by eutrophication. They will do this by monitoring soil properties and sampling water that runs off the surface and leaches down to groundwater. They are working at three field sites which are located at the Central Maryland Research and Education Center (CMREC) Beltsville Facility near Glenn Dale, MD. They have started their research and established corn and soybean rotations with different cover crop management treatments. In addition, Weil and Si will conduct case studies on several small, diverse farms located in areas of varying degrees of urbanization to investigate how they interact with the local communities and what the nutrient flow and balances are in the systems.
 
 The research at CMREC utilizes a split plot design to compare enhanced cover cropping and minimal cover cropping with three treatments as subplots in corn or soybean cash crop main plots. The three cover crop treatments compared are no cover, rye, and a radish-rye-clover mix. Each of these are managed using traditional and enhanced practices. The traditional practices involve planting cover crops after cash crop harvest in late fall and terminating them in early spring several weeks ahead of cash crop planting. The enhanced cover crop practices involve interseeding and overseeding to establish cover crops earlier and planting green to allow them to grow in spring right up until cash crop planting. Weil and Si have also applied different rates of nitrogen to cover crop subplots interseeded into corn (rye or radish-clover-rye mixture) in early fall, and will collect soil samples and cover crop biomass to determine if adding a small nitrogen boost in fall can increase the nitrogen capture by more than the amount of nitrogen applied.

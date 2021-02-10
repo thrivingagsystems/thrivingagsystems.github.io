@@ -20,16 +20,10 @@ partner:
   image: assets/img/usu.jpg
   enable-image-link: false
   url: ''
-description: |-
-  <p></p><pre><code>&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
-  &lt;script async src="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58"&gt;&lt;/script&gt;
-  &lt;script&gt;
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-RFJEY5FM58');
-  &lt;/script&gt;</code></pre>
+description: <p>&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;</p><p>&lt;script
+  async src="<a href="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58" title="https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58">https://www.googletagmanager.com/gtag/js?id=G-RFJEY5FM58</a>"&gt;&lt;/script&gt;</p><p>&lt;script&gt;</p><p>  window.dataLayer
+  = window.dataLayer || [];</p><p>  function gtag(){dataLayer.push(arguments);}</p><p>  gtag('js',
+  new Date());</p><p>  gtag('config', 'G-RFJEY5FM58');</p><p>&lt;/script&gt;</p>
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color-1.jpg

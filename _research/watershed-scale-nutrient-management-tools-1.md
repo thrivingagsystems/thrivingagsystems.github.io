@@ -24,11 +24,11 @@ Cibin and Kalra are developing and applying a framework for optimal spatial targ
 
 <table>
 <tr>
-<th>[Month](https://thrivingag.org/research/watershed-scale-nutrient-management-tools-1/)</th>
+<th>Month</th>
 <th>Savings</th>
 </tr>
 <tr>
-<td>January</td>
+<td>[January](https://thrivingag.org/research/watershed-scale-nutrient-management-tools-1/)</td>
 <td>$100</td>
 </tr>
 <tr>

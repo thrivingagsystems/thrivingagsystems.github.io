@@ -23,16 +23,16 @@ Spatial targeting of manure/fertilizer management considering both land suitabil
 Cibin and Kalra are developing and applying a framework for optimal spatial targeting of nutrients using biophysical characteristics of landscapes and simulation modelling. Land suitability analysis considering biophysical land vulnerabilities is being used for preliminary screening of landscapes. Integrated crop and environmental modelling, which will enable them to simulate the impacts of land use and nutrient management choices, are being carried out using the Soil and Water Assessment Tool (SWAT) and an upgraded version of SWAT known as SWAT+.
 
 <table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
-  </tr>
+<tr>
+<th>[Month](https://thrivingag.org/research/watershed-scale-nutrient-management-tools-1/)</th>
+<th>Savings</th>
+</tr>
+<tr>
+<td>January</td>
+<td>$100</td>
+</tr>
+<tr>
+<td>February</td>
+<td>$80</td>
+</tr>
 </table>

@@ -74,8 +74,16 @@ fields:
   name: instagram
   label: instagram
 - type: list
+  name: associated-project-leaders
+  label: Project Leaders
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: people
+- type: list
   name: associated-people
-  label: associated-people
+  label: Project Team Members
   config:
     use_select: true
     source:

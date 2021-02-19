@@ -34,7 +34,12 @@ layout: page
         {% include image-gallery.html display_mode='lightbox' image=image enable_caption=true %}
       </div>
       {% endif %}
-      <div class="small-12 columns head-spacing foot-spacing">
+      <div class="small-12 columns head-spacing">
+        <h2>Project Leaders</h2>
+        <hr>
+        {% include associated-people.html custom_array=true array=page.associated-project-leaders display-card=true name=true image=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}
+      </div>
+      <div class="small-12 columns foot-spacing">
         <h2>Project Team</h2>
         <hr>
         {% include associated-people.html display-card=true display-raw=false name=true image=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}

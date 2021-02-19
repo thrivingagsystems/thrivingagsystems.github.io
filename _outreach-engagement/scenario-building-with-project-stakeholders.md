@@ -14,6 +14,8 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
+associated-project-leaders:
+- _people/ehrhart_matt.md
 associated-people:
 - _people/ehrhart_matt.md
 - _people/royer_matt.md

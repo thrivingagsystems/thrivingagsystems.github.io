@@ -73,7 +73,7 @@ sections:
   path: index.html
   label: Home Page
 - type: document
-  path: pages/project-overview.md
+  path: pages/project-overview.html
   label: About Project Overview
 - type: document
   path: pages/project-objectives.html

@@ -91,13 +91,13 @@ fields:
     time_format: 
     display_utc: false
 pages:
-- _research/agent-based-modelling.md
 - _research/collaborating-for-effective-agricultural-technical-assistance.md
 - _research/cover-crop-species.md
 - _research/economic-simulations-and-modelling.md
 - _research/external-evaluation.md
 - _research/field-catchment-sites-reducing-both-nitrogen-and-phosphorous-loading.md
 - _research/functioning-adaptive-management-watershed-site-and-new-nitrogen-fertilizer-recommendation-framework.md
+- _research/land-use-modelling.md
 - _research/nutrient-cycling-from-cover-crops-to-field-corn.md
 - _research/regional-scale-nutrient-flow-analysis.md
 - _research/soil-health-and-nutrient-flows-with-enhanced-cover-cropping-and-soil-management.md

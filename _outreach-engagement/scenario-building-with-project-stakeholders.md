@@ -16,9 +16,28 @@ facebook: ''
 instagram: ''
 associated-project-leaders:
 - _people/ehrhart_matt.md
-associated-people:
-- _people/ehrhart_matt.md
 - _people/royer_matt.md
+associated-people:
+- _people/abler_dave.md
+- _people/bosch_darrell.md
+- _people/bradley_brosi.md
+- _people/eury_jay.md
+- _people/grady_caitlin.md
+- _people/jaenicke-ted.md
+- _people/kalra_marali.md
+- _people/kaye_jason.md
+- _people/klaiber_allen.md
+- _people/kumarchaudhary_anil.md
+- _people/lisenbee_whitney.md
+- _people/liu_yizao.md
+- _people/luthard_madeline.md
+- _people/nunn_nancy.md
+- _people/raj_cibin.md
+- _people/sanders_zack.md
+- _people/shortle_jim.md
+- _people/wainger_lisa.md
+- _people/white_charlie.md
+- _people/wrenn_doug.md
 date-added: 
 link-title: ''
 

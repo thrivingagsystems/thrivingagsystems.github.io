@@ -13,11 +13,12 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/hua_junyi.md
-- _people/klaiber_allen.md
 - _people/shortle_jim.md
-- _people/wrenn_doug.md
 dated-added: 2021-01-19T19:00:00.000+00:00
 link-title: ''
+associated-project-leaders:
+- _people/klaiber_allen.md
+- _people/wrenn_doug.md
 
 ---
 Klaiber, Wrenn, Shortle, and Hua are focusing their research on a land conversion model and how one land use type is converting to another. They are using data to discover what land is undeveloped and then using that to figure out when undeveloped land becomes developed. They are aiming to gain a richer characterization of conversions from one land use type to another.

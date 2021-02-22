@@ -19,9 +19,10 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/si_qianyao.md
-- _people/weil_ray.md
 dated-added: 
 link-title: ''
+associated-project-leaders:
+- _people/weil_ray.md
 
 ---
 Weil and Si are working on the evaluation of soil health and nutrient flow evaluation with best management practices such as enhanced cover cropping and soil management. Their overall goal is to improve the efficiency of use and to reduce losses of the nutrients, nitrogen and phosphorus, which are important for both crop yields and water pollution by eutrophication. They will do this by monitoring soil properties and sampling water that runs off the surface and leaches down to groundwater. They are working at three field sites which are located at the Central Maryland Research and Education Center (CMREC) Beltsville Facility near Glenn Dale, MD. They have started their research and established corn and soybean rotations with different cover crop management treatments. In addition, Weil and Si will conduct case studies on several small, diverse farms located in areas of varying degrees of urbanization to investigate how they interact with the local communities and what the nutrient flow and balances are in the systems.

@@ -12,11 +12,12 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/eury_jay.md
-- _people/harrison_terry.md
 - _people/ladlee_jim.md
 - _people/schmidt_cristy.md
 date-added: 
 dated-added: 2020-12-04T05:00:00.000+00:00
+associated-project-leaders:
+- _people/harrison_terry.md
 
 ---
 Food manufacturers, retailers, and consumers value traceability and security in food supply chains. This is a challenge for small- to mid-scale agricultural producers, who face difficulties aggregating quality products into a quantity needed by buyers, and who usually forfeit traceability when they do aggregate. This in turn limits potential market outlets and makes it problematic for small producers to capture premium pricing opportunities for value-added products. Blockchain technology shows considerable promise in offering a traceability solution to small- and mid-scale farmers, and to their supply chain partners such as food wholesalers, processors, and retailers. However, convincing producers and their supply chain partners to transition away from traditional methods of tracking shipments, such as locally stored spreadsheets or even paper records, remains an obstacle to the adoption of blockchain technology.

@@ -13,9 +13,10 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/kalra_marali.md
-- _people/raj_cibin.md
 dated-added: 
 link-title: ''
+associated-project-leaders:
+- _people/raj_cibin.md
 
 ---
 Spatial targeting of manure/fertilizer management considering both land suitability and cropping patterns could significantly improve nutrient use efficiency (NUE). Manure application in environmentally vulnerable areas such as flood plains, excessively sloped areas, shallow soils, and karst geology areas increases risk of nutrient loss to nearby waterbodies.

@@ -21,9 +21,10 @@ instagram: ''
 associated-people:
 - _people/ordonez_raziel.md
 - _people/sanders_zack.md
-- _people/white_charlie.md
 dated-added: 
 link-title: ''
+associated-project-leaders:
+- _people/white_charlie.md
 
 ---
 White, Sanders, and Ordonez are working to develop a functioning adaptive management watershed site and to validate a new nitrogen fertilizer recommendation framework for corn in on-farm experiments.

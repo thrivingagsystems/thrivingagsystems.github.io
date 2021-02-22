@@ -13,9 +13,10 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/avemegah_edem.md
-- _people/schad_jessica.md
 dated-added: 
 link-title: ''
+associated-project-leaders:
+- _people/schad_jessica.md
 
 ---
 Dr. Jessica Ulrich-Schad is serving as the independent, external evaluator of this project. While training a PhD student, Edem Avemegah, in evaluation methods, she will conduct formative and summative assessments of the research teams’ organizational efficacy, interdisciplinary team collaboration, and the project’s impacts on stakeholders. Dr. Ulrich-Schad is using survey, interview, and focus group methodology as appropriate for evaluation of the project team and the team’s interactions with various stakeholders, including the Stakeholder Advisory Board, residents of the Chesapeake Bay watershed, and students in the online courses to be developed by the project, for example.

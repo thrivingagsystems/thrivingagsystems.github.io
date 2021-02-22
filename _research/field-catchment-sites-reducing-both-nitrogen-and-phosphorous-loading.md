@@ -11,10 +11,11 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people:
-- _people/toor_gurpal.md
+associated-people: []
 dated-added: 
 link-title: ''
+associated-project-leaders:
+- _people/toor_gurpal.md
 
 ---
 Toor will be using four field catchment sites in Maryland for his research that will have a corn soybeans rotation. Most of the sites will also have cover crops. In western Maryland, the team is looking at edge of the field where they can start installing equipment. They are also looking for a field site where the water runs off of the field, so they can install a flume. Toor is using GIS, digital elevation mapping, and remote sensing to identify the points that will work for this research.

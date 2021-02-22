@@ -35,7 +35,11 @@ layout: page
       {% endif %}
       {% if page.associated-project-leaders.size > 0 %}
       <div class="small-12 columns head-spacing">
+        {% if page.associated-project-leaders.size > 1 %}
         <h2>Project Leaders</h2>
+        {% else %}
+        <h2>Project Leader</h2>
+        {% endif %}
         <hr>
         {% include associated-people.html custom_array=true array=page.associated-project-leaders display-card=true name=true image=true professional-title=true email=true link-to-bio-page=true link-to-personal-website=true linkedin=true twitter=true facebook=true instagram=true %}
       </div>

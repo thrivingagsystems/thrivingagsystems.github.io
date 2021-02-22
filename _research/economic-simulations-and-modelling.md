@@ -13,14 +13,15 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/abler_dave.md
-- _people/bosch_darrell.md
 - _people/hu_chenyang.md
 - _people/huang_xuetao.md
 - _people/sharma_sadikshya.md
-- _people/shortle_jim.md
 - _people/zhang_wei.md
 dated-added: 
 link-title: ''
+associated-project-leaders:
+- _people/bosch_darrell.md
+- _people/shortle_jim.md
 
 ---
 Bosch, Zhang, Abler, Shortle, Hu, Huang, and Sharma are looking at how the economic and environmental sustainability of agriculture in the Chesapeake Bay watershed is impacted by national-level government policies and market developments. To accomplish this task they are using the Regional Environment and Agriculture Programming (REAP) model. REAP is a large-scale, partial-equilibrium economic-environmental model of the U.S. agricultural sector developed by USDA’s Economic Research Service (ERS). The model is partial equilibrium in the sense that it focuses on the agricultural sector and not other sectors of the economy.

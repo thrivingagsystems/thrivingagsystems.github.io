@@ -1,7 +1,6 @@
 ---
 enabled: true
 title: Project Overview Task Teams Table
-published: false
 
 ---
 ## Outreach and Research Projects Per Task Team

@@ -3,7 +3,7 @@ enabled: true
 title: Project Overview Task Teams Table
 
 ---
-## Outreach and Research Projects Per Task Team
+### Outreach and Research Projects Per Task Team
 
 | Task | Team Members | Link to Research/Outreach Project |
 | --- | --- | --- |

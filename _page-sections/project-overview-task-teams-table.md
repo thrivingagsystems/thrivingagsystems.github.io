@@ -5,7 +5,7 @@ title: Project Overview Task Teams Table
 ---
 ### Outreach and Research Projects Per Task Team
 
-| Task | Team Members | Link to Research/Outreach Project |
+| Task(s) | Team Members | Link to Research/Outreach Project |
 | --- | --- | --- |
 | Task 1 & 2 | Matt Ehrhart and Matt Royer | Scenario Building with Project Stakeholders |
 | Task 5 | Terry Harrison, Jay Eury, Jim Ladlee, and Cristy Schmidt | Blockchain Technology to Expand Markets for Value-Added Products |

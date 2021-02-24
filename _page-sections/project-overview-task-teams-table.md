@@ -4,24 +4,22 @@ title: Project Overview Task Teams Table
 
 ---
 ### Outreach and Research Projects Per Task Team
-
-| Task | Team Members | Link to Research/Outreach Project |
-| --- | --- | --- |
-| Task 1 & 2 | Matt Ehrhart and Matt Royer | Scenario Building with Project Stakeholders |
-| Task 5 | Terry Harrison, Jay Eury, Jim Ladlee, and Cristy Schmidt | Blockchain Technology to Expand Markets for Value-Added Products |
-| Task 6 | Ted Jaenicke, Yizao Liu, and Josh Reed | Market Analysis for Local and Organic Products |
-| Task 7 | Wade Thomason | Nutrient Cycling from Cover Crops to Field Corn |
-| Tasks 7 & 12 | Charlie White, Zack Sanders, and Raziel Ordonez | Functioning Adaptive Management Site and New Nitrogen Fertilizer Recommendation Framework |
-| Task 7 & 12 | Ray Weil and Qianyao Si | Soil Health and Nutrient Flows with Enhanced Cover Cropping and Soil Management |
-| Task 8 | Cibin Raj and Marali Kalra | Watershed-Scale Nutrient Management Tools |
-| Task 9 | Dan Read, Lisa Wainger, Jim Shortle, Nancy Nunn, Anil Kumar Chaudhary, and Kate Everts | Collaborating for Effective Agricultural Technical Assistance |
-| Task 9 | Dan Read, Lisa Wainger, Jim Shortle, Nancy Nunn, Anil Kumar Chaudhary, and Kate Everts | Effective Farmer Engagement |
-| Task 10 | Caitlin Grady and Paniz Mohammadpour | Regional-Scale Nutrient Flow Analysis |
-| Task 11 | Allen Klaiber, Doug Wrenn, Jim Shortle, and Junyi Hua | Land-Use Modelling |
-| Task 12 | Jason Kaye, Brosi Bradley, Whitney Lisenbee, and Madeline Luthard | Cover Crop Species Selection Trial |
-| Task 12 | Gurpal Toor | Field Catchment Sites: Reducing Both Nitrogen and Phosphorus Loading |
-| Task 13 | Darrell Bosch, Jim Shortle, Wei Zhang, Dave Abler, Nate Hu, Sadikshya Sharma, and Xuetao Huang | Economic Simulations and Modelling |
-| Task 16 | Jessica Schad and Edem Avemegah | External Evaluation |
+| Task 1 & 2   | Matt Ehrhart and Matt Royer                                                                    | [Scenario Building with Project Stakeholders](https://thrivingag.org/outreach-engagement/scenario-building-with-project-stakeholders/)                                                                                            |
+| ------------ | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Task 5       | Terry Harrison, Jay Eury, Jim Ladlee, and Cristy Schmidt                                       | [Blockchain Technology to Expand Markets for Value-Added Products](https://thrivingag.org/research/blockchain-technology/)                                                                                                        |
+| Task 6       | Ted Jaenicke, Yizao Liu, and Josh Reed                                                         | [Market Analysis for Local and Organic Products](https://thrivingag.org/research/market-analysis-local-organic/)                                                                                                                  |
+| Task 7       | Wade Thomason                                                                                  | [Nutrient Cycling from Cover Crops to Field Corn](https://thrivingag.org/research/nutrient-cycling-from-cover-crops-to-field-corn/)                                                                                               |
+| Tasks 7 & 12 | Charlie White, Zack Sanders, and Raziel Ordonez                                                | [Functioning Adaptive Management Site and New Nitrogen Fertilizer Recommendation Framework](https://thrivingag.org/research/functioning-adaptive-management-watershed-site-and-new-nitrogen-fertilizer-recommendation-framework/) |
+| Task 7 & 12  | Ray Weil and Qianyao Si                                                                        | [Soil Health and Nutrient Flows with Enhanced Cover Cropping and Soil Management](https://thrivingag.org/research/soil-health-and-nutrient-flows-with-enhanced-cover-cropping-and-soil-management/)                               |
+| Task 8       | Cibin Raj and Marali Kalra                                                                     | [Watershed-Scale Nutrient Management Tools](https://thrivingag.org/research/watershed-scale-nutrient-management-tools/)                                                                                                           |
+| Task 9       | Dan Read, Lisa Wainger, Jim Shortle, Nancy Nunn, Anil Kumar Chaudhary, and Kate Everts         | [Collaborating for Effective Agricultural Technical Assistance](https://thrivingag.org/research/collaborating-for-effective-agricultural-technical-assistance/)                                                                   |
+| Task 9       | Dan Read, Lisa Wainger, Jim Shortle, Nancy Nunn, Anil Kumar Chaudhary, and Kate Everts         | [Effective Farmer Engagement](https://thrivingag.org/outreach-engagement/effective-farmer-engagement/)                                                                                                                            |
+| Task 10      | Caitlin Grady and Paniz Mohammadpour                                                           | [Regional-Scale Nutrient Flow Analysis](https://thrivingag.org/research/regional-scale-nutrient-flow-analysis/)                                                                                                                   |
+| Task 11      | Allen Klaiber, Doug Wrenn, Jim Shortle, and Junyi Hua                                          | [Land-Use Modelling](https://thrivingag.org/research/land-use-modelling/)                                                                                                                                                         |
+| Task 12      | Jason Kaye, Brosi Bradley, Whitney Lisenbee, and Madeline Luthard                              | [Cover Crop Species Selection Trial](https://thrivingag.org/research/cover-crop-species/)                                                                                                                                         |
+| Task 12      | Gurpal Toor                                                                                    | [Field Catchment Sites: Reducing Both Nitrogen and Phosphorus Loading](https://thrivingag.org/research/field-catchment-sites-reducing-both-nitrogen-and-phosphorous-loading/)                                                     |
+| Task 13      | Darrell Bosch, Jim Shortle, Wei Zhang, Dave Abler, Nate Hu, Sadikshya Sharma, and Xuetao Huang | [Economic Simulations and Modelling](https://thrivingag.org/research/economic-simulations-and-modelling/)                                                                                                                         |
+| Task 16      | Jessica Schad and Edem Avemegah                                                                | [External Evaluation](https://thrivingag.org/research/external-evaluation/)                                                                                                                                                       |
 
 ### Project Team Visual
 

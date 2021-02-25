@@ -5,7 +5,6 @@ title: Project Overview Task Teams Table
 ---
 ### Outreach and Research Projects Per Task Team
 
-[**Click here for a visual breakdown of our project objectives and task teams.**](https://drive.google.com/file/d/1yf6CRaEBi678MEkwOyOyjwyw8ozMwmeN/view?usp=sharing)
 
 | Task(s)      | Team Members                                                                                   | Link to Research/Outreach Project                                                                                                                                                                                                 |
 | ------------ | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

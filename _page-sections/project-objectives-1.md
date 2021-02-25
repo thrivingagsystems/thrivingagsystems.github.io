@@ -7,6 +7,8 @@ title: Project Objectives Page Overview Content
 
 The project consists of four major objectives and sixteen task teams that are working toward accomplishing those objectives.
 
+[**Click here for a visual breakdown of our project objectives and task teams.**](https://drive.google.com/file/d/1yf6CRaEBi678MEkwOyOyjwyw8ozMwmeN/view?usp=sharing)
+
 Broadly, our project objectives are:
 
 **Objective 1. (Years 1–5):** Engage closely with stakeholders using a shared discovery framework to envision desired 25-year futures for agricultural systems in urbanized landscapes that are economically sustainable while enhancing ecosystem services. Conduct scenario-building exercises with stakeholders to identify how agriculture in urbanized areas may evolve over the next 25 years if current trends continue; how agriculture in urbanized areas would need to evolve to realize the desired futures envisioned by stakeholders; and the technologies, markets, and public policies that could help make the desired futures a reality. Expected outcomes include rapid uptake of the project’s research outputs because they will address identified present-day needs and desired futures. This objective is organized into Tasks 1–4.

@@ -21,7 +21,6 @@ title: Project Overview Task Teams Table
 | Task 12      | Gurpal Toor                                                                                    | [Field Catchment Sites: Reducing Both Nitrogen and Phosphorus Loading](https://thrivingag.org/research/field-catchment-sites-reducing-both-nitrogen-and-phosphorous-loading/)                                                     |
 | Task 13      | Darrell Bosch, Jim Shortle, Wei Zhang, Dave Abler, Nate Hu, Sadikshya Sharma, and Xuetao Huang | [Economic Simulations and Modelling](https://thrivingag.org/research/economic-simulations-and-modelling/)                                                                                                                         |
 | Task 16      | Jessica Schad and Edem Avemegah                                                                | [External Evaluation](https://thrivingag.org/research/external-evaluation/)                                                                                                                                                       |
-
 ### Project Team Visual
 
 [thriving-ag-team-chart.pdf](assets/img/thriving-ag-team-chart.pdf "thriving-ag-team-chart.pdf")

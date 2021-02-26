@@ -7,7 +7,7 @@ title: Project Objectives Page Overview Content
 
 The project consists of four major objectives and sixteen task teams that are working toward accomplishing those objectives.
 
-[**Click here for a visual breakdown of our project objectives and task teams.**](https://drive.google.com/file/d/1yf6CRaEBi678MEkwOyOyjwyw8ozMwmeN/view?usp=sharing)
+[**Click here for a visual breakdown of our project objectives and task teams.**](https://drive.google.com/file/d/1cfs0XNrRcAdgbrAUuVYMRZ4pjm89hGO0/view?usp=sharing)
 
 Broadly, our project objectives are:
 

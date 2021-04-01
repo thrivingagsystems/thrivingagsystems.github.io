@@ -121,6 +121,9 @@ $main-accent-color:#ff5722;
       @media #{$medium-only} {
         padding: 0.7rem 0.7rem;
     }
+      @media #{$large-only} {
+        padding: 0.7rem 0.85rem;
+    }
   }
   li.apply-topbar-button a {
     background: $main-accent-color;

@@ -76,6 +76,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _news-activities/march-2021-all-hands-thriving-ag-project-meeting.md
 - _news-activities/news-item-1.md
 - _news-activities/news-item-2.md
 - _news-activities/thriving-ag-project-march-2021-annual-progress-report.md

@@ -8,7 +8,7 @@ page-sections: []
 image: assets/img/istock-600371022.jpg
 
 ---
-{% assign items = site.news-activities | sort: 'date-added' | reverse %}
+{% assign items = site.news-activities | sort: 'date-added' %}
 {% for item in items %}
 <div class="row head-spacing foot-spacing">
 	

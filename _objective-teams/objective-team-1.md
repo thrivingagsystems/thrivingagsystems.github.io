@@ -28,6 +28,7 @@ associated-people:
 - _people/nunn_nancy.md
 - _people/ordonez_raziel.md
 - _people/raj_cibin.md
+- _people/rasool_asif.md
 - _people/read_dan.md
 - _people/reed_josh.md
 - _people/royer_matt.md

@@ -64,7 +64,7 @@ layout: default
             
             
 
-            {% assign events = site.news-activities | reverse %}
+            {% assign events = site.news-activities | sort: "date_added" | reverse %}
             {% for event in events %}
               {% if event.enable-featured-card == true %}
                 {% capture featured_title %}{{event.title}}{% endcapture %}

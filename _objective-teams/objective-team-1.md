@@ -45,6 +45,7 @@ associated-people:
 - _people/white_charlie.md
 - _people/wrenn_doug.md
 - _people/zhang_wei.md
+- _people/zhang_zeya.md
 page-order: 1
 
 ---

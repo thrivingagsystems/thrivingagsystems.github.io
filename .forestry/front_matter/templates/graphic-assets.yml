@@ -48,5 +48,3 @@ fields:
     max: 
     labelField: 
   label: Graphic Assets
-pages:
-- pages/graphics.html

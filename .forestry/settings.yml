@@ -102,7 +102,7 @@ sections:
   path: _data/social.yml
   label: Social Media Accounts
 - type: document
-  path: pages/graphics.html
+  path: pages/graphics.md
   label: Graphic Assets
 - type: document
   path: _layout-sections/footer-content.md

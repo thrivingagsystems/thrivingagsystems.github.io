@@ -104,6 +104,7 @@ sections:
 - type: document
   path: pages/graphics.md
   label: Graphic Assets
+  match: "**/*"
 - type: document
   path: _layout-sections/footer-content.md
   label: Partners and Footer Text

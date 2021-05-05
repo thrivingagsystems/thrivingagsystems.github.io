@@ -1,25 +1,45 @@
 ---
 label: Graphic Assets
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
+  hidden: true
 - type: boolean
   name: enable-banner
   label: enable-banner
+  hidden: true
 - type: boolean
   name: enable-header
   label: enable-header
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: page-sections
   label: page-sections
+  hidden: true
 - type: text
   name: image
   label: image
+  hidden: true
+- name: graphic_assets
+  type: field_group_list
+  fields:
+  - name: graphic_asset
+    type: file
+    config:
+      maxSize: 64
+    label: Graphic Asset
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Graphic Assets

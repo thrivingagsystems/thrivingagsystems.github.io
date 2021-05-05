@@ -103,8 +103,7 @@ sections:
   label: Social Media Accounts
 - type: document
   path: pages/graphics.html
-  label: Graphics
-  match: "**/*"
+  label: Graphic Assets
 - type: document
   path: _layout-sections/footer-content.md
   label: Partners and Footer Text

@@ -1,0 +1,10 @@
+{% for item in page.graphic_assets %}
+<div class="row head-spacing foot-spacing">
+    <div class="column small-12 center">
+        <h3 >{{ item.title }}</h3>
+        <img class="center-align"  src="{{site.baseurl}}/{{ item.graphic_asset }}" width="200" />
+        <a href="{{site.baseurl}}/{{ item.graphic_asset }}" download>Download Image</a>
+    </div>
+</div>
+<hr>
+{% endfor %}

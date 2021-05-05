@@ -102,6 +102,10 @@ sections:
   path: _data/social.yml
   label: Social Media Accounts
 - type: document
+  path: pages/graphics.html
+  label: Graphics
+  match: "**/*"
+- type: document
   path: _layout-sections/footer-content.md
   label: Partners and Footer Text
 upload_dir: assets/img

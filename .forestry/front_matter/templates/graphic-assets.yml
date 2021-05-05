@@ -33,6 +33,11 @@ fields:
 - name: graphic_assets
   type: field_group_list
   fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
   - name: graphic_asset
     type: file
     config:

@@ -1,8 +1,8 @@
 ---
-name: Patrice Nitterhouse
-image: ''
+name: Patti Nitterhouse
+image: assets/img/nitterhouse
 professional-title: Vice President at White Rock Inc.
-email: ''
+email: patti@pennhomes.com
 link-to-bio-page: ''
 link-to-personal-website: ''
 linkedin: ''

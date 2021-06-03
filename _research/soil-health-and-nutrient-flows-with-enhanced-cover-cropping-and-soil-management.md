@@ -19,6 +19,7 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/si_qianyao.md
+- _people/stefun_melissa.md
 dated-added: 
 link-title: ''
 associated-project-leaders:

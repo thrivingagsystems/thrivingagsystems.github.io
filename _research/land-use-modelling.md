@@ -14,6 +14,7 @@ instagram: ''
 associated-people:
 - _people/hua_junyi.md
 - _people/shortle_jim.md
+- _people/wachter_charlotte.md
 dated-added: 2021-01-19T19:00:00.000+00:00
 link-title: ''
 associated-project-leaders:

@@ -18,6 +18,7 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
+- _people/owens_vivian.md
 - _people/si_qianyao.md
 - _people/stefun_melissa.md
 dated-added: 

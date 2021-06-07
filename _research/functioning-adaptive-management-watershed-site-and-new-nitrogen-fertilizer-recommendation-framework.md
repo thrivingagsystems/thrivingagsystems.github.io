@@ -20,6 +20,7 @@ facebook: ''
 instagram: ''
 associated-people:
 - _people/ordonez_raziel.md
+- _people/rivera_ocasio_zoelie.md
 - _people/sanders_zack.md
 dated-added: 
 link-title: ''

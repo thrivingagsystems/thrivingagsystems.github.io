@@ -27,10 +27,12 @@ associated-people:
 - _people/mohammadpour_paniz.md
 - _people/nunn_nancy.md
 - _people/ordonez_raziel.md
+- _people/owens_vivian.md
 - _people/raj_cibin.md
 - _people/rasool_asif.md
 - _people/read_dan.md
 - _people/reed_josh.md
+- _people/rivera_ocasio_zoelie.md
 - _people/royer_matt.md
 - _people/sanders_zack.md
 - _people/schad_jessica.md

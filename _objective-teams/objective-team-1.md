@@ -38,8 +38,10 @@ associated-people:
 - _people/sharma_sadikshya.md
 - _people/shortle_jim.md
 - _people/si_qianyao.md
+- _people/stefun_melissa.md
 - _people/thomason_wade.md
 - _people/toor_gurpal.md
+- _people/wachter_charlotte.md
 - _people/wainger_lisa.md
 - _people/weil_ray.md
 - _people/white_charlie.md

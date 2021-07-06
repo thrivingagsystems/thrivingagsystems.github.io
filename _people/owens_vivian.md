@@ -1,6 +1,6 @@
 ---
 name: Vivian Owens
-image: ''
+image: assets/img/owens
 professional-title: Graduate Student, University of Maryland
 email: vlowens@terpmail.umd.edu
 link-to-bio-page: ''

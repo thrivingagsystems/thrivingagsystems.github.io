@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Thriving Ag Project March 2021 Annual Progress Report
 enable-image: false
@@ -14,6 +14,6 @@ description: <p>Catch up on the Thriving Ag Project Team's and the Stakeholder A
 enable-button-link: false
 button-text: ''
 button-url: ''
-date_added: 2021-03-29 04:00:00 +0000
+date_added: 2021-03-29T04:00:00.000+00:00
 
 ---

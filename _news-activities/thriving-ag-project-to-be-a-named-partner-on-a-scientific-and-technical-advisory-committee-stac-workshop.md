@@ -14,7 +14,7 @@ description: <p>The Thriving Ag project will be a named partner on a STAC worksh
   nutrient reduction goals. Project team members Lisa Wainger and Dan Read have been
   working on this workshop's steering committee for the better part of a year. <a
   href="https://drive.google.com/file/d/1BkEamN_NWw0zU6YZxiM8KlTMRSppvzyP/view?usp=sharing"
-  title="">Read more about the workshop here</a>. </p>
+  title="">You can view more information about the workshop here</a>. </p>
 enable-button-link: false
 button-text: ''
 button-url: ''

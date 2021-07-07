@@ -12,7 +12,7 @@ enable-button-link: true
 button-text: Go to the news article
 button-url: " https://news.psu.edu/story/627082/2020/07/29/research/researchers-aim-create-thriving-agricultural-systems-urbanizing"
 date-added: ''
-date_added: 2021-02-22 19:00:00 +0000
-enable-featured-card: true
+date_added: 2021-02-22T19:00:00.000+00:00
+enable-featured-card: false
 
 ---

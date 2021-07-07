@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: March 2021 All-Hands Thriving Ag Project Meeting
 enable-image: false
@@ -24,6 +24,6 @@ description: "<p>A Thriving Ag Project All-Hands meeting took place on March 22,
 enable-button-link: false
 button-text: ''
 button-url: ''
-date_added: 2021-04-05 04:00:00 +0000
+date_added: 2021-04-05T04:00:00.000+00:00
 
 ---

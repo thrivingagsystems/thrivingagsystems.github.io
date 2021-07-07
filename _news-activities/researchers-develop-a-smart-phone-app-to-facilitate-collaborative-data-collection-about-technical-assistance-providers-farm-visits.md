@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Researchers Develop a Smart Phone App to Facilitate Collaborative Data Collection
   About Technical Assistance Providers’ Farm Visits

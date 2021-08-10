@@ -10,7 +10,7 @@ event-date:
 description: "<p>Project team member and PhD student, Madeline Luthard, designed a
   soil-themed youth program for third through fifth graders that will be held at Penn
   State's Arboretum in July and August.</p>"
-enable-button-link: true
+enable-button-link: false
 button-text: Go to the news article
 button-url: ''
 date_added: 2021-07-06 04:00:00 +0000

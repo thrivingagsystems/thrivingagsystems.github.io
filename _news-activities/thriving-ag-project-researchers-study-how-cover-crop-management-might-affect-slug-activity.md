@@ -37,8 +37,8 @@ description: <p>During the early spring, while collecting runoff and leaching wa
   conditions better for rapid soybean germination and seedling growth.</p></li></ul><p>For
   more information on the slug study, <a href="https://drive.google.com/file/d/15MzaLSI4Aj3mBRpHP36pstG1v1eXm15W/view?usp=sharing"
   title="">view the presentation here</a>. </p>
-enable-button-link: false
-button-text: ''
+enable-button-link: true
+button-text: Go to the news article
 button-url: ''
 date_added: 2021-07-12 04:00:00 +0000
 

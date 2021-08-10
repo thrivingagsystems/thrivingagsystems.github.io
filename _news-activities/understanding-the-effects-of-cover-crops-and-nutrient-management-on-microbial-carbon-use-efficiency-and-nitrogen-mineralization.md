@@ -64,7 +64,7 @@ description: '<p>The capacity to predict plant-available nitrogen (N) accurately
   Chilean Nitrate fertilizer, an N source allowed in organic production.</em></p><p><em><img
   src="assets/img/img_20210630_114822690_burst000_cover.jpg"><br>Establishment of
   experiments at Penn State’s Rock Spring Research Farm in Pennsylvania Furnace.</em></p>'
-enable-button-link: true
+enable-button-link: false
 button-text: Go to the news article
 button-url: ''
 date_added: 2021-08-10 04:00:00 +0000

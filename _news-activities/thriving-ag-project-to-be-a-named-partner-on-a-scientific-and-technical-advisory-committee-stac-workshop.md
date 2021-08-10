@@ -15,7 +15,7 @@ description: <p>The Thriving Ag project will be a named partner on a STAC worksh
   working on this workshop's steering committee for the better part of a year. <a
   href="https://drive.google.com/file/d/1BkEamN_NWw0zU6YZxiM8KlTMRSppvzyP/view?usp=sharing"
   title="">You can view more information about the workshop here</a>. </p>
-enable-button-link: true
+enable-button-link: false
 button-text: Go to the news article
 button-url: ''
 date_added: 2021-07-07 04:00:00 +0000

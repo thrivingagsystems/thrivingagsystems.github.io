@@ -50,7 +50,7 @@ description: '<p>The capacity to predict plant-available nitrogen (N) accurately
   Baileigh Rosado, Rachel Fedorko, Zack Sanders, Raziel Ordonez, Brosi Bradley, Madeline
   Colen Sorber, Ezra Raupach-Learn, Dana Sanchez from Penn State University, Leidy
   Fernandez from the University of Puerto Rico, and Elizabeth Willard, Austin Mickles,
-  and Julie Cherneskie missing from Ursinus College contributed to experiment establishment
+  and Julie Cherneskie from Ursinus College contributed to experiment establishment
   and data collection. Wade Esbenshade and Carl Schmidt host on-farm trials. The preliminary
   results will be shared during this fall. If you feel interested in receiving more
   information about this research, write to Zoelie Rivera-Ocasio (zxr81@psu.edu),

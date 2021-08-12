@@ -6,7 +6,7 @@ enable-header: ''
 title: Understanding the Effects of Cover Crops and Nutrient Management on Microbial
   Carbon Use Efficiency and Nitrogen Mineralization
 enable-image: true
-image: assets/img/img_20210623_121328821_hdr.jpg
+image: assets/img/photo-grids-onfarm.png
 event-date: 
 description: '<p>The capacity to predict plant-available nitrogen (N) accurately from
   cover crops and provide better estimations of N requirements could avoid yield loss
@@ -54,20 +54,10 @@ description: '<p>The capacity to predict plant-available nitrogen (N) accurately
   and data collection. Wade Esbenshade and Carl Schmidt host on-farm trials. The preliminary
   results will be shared during this fall. If you feel interested in receiving more
   information about this research, write to Zoelie Rivera-Ocasio (zxr81@psu.edu),
-  or to Charlie White (<a href="mailto:cmw29@psu.edu">cmw29@psu.edu</a>).</p><p><em><img
-  src="assets/img/img_20210623_115700364_hdr.jpg"><br>Deployment of litterbags with
-  cover crops residue. The quantification of the cover crop’s litter decomposition
-  and N-mineralization within different nutrient management treatments is conducted
-  with the buried litterbag technique.</em></p><p><img src="assets/img/img_20210623_103218881_hdr.jpg"><br><em>Undergrad
-  student from Ursinus College (Austin and Julie) helping with the soil sampling</em>.</p><p><img
-  src="assets/img/img_20210623_133953488_hdr.jpg"><br><em>Leidy Fernandez applying
-  Chilean Nitrate fertilizer, an N source allowed in organic production.</em></p><p><em><img
-  src="assets/img/img_20210630_114822690_burst000_cover.jpg"><br>Establishment of
-  experiments at Penn State’s Rock Spring Research Farm in Pennsylvania Furnace.</em></p>'
+  or to Charlie White (<a href="mailto:cmw29@psu.edu">cmw29@psu.edu</a>).</p><p></p>'
 enable-button-link: false
 button-text: Go to the news article
 button-url: ''
 date_added: 2021-08-10 04:00:00 +0000
-published: false
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Soil-Themed Youth Program to be Held at Penn State's Arboretum
 enable-image: true

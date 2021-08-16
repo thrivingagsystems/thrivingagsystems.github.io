@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Thriving Ag Project to be a Named Partner on a Scientific and Technical Advisory
   Committee (STAC) Workshop

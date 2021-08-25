@@ -27,7 +27,7 @@ associated-project-leaders:
 - _people/mohammadpour_paniz.md
 
 ---
-Grady and Mohammadpour are using embedded resource accounting to track imports and exports of nutrients from the Chesapeake Bay watershed using commodity trade data. These models allow them to link social and biophysical nutrient management scenarios. Initial work focuses exclusively on nitrogen and includes major commodity and consumer products along livestock and meat supply chains. Future work will integrate additional crops and will explore additional nutrients such as phosphorus using embedded resource accounting.
+Grady and Mohammadpour are using embedded resource accounting to estimate nutrient balances and track imports and exports of nutrients from the Chesapeake Bay watershed using commodity trade data. These models will allow them to link social and biophysical nutrient management scenarios. Initial work focuses exclusively on nitrogen and includes major commodity and consumer products along the crop, livestock, and meat supply chains. Future work will explore nutrient release pathways and will explore additional nutrients such as phosphorus using embedded resource accounting.
 
 #### Related Websites:
 

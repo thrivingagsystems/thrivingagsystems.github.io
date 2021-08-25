@@ -37,6 +37,6 @@ We are currently extending the energy price modeling by introducing an ethanol i
 
 In addition to the work using the REAP model, the research team is examining trends in agricultural production and environmental indicators in urbanized landscapes – metro counties and metro-adjacent counties – over the period from 2007 to 2017. The team is examining both counties in the Chesapeake Bay watershed and in the U.S. as a whole. Using data envelopment analysis (DEA) and cluster analysis, the questions the team is investigating are: where is agriculture thriving both economically and environmentally, which counties are doing better than others on the agricultural and environmental indicators, how do counties sort themselves into clusters, and what can be learned from the counties that are doing better than others. [Click here to view the agricultural and environmental trends](https://drive.google.com/file/d/1YVSAsPnumd34E3hnS1ImJbU37hccaNvX/view?usp=sharing) in urbanized counties.
 
-### Related Publications:
+#### Related Publications:
 
 Impact of Energy Shocks on U.S. Agriculture: the REAP Model Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2021. Selected paper. Agricultural and Applied Economics Association Annual Meeting, Austin Texas, August 1-3

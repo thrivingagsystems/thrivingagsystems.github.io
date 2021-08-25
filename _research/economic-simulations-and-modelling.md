@@ -39,4 +39,4 @@ In addition to the work using the REAP model, the research team is examining tre
 
 #### Related Publications:
 
-Impact of Energy Shocks on U.S. Agriculture: the REAP Model Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2021. Selected paper. Agricultural and Applied Economics Association Annual Meeting, Austin Texas, August 1-3
+Impact of Energy Shocks on U.S. Agriculture: the REAP Model Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2021. Selected paper. Agricultural and Applied Economics Association Annual Meeting, Austin Texas, August 1-3.

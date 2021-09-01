@@ -22,7 +22,7 @@ associated-project-leaders:
 - _people/wrenn_doug.md
 
 ---
-Klaiber, Wrenn, Shortle, and Hua are focusing their research on a land conversion model and how one land use type is converting to another. They are using data to discover what land is undeveloped and then using that to figure out when undeveloped land becomes developed. They are aiming to gain a richer characterization of conversions from one land use type to another.
+Klaiber, Wrenn, Shortle, Hua, and Wachter are focusing their research on a land conversion model and how one land use type is converting to another. They are using data to discover what land is undeveloped and then using that to figure out when undeveloped land becomes developed. They are aiming to gain a richer characterization of conversions from one land use type to another.
 
 This research team is also gathering information on land prices and have assembled a nationwide dataset. In the Chesapeake Bay watershed, there are several million housing transactions, farm transactions, and vacant land transactions. The team is thinking about how to create measures of both the value of locations for urban development, as well as the value of farmland that's being transacted. This involves taking millions of housing transactions and farm transactions and estimating the price of land in these different land use types in different regions. The aim is to use these prices as key determinants of why land might change from one type to another.
 

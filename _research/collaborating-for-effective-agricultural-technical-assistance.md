@@ -32,3 +32,7 @@ Through this work, the team aims to generate an evidence base that will be relev
 #### Related Websites:
 
 [Enhancing Farmer Engagement in the Chesapeake](https://farmpartners.cbl.umces.edu/ )
+
+#### Related Publications:
+
+Read D.J., Carroll A., Wainger L.A. 2021. Exploring private land conservation non-adopters’ attendance at outreach events in the Chesapeake Bay watershed, USA. _PeerJ_ 9:e11959 [https://doi.org/10.7717/peerj.11959](https://doi.org/10.7717/peerj.11959 "https://doi.org/10.7717/peerj.11959")

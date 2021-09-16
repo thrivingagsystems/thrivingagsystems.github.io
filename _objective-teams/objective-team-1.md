@@ -4,6 +4,7 @@ description: ''
 associated-people:
 - _people/abler_dave.md
 - _people/avemegah_edem.md
+- _people/basak_sharmistha.md
 - _people/bosch_darrell.md
 - _people/bradley_brosi.md
 - _people/ehrhart_matt.md
@@ -14,6 +15,7 @@ associated-people:
 - _people/harrison_terry.md
 - _people/hu_chenyang.md
 - _people/hua_junyi.md
+- _people/huang_julin.md
 - _people/huang_xuetao.md
 - _people/jaenicke-ted.md
 - _people/kalra_marali.md
@@ -40,6 +42,7 @@ associated-people:
 - _people/sharma_sadikshya.md
 - _people/shortle_jim.md
 - _people/si_qianyao.md
+- _people/singh_parmveer.md
 - _people/stefun_melissa.md
 - _people/thomason_wade.md
 - _people/toor_gurpal.md

@@ -11,6 +11,7 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
+- _people/huang_julin.md
 - _people/reed_josh.md
 date-added: 
 dated-added: 2020-12-13T05:00:00.000+00:00

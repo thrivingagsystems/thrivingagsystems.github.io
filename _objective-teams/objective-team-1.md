@@ -20,6 +20,7 @@ associated-people:
 - _people/jaenicke-ted.md
 - _people/kalra_marali.md
 - _people/kaye_jason.md
+- _people/kennedy_bradley.md
 - _people/klaiber_allen.md
 - _people/kumarchaudhary_anil.md
 - _people/ladlee_jim.md

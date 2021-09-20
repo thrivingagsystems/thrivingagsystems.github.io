@@ -15,6 +15,7 @@ associated-people:
 - _people/abler_dave.md
 - _people/hu_chenyang.md
 - _people/huang_xuetao.md
+- _people/rasool_asif.md
 - _people/sharma_sadikshya.md
 - _people/zhang_wei.md
 - _people/zhang_zeya.md

@@ -11,7 +11,8 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people: []
+associated-people:
+- _people/kennedy_bradley.md
 dated-added: 
 link-title: ''
 associated-project-leaders:

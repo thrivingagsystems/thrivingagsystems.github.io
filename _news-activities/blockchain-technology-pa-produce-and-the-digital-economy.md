@@ -4,12 +4,13 @@ breadcrumbs: true
 enable-featured-card: true
 enable-header: ''
 title: Blockchain Technology, PA Produce, and the Digital Economy
-enable-image: false
-image: ''
+enable-image: true
+image: assets/img/peaches_chambersburg.jpeg
 event-date: 
-description: <p>Wholesale farms in the digital economy</p><p>It's 2021, almost 2022,
-  and the rate of technological innovation in our economy and society continues apace.
-  What emerging tools could give Pennsylvania wholesale growers a competitive advantage
+description: <p>An emerging tool could give PA wholesale growers a competitive advantage
+  and reduce barriers to financial success.</p><p>It's 2021, almost 2022, and the
+  rate of technological innovation in our economy and society continues apace. What
+  emerging tools could give Pennsylvania wholesale growers a competitive advantage
   and reduce barriers to financial success? Technology has transformed many aspects
   of agriculture and the economy, yet many of the business and record-keeping systems
   used by growers lag behind the digital revolution. A relatively new technology called

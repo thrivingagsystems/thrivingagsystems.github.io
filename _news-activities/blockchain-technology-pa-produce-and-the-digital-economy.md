@@ -66,12 +66,15 @@ description: '<p>An emerging tool could give PA wholesale growers a competitive 
   to keep blockchain technology on their radar. Long-term success requires learning
   new tools and techniques as they benefit your business and justify the costs of
   adoption. Blockchain will likely shape the digital economy of the future and impact
-  PA producers'' financial success.</p><p><em>Authors: Jay Eury and Becky Clawson,
-  Extension Educators, Penn State</em></p>'
+  PA producers'' financial success.</p><h3>Wholesale Farms and Blockchain Technology
+  Survey</h3><p><a href="https://extension.psu.edu/extension-surveys-produce-farms-for-new-technology"
+  title="">Read more here</a> on how the research team is studying ways that blockchain
+  technology may improve wholesale farm businesses and give Pennsylvania growers a
+  competitive advantage.</p><p><em>Authors: Jay Eury and Becky Clawson, Extension
+  Educators, Penn State</em></p>'
 enable-button-link: false
 button-text: ''
 button-url: ''
 date_added: 
-published: false
 
 ---

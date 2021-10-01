@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Thriving Ag Project Researchers Study How Cover Crop Management Might Affect
   Slug Activity

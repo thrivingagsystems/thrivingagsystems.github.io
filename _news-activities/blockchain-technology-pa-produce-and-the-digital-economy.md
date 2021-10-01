@@ -73,7 +73,7 @@ description: '<p>An emerging tool could give PA wholesale growers a competitive 
   competitive advantage.</p><p><em>Authors: Jay Eury and Becky Clawson, Extension
   Educators, Penn State</em></p>'
 enable-button-link: false
-button-text: ''
+button-text: Read more
 button-url: ''
 date_added: 2021-10-01 04:00:00 +0000
 

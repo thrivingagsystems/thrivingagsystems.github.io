@@ -5,7 +5,7 @@ enable-featured-card: true
 enable-header: ''
 title: Maryland Field Sites Tour Connects Team Members From Related Projects
 enable-image: true
-image: assets/img/field_tour.jpeg
+image: assets/img/field_tour.jpg
 event-date: 
 description: <p><a href="https://www.youtube.com/watch?v=bUc1rHiTtmM" title="">Here
   is a video</a> by the Harry R. Hughes Center for Agro-Ecology that features Thriving

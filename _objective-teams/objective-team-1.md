@@ -3,6 +3,7 @@ title: ''
 description: ''
 associated-people:
 - _people/abler_dave.md
+- _people/arinaitwe_unius.md
 - _people/avemegah_edem.md
 - _people/basak_sharmistha.md
 - _people/bosch_darrell.md
@@ -11,6 +12,7 @@ associated-people:
 - _people/eury_jay.md
 - _people/everts_kate.md
 - _people/frederick_maggie.md
+- _people/ghimire_soni.md
 - _people/grady_caitlin.md
 - _people/harrison_terry.md
 - _people/hu_chenyang.md

@@ -14,7 +14,9 @@ linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people: []
+associated-people:
+- _people/arinaitwe_unius.md
+- _people/ghimire_soni.md
 dated-added: 
 link-title: ''
 associated-project-leaders:

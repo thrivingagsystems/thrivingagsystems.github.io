@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Understanding the Effects of Cover Crops and Nutrient Management on Microbial
   Carbon Use Efficiency and Nitrogen Mineralization

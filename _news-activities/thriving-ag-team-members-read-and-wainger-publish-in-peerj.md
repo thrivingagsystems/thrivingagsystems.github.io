@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Thriving Ag Team Members Read and Wainger Publish in PeerJ
 enable-image: false

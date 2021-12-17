@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Blockchain Technology, PA Produce, and the Digital Economy
 enable-image: true
@@ -75,6 +75,6 @@ description: '<p>An emerging tool could give PA wholesale growers a competitive 
 enable-button-link: false
 button-text: Read more
 button-url: ''
-date_added: 2021-10-01 04:00:00 +0000
+date_added: 2021-10-01T04:00:00.000+00:00
 
 ---

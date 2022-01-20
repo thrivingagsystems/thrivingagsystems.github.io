@@ -1,11 +1,12 @@
 ---
 name: Bradley Kennedy
-image: ''
-professional-title: PhD Student, University of Maryland
+image: assets/img/kennedy.jpg
+professional-title: PhD Student, Department of Environmental Science & Technology,
+  University of Maryland
 email: bckenned@umd.edu
 link-to-bio-page: ''
 link-to-personal-website: ''
-linkedin: ''
+linkedin: https://www.linkedin.com/in/bradleyckennedy/
 twitter: ''
 facebook: ''
 instagram: ''

@@ -40,4 +40,6 @@ In addition to the work using the REAP model, the research team is examining tre
 
 #### Related Publications:
 
+Impact of Energy and Ethanol Price Shocks on U.S. Agriculture: A Partial Equilibrium Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2022. Selected paper. Southern Agricultural and Applied Economics Association Annual Meeting, New Orleans, Louisiana, February 13-15.
+
 Impact of Energy Shocks on U.S. Agriculture: the REAP Model Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2021. Selected paper. Agricultural and Applied Economics Association Annual Meeting, Austin Texas, August 1-3.

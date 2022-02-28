@@ -41,6 +41,7 @@ In spring 2021 the silty field had a large slug infestation that caused consider
 
 #### Related Publications:
 
+* Sedghi, N., and Weil, R. (2022). Fall cover crop nitrogen uptake drives reduced winter-spring leaching. _Journal of Environmental Quality 51_:in press.
 * Hirsh, S.M., Duiker, S.W., Graybill, J., Nichols, K., & Weil, R. (2021). [Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA Farms](https://doi.org/10.1016/j.agee.2020.107274).
 * Hirsh, S., & Weil, R. (2019). [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]( "https://acsess.onlinelibrary.wiley.com/doi/10.2134/ael2018.10.0055").
 * Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). _Agronomy News, University of Maryland Extension, 10(1), 3-4._

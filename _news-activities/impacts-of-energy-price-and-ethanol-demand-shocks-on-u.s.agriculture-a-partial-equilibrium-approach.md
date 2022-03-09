@@ -10,7 +10,7 @@ image: ''
 event-date: 
 description: '<p>A paper by Thriving Ag Project Task 13 team members, Chenyang Hu,
   Darrell Bosch, and Wei Zhang at Virginia Tech was accepted for presentation at the
-  Southern Agricultural Economics Association Annual Meeting in February 2022. Cheyang
+  Southern Agricultural Economics Association Annual Meeting in February 2022. Chenyang
   Hu''s presentation at the SAEA Annual Meeting was titled, "Impacts of Energy Price
   and Ethanol Demand Shocks on U.S. Agriculture: A Partial Equilibrium Approach".
   A description of the presentation is provided below.</p><p>Agriculture is an energy-intensive

@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Maryland Field Sites Tour Connects Team Members From Related Projects
 enable-image: true
@@ -25,6 +25,6 @@ description: <p><a href="https://www.youtube.com/watch?v=bUc1rHiTtmM" title="">H
 enable-button-link: false
 button-text: ''
 button-url: ''
-date_added: 2021-11-17 05:00:00 +0000
+date_added: 2021-11-17T05:00:00.000+00:00
 
 ---

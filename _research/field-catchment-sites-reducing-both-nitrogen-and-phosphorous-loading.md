@@ -1,7 +1,7 @@
 ---
 layout: research-project
 breadcrumbs: true
-title: 'Field Catchment Sites: Reducing Both Nitrogen Loading'
+title: 'Field Catchment Sites: Reducing Nitrogen Loading'
 enable-header: false
 enable-banner: false
 primary-image: assets/img/jesse-gardner-jyu14tnbfoa-unsplash.jpg

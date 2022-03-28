@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: Chesapeake Bay Watershed Residents' Views on Agriculture and Water Quality
 enable-image: true
@@ -25,6 +25,6 @@ description: <p>As part of the external evaluation of the Thriving Ag Project, r
 enable-button-link: false
 button-text: ''
 button-url: ''
-date_added: 2021-12-10 05:00:00 +0000
+date_added: 2021-12-10T05:00:00.000+00:00
 
 ---

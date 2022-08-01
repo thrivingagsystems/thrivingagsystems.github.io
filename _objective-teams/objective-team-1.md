@@ -14,6 +14,7 @@ associated-people:
 - _people/frederick_maggie.md
 - _people/ghimire_soni.md
 - _people/grady_caitlin.md
+- _people/gomez_mike.md
 - _people/harrison_terry.md
 - _people/hu_chenyang.md
 - _people/hua_junyi.md

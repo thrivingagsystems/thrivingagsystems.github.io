@@ -20,7 +20,7 @@ partner:
   image: assets/img/usu.jpg
   enable-image-link: false
   url: ''
-description: "<pre><code></code></pre>"
+description: "<p></p>"
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color-1.jpg

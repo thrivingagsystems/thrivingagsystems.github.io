@@ -20,7 +20,7 @@ partner:
   image: assets/img/usu.jpg
   enable-image-link: false
   url: ''
-description: <pre><code>&lt;script id="mcjs"&gt;!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/49e965ee345903a3c0144469c/b6a13bcff61d7b26983364a90.js");&lt;/script&gt;</code></pre>
+description: "<pre><code></code></pre>"
 project_lead_logo: assets/img/university-mark1-itok-yzyd-ebj.jpg
 project-lead-description: ''
 project-sponsor-logo: assets/img/usda-logo-color-1.jpg

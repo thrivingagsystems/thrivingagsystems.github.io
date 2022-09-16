@@ -1,7 +1,7 @@
 ---
 layout: news-activity
 breadcrumbs: true
-enable-featured-card: true
+enable-featured-card: false
 enable-header: ''
 title: 'Impacts of Energy Price and Ethanol Demand Shocks on U.S. Agriculture: A Partial
   Equilibrium Approach'

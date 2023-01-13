@@ -27,6 +27,7 @@ associated-people:
 - _people/klaiber_allen.md
 - _people/kumarchaudhary_anil.md
 - _people/ladlee_jim.md
+- _people/lefever_andrew.md
 - _people/lisenbee_whitney.md
 - _people/liu_yizao.md
 - _people/luthard_madeline.md

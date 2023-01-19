@@ -41,6 +41,5 @@ enable-button-link: false
 button-text: ''
 button-url: ''
 date_added: 
-published: false
 
 ---

@@ -1,4 +1,5 @@
 ---
+_schema: stakeholder-group
 title: Stakeholder Advisory Board Members
 description: ''
 associated-people:

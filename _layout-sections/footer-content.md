@@ -1,4 +1,31 @@
 ---
+_inputs:
+  $.project-lead-logo:
+    type: file
+    comment: >-
+      Use this image compression tool to make image between 300KB and 800KB. <a
+      href="https://www.adobe.com/photoshop/online/compress-image.html"
+      title="https://www.adobe.com/photoshop/online/compress-image.html"
+      target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+  $.partner:
+    type: array
+    label: Partners
+    comment: Add an image and link to partnering institutions.
+    options:
+      structures: _structures.partners-and-footer-partner
+  $.project-sponsor-logo:
+    type: file
+    comment: >-
+      Use this image compression tool to make image between 300KB and 800KB. <a
+      href="https://www.adobe.com/photoshop/online/compress-image.html"
+      title="https://www.adobe.com/photoshop/online/compress-image.html"
+      target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+  $.description:
+    type: html
+    label: Footer Text
+    comment: Add text here to display in the footer above the copyright notice.
+  $.tracking-code:
+    comment: Paste Tracking Code Here
 partner:
 - name: Ohio State
   image: assets/img/ohio_state_buckeyes_logo.jpg

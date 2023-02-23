@@ -1,0 +1,109 @@
+title: Thriving Agricultural Systems in Urbanized Landscapes
+# Versioning
+current_version: 1.5.0
+foundation_version: 6.0.0
+future: true
+
+social:
+  email: agsciences@psu.edu
+  facebook: agsciences
+  twitter: agsciences
+
+# Dependencies
+markdown: kramdown
+#Syntax Highlighter
+#highlighter:        pygments
+
+plugins:
+  # Other plugins go here
+ - jekyll-paginate
+
+paginate: 2
+paginate_path: /page:num/
+
+# Permalinks
+permalink: pretty
+
+# Server
+# source:             ./source Git Pages overrides this variable
+# destination:        ./static
+
+port: 9002
+url: https://vermilion-hamster.cloudvent.net/ # the base hostname & protocol for your site
+baseurl: ""
+repository: thrivingagsystems/thrivingagsystems
+# exclude this stuff when building the static site
+exclude: [".gitignore", "README.md", "Gemfile", "Gemfile.lock", "vendor/bundle"]
+
+## CUSTOM VARS
+
+#ga_id:             ##-########-###
+site_name: Thriving Agricultural Systems in Urbanized Landscapes
+site_description:
+site_copyright: Copyright (c) 2020
+site_url: http://www.thrivingagsystems.org
+site_email:
+site_phone:
+
+# Assets
+# We specify the directory for s3-website so we can use @imports.
+sass:
+  sass_dir: ./assets/stylesheets
+  style: :compressed
+
+# Collections
+collections:
+  programs:
+    output: true
+  events:
+    output: true
+  team:
+    output: true
+  front-page-callouts:
+    output: false
+  page-sections:
+    output: false
+  layout-sections:
+    output: false
+  #ThrivingAG
+  news-activities:
+    output: true
+  people:
+    output: false
+  research:
+    output: true
+    permalink: /research/:title/
+  outreach-engagement:
+    output: true
+    permalink: /outreach-engagement/:title/
+  courses:
+    output: false
+  objective-teams:
+    output: false
+  stakeholder-groups:
+    output: false
+  #  _   _     __      _______ _____       _______ _____ ____  _   _
+  # | \ | |   /\ \    / /_   _/ ____|   /w\|__   __|_   _/ __ \| \ | |
+  # |  \| |  /  \ \  / /  | || |  __   /  \  | |    | || |  | |  \| |
+  # | . ` | / /\ \ \/ /   | || | |_ | / /\ \ | |    | || |  | | . ` |
+  # | |\  |/ ____ \  /   _| || |__| |/ ____ \| |   _| || |__| | |\  |
+  # |_| \_/_/    \_\/   |_____\_____/_/    \_\_|  |_____\____/|_| \_|
+
+#Navigation
+menuitems:
+  - url: /
+    title: Home
+  - url: /programs/
+    title: Programs
+  - url: /events/
+    title: Events
+  - url: /industry-career/
+    title: Industry & Career
+  - url: /education/
+    title: Education
+  - url: /community/
+    title: Community
+  # - url: /team/
+  #   title: Team
+  - url: /about/
+    title: About

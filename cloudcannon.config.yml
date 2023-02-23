@@ -1,0 +1,342 @@
+collections_config:
+  page-sections:
+    name: Page Sections
+    path: _page-sections
+    schemas:
+      default:
+        path: .cloudcannon/schemas/page-section.md
+        name: Page section
+        _enabled_editors:
+          - content
+        _inputs:
+          $.title:
+            comment: This is displayed only in the CMS, not on the page.
+        text_key: title
+  people:
+    name: People
+    path: _people
+    schemas:
+      default:
+        path: .cloudcannon/schemas/person.md
+        name: Person
+        _enabled_editors:
+          - data
+        _inputs:
+          $.image:
+            comment: >-
+              Upload a square image for this to look correct. Use this image
+              compression tool to make image between 300KB and 800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+          $.twitter:
+            type: text
+          $.facebook:
+            type: text
+          $.instagram:
+            type: text
+        text_key: name
+  news-and-activities:
+    name: News and Activities
+    path: _news-activities
+    schemas:
+      default:
+        path: .cloudcannon/schemas/news-activity.md
+        name: News / Activity
+        _enabled_editors:
+          - data
+        _inputs:
+          $.layout:
+            hidden: true
+          $.enable-header:
+            hidden: true
+          $.breadcrumbs:
+            hidden: true
+            label: Enable Breadcrumbs
+          $.enable-featured-card:
+            label: Enable on Front Page
+            comment: Disable if you don't want this to show on the home page.
+          $.image:
+            comment: >-
+              Use this image compression tool to make image between 300KB and
+              800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+          $.event-date:
+            type: datetime
+          $.description:
+            type: html
+          $.date_added:
+            type: datetime
+            comment: >-
+              This will typically be the date that this item is added to the
+              site. This helps determine the order of appearance in the news and
+              activities list page. Recent dates will render at the top of the
+              list.
+  research-projects:
+    name: Research Projects
+    path: _research
+    schemas:
+      default:
+        path: .cloudcannon/schemas/research.md
+        name: Research
+        _enabled_editors:
+          - content
+        _inputs:
+          $.layout:
+            hidden: true
+          $.enable-header:
+            hidden: true
+          $.breadcrumbs:
+            hidden: true
+            label: Enable Breadcrumbs
+          $.enable-banner:
+            hidden: true
+          $.primary-image:
+            comment: >-
+              Use this image compression tool to make image between 300KB and
+              800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+          $.image-gallery:
+            type: array
+            options:
+              structures: _structures.research-image-gallery
+          $.link-title:
+            label: Website Link Title
+            comment: The title text will be display as linked text.
+          $.twitter:
+            type: text
+          $.facebook:
+            type: text
+          $.instagram:
+            type: text
+          $.associated-project-leaders:
+            type: multiselect
+            label: Project Leaders
+            options:
+              values: collections.people
+              value_key: content_path
+          $.associated-people:
+            type: multiselect
+            label: Project Team Members
+            options:
+              values: collections.people
+              value_key: content_path
+          $.dated-added:
+            type: datetime
+            comment: ''
+  outreach-projects:
+    name: Outreach Projects
+    path: _outreach-engagement
+    schemas:
+      default:
+        path: .cloudcannon/schemas/outreach-project.md
+        name: Outreach Project
+        _enabled_editors:
+          - content
+        _inputs:
+          $.layout:
+            hidden: true
+          $.enable-header:
+            hidden: true
+          $.breadcrumbs:
+            hidden: true
+            label: Enable Breadcrumbs
+          $.enable-banner:
+            hidden: true
+          $.primary-image:
+            comment: >-
+              Use this image compression tool to make image between 300KB and
+              800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+          $.image-gallery:
+            type: array
+            options:
+              structures: _structures.research-image-gallery
+          $.link-title:
+            label: Website Link Title
+          $.twitter:
+            type: text
+          $.facebook:
+            type: text
+          $.instagram:
+            type: text
+          $.associated-project-leaders:
+            type: multiselect
+            label: Project Leaders
+            options:
+              values: collections.people
+              value_key: content_path
+          $.associated-people:
+            type: multiselect
+            label: Project Team Members
+            options:
+              values: collections.people
+              value_key: content_path
+          $.date-added:
+            type: datetime
+            comment: ''
+  objective-teams:
+    name: Objective Teams
+    path: _objective-teams
+    schemas:
+      default:
+        path: .cloudcannon/schemas/objective-team.md
+        name: Objective Team
+        _enabled_editors:
+          - data
+        _inputs:
+          $.associated-people:
+            type: multiselect
+            options:
+              values: collections.people
+              value_key: content_path
+          $.page-order:
+            type: number
+        text_key: title
+  stakeholder-groups:
+    name: Stakeholder Groups
+    path: _stakeholder-groups
+    schemas:
+      stakeholder-group:
+        path: .cloudcannon/schemas/stakeholder-group.md
+        name: Stakeholder Group
+        _enabled_editors:
+          - data
+        _inputs:
+          $.associated-people:
+            type: multiselect
+            options:
+              values: collections.people
+              value_key: content_path
+          $.page-order:
+            type: number
+        text_key: title
+  courses:
+    name: Courses
+    path: _courses
+    schemas:
+      default:
+        path: .cloudcannon/schemas/course.md
+        name: Course
+        _enabled_editors:
+          - data
+        _inputs:
+          $.course-number:
+            type: text
+          $.image:
+            comment: >-
+              Use this image compression tool to make image between 300KB and
+              800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+          $.instructors:
+            type: array
+        text_key: title
+  home-page-announcements:
+    name: Home Page Announcements
+    path: _front-page-callouts
+    schemas:
+      default:
+        path: .cloudcannon/schemas/front-page-callout.md
+        name: Front Page Callout
+        _enabled_editors:
+          - data
+        _inputs:
+          $.enabled:
+            label: Enable Callout
+collection_groups:
+  - heading: Content
+    collections:
+      - page-sections
+      - people
+      - news-and-activities
+      - research-projects
+      - outreach-projects
+      - objective-teams
+      - stakeholder-groups
+      - courses
+      - home-page-announcements
+paths:
+  static: ''
+  uploads: assets/img
+_structures:
+  research-image-gallery:
+    values:
+      - value:
+          image: null
+          alt-text: ''
+          caption: ''
+        _inputs:
+          image:
+            comment: >-
+              Use this image compression tool to make image between 300KB and
+              800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+  menu-subfolderitems:
+    values:
+      - value:
+          name: ''
+          url: ''
+        _inputs:
+          name:
+            label: Link Title
+            comment: Entire the name of submenu the link
+          url:
+            comment: >-
+              Absolute url example: "http:www.google.com". Relative url example:
+              "/programs/xsv/"
+  menu-Navbar:
+    values:
+      - value:
+          name: ''
+          url_active: true
+          url: ''
+          enable_sublinks: true
+          subfolderitems: []
+        _inputs:
+          url_active:
+            label: Enable link url
+            comment: When disabled, the link becomes inactive.
+          enable_sublinks:
+            comment: Enable to show menu sublinks
+          subfolderitems:
+            type: array
+            label: Sub link
+            comment: This is a sublink for the main menu
+            options:
+              structures: _structures.menu-subfolderitems
+  graphic-assets-graphic_assets:
+    values:
+      - value:
+          title: ''
+          graphic_asset: null
+        _inputs:
+          graphic_asset:
+            type: file
+  partners-and-footer-partner:
+    values:
+      - value:
+          name: ''
+          image: null
+          enable-image-link: false
+          url: ''
+        _inputs:
+          image:
+            comment: >-
+              Use this image compression tool to make image between 300KB and
+              800KB. <a
+              href="https://www.adobe.com/photoshop/online/compress-image.html"
+              title="https://www.adobe.com/photoshop/online/compress-image.html"
+              target="_blank">https://www.adobe.com/photoshop/online/compress-image.html</a>
+_inputs:
+  template:
+    hidden: true

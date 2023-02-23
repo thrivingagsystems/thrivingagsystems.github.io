@@ -1,4 +1,24 @@
 ---
+_inputs:
+  $.layout:
+    hidden: true
+  $.title:
+    hidden: true
+  $.enable-banner:
+    hidden: true
+  $.enable-header:
+    hidden: true
+  $.permalink:
+    hidden: true
+  $.page-sections:
+    hidden: true
+  $.image:
+    hidden: true
+    type: text
+  $.graphic_assets:
+    type: array
+    options:
+      structures: _structures.graphic-assets-graphic_assets
 layout: single-column-wide
 title: Style Guide
 enable-banner: false

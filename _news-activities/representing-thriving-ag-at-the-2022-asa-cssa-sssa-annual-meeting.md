@@ -6,7 +6,7 @@ breadcrumbs: true
 title: Representing Thriving Ag at the 2022 ASA-CSSA-SSSA Annual Meeting
 enable-featured-card: true
 enable-image: true
-image: /assets/img/luthard-1.jpg
+image: /assets/img/m-luthard.png
 event-date:
 description: >-
   <p><em>Author: &nbsp;Madeline Luthard</em></p><p>In November of 2022, I had

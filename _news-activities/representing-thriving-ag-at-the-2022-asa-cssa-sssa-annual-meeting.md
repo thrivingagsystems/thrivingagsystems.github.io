@@ -5,7 +5,7 @@ enable-header: ''
 breadcrumbs: true
 title: Representing Thriving Ag at the 2022 ASA-CSSA-SSSA Annual Meeting
 enable-featured-card: true
-enable-image: false
+enable-image: true
 image: /assets/img/luthard-1.jpg
 event-date:
 description: >-

@@ -11,7 +11,7 @@ event-date:
 description: >-
   <p>The Thriving Ag Project's June 2023 Quarterly Report can now be viewed by
   clicking the button below.&nbsp;</p>
-enable-button-link: false
+enable-button-link: true
 button-text: Click to view the full report
 button-url: >-
   https://drive.google.com/file/d/1lZEBD1LtaaKVt2S4axCvKnBflMLIy3rX/view?usp=sharing

@@ -51,6 +51,7 @@ associated-people:
 - _people/stefun_melissa.md
 - _people/thomason_wade.md
 - _people/toor_gurpal.md
+- _people/vecchi_martina.md
 - _people/wachter_charlotte.md
 - _people/wainger_lisa.md
 - _people/weil_ray.md

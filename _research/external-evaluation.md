@@ -24,16 +24,10 @@ The formative evaluation process is providing ongoing feedback and yearly report
 
 The evaluation of selected project stakeholders will also help assess whether the project will meet its long-term objectives. Ulrich-Schad will survey agricultural producers and other stakeholder groups in the case study Chesapeake Bay watershed at the beginning and end of the project to assess attitudes and behaviors longitudinally, including at the end to assess whether the project was successful in meeting its goals and how the project results can be used in other urbanized and urbanizing landscapes.
 
-## Related Publications:
-
-
+### Related Publications:
 
 [Chesapeake Bay Watershed Residents’ and Farmers’ Concerns and Perceptions of Water Quality](https://digitalcommons.usu.edu/canri_publications/1), Edem Avemegah and Jessica D. Ulrich-Schad
 
-
-
 [Chesapeake Bay Watershed Residents’ and Farmers’ Views on Urban and Suburban Growth](https://digitalcommons.usu.edu/canri_publications/3), Edem Avemegah and Jessica D. Ulrich-Schad
-
-
 
 [Chesapeake Bay Watershed Residents’ and Farmers’ Views on Water Quality](https://digitalcommons.usu.edu/canri_publications/2), Edem Avemegah and Jessica D. Ulrich-Schad

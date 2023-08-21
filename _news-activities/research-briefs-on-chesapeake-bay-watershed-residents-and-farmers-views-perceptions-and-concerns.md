@@ -6,7 +6,7 @@ breadcrumbs: true
 title: >-
   Research Briefs on Chesapeake Bay Watershed Residents' and Farmers' Views,
   Perceptions, and Concerns
-enable-featured-card: false
+enable-featured-card: true
 enable-image: false
 image:
 event-date:

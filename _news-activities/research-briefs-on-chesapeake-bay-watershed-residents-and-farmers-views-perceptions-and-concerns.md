@@ -10,7 +10,21 @@ enable-featured-card: true
 enable-image: false
 image:
 event-date:
-description: ''
+description: >-
+  Thriving Ag project team members Edem Avemegah and Jessica Schad, who are on
+  the project's External Evaluation Team, created the following research briefs:
+
+
+  Chesapeake Bay Watershed Residents’ and Farmers’ Concerns and Perceptions of
+  Water Quality, Edem Avemegah and Jessica D. Ulrich-Schad
+
+
+  Chesapeake Bay Watershed Residents’ and Farmers’ Views on Urban and Suburban
+  Growth, Edem Avemegah and Jessica D. Ulrich-Schad
+
+
+  Chesapeake Bay Watershed Residents’ and Farmers’ Views on Water Quality, Edem
+  Avemegah and Jessica D. Ulrich-Schad
 enable-button-link: false
 button-text: ''
 button-url: ''

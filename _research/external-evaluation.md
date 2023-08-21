@@ -12,15 +12,28 @@ twitter: ''
 facebook: ''
 instagram: ''
 associated-people:
-- _people/avemegah_edem.md
-dated-added: 
+  - _people/avemegah_edem.md
+dated-added:
 link-title: ''
 associated-project-leaders:
-- _people/schad_jessica.md
-
+  - _people/schad_jessica.md
 ---
 Dr. Jessica Ulrich-Schad is serving as the independent, external evaluator of this project. While training a PhD student, Edem Avemegah, in evaluation methods, she will conduct formative and summative assessments of the research teams’ organizational efficacy, interdisciplinary team collaboration, and the project’s impacts on stakeholders. Dr. Ulrich-Schad is using survey, interview, and focus group methodology as appropriate for evaluation of the project team and the team’s interactions with various stakeholders, including the Stakeholder Advisory Board, residents of the Chesapeake Bay watershed, and students in the online courses to be developed by the project, for example.
 
 The formative evaluation process is providing ongoing feedback and yearly reports to the project team that will allow them to adjust their efforts to better align with project objectives. For example, is the team communicating effectively with each other and how could internal communication be improved? Is the team collaborating effectively across disciplines? Are financial and human resources being utilized effectively? The yearly reports will also assess whether project milestones as indicated in the Project Timetable are being met, to verify that the project is on track for successful conclusion. The evaluation process will include yearly online surveys of team members as well as periodic interviews and/or focus groups with team members. Ulrich-Schad attends the yearly “all hands” meetings to present findings from the formative evaluations and provide suggestions for improving the team’s effectiveness in meeting its goals. The summative evaluation will contribute to a growing body of literature on transdisciplinary team architecture and management.
 
 The evaluation of selected project stakeholders will also help assess whether the project will meet its long-term objectives. Ulrich-Schad will survey agricultural producers and other stakeholder groups in the case study Chesapeake Bay watershed at the beginning and end of the project to assess attitudes and behaviors longitudinally, including at the end to assess whether the project was successful in meeting its goals and how the project results can be used in other urbanized and urbanizing landscapes.
+
+## Related Publications:
+
+
+
+[Chesapeake Bay Watershed Residents’ and Farmers’ Concerns and Perceptions of Water Quality](https://digitalcommons.usu.edu/canri_publications/1), Edem Avemegah and Jessica D. Ulrich-Schad
+
+
+
+[Chesapeake Bay Watershed Residents’ and Farmers’ Views on Urban and Suburban Growth](https://digitalcommons.usu.edu/canri_publications/3), Edem Avemegah and Jessica D. Ulrich-Schad
+
+
+
+[Chesapeake Bay Watershed Residents’ and Farmers’ Views on Water Quality](https://digitalcommons.usu.edu/canri_publications/2), Edem Avemegah and Jessica D. Ulrich-Schad

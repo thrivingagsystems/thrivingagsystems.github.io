@@ -8,7 +8,7 @@ title: >-
   landscapes
 enable-featured-card: true
 enable-image: true
-image: /assets/img/picture1.jpg
+image: assets/img/picture1.jpg
 event-date:
 description: >-
   <p><em>Author: Chiu-Lin Huang</em></p><p>Task 5 Team completed an experiment

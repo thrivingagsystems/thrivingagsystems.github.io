@@ -4,7 +4,7 @@ layout: news-activity
 enable-header: ''
 breadcrumbs: true
 title: 'Thriving Ag Project: June 2023 Quarterly Update Report'
-enable-featured-card: true
+enable-featured-card: false
 enable-image: false
 image:
 event-date:

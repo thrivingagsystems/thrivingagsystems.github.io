@@ -6,15 +6,15 @@ breadcrumbs: true
 title: >-
   Research brief: "Chesapeake Bay Watershed Residents’ and Farmers’ Views on
   Water Quality"
-enable-featured-card: true
+enable-featured-card: false
 enable-image: false
 image:
 event-date:
 description: >-
-  Thriving Ag project team members Edem Avemegah and Jessica Schad, who are on
-  the project's External Evaluation Team, created a research brief, "Chesapeake
-  Bay Watershed Residents’ and Farmers’ Views on Water Quality". You can view
-  the research brief by clicking on the button below.
+  <p>Thriving Ag project team members Edem Avemegah and Jessica Schad, who are
+  on the project's External Evaluation Team, created a research brief,
+  "Chesapeake Bay Watershed Residents’ and Farmers’ Views on Water Quality". You
+  can view the research brief by clicking on the button below.</p>
 enable-button-link: true
 button-text: View the research brief
 button-url: >-

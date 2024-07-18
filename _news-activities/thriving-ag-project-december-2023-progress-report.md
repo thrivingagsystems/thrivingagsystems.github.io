@@ -4,7 +4,7 @@ layout: news-activity
 enable-header: ''
 breadcrumbs: true
 title: 'Thriving Ag Project: December 2023 Progress Report'
-enable-featured-card: true
+enable-featured-card: false
 enable-image: false
 image:
 event-date:

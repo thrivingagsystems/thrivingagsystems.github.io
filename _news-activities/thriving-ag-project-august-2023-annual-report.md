@@ -4,7 +4,7 @@ layout: news-activity
 enable-header: ''
 breadcrumbs: true
 title: 'Thriving Ag Project: August 2023 Annual Report'
-enable-featured-card: true
+enable-featured-card: false
 enable-image: false
 image:
 event-date:
@@ -16,6 +16,5 @@ description: >-
 enable-button-link: false
 button-text: ''
 button-url: ''
-date_added: 2023-09-05 05:00:00 +0000
-description type: html
+date_added: 2023-09-05 05:00:00
 ---

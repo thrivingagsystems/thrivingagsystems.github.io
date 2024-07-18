@@ -10,8 +10,9 @@ image:
 event-date:
 description: >-
   <p>Thriving Ag Project Team members created factsheets for the upcoming July
-  24, 2024 Workshop in Maryland. You can <a href="">view the factsheets
-  here</a>. </p>
+  24, 2024 Workshop in Maryland. You can <a
+  href="https://drive.google.com/drive/folders/16jtJvRwW6-ibOrllPQDjynle2XVui_UL?usp=sharing"
+  target="_blank" rel="noopener">view the factsheets here</a>. </p>
 enable-button-link: false
 button-text: ''
 button-url: ''

@@ -35,7 +35,7 @@ Through this work, the team aims to generate an evidence base that will be relev
 
 #### Related Publications:
 
-Read, D.J., Blair, E. & Wainger, L. Effective Engagement Techniques Across the Agricultural Conservation Practice Adoption Process. *Environmental Management* (2024). https://doi.org/10.1007/s00267-024-02043-8
+Read, D.J., Blair, E. & Wainger, L. Effective Engagement Techniques Across the Agricultural Conservation Practice Adoption Process. *Environmental Management* (2024). [https://doi.org/10.1007/s00267-024-02043-8]()
 
 Read, D.J., Wainger, L., 2023. Assessing intervention effectiveness at promoting voluntary conservation practice adoption in agrienvironments. Conservation Biology 37, e14009. [https://doi.org/10.1111/cobi.14009](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fcobi.14009&amp;data=05%7C01%7Cmas960%40psu.edu%7C3e88f84b2b634d1a910308db16844d46%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C638128530371815088%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=TXF7CxkSUIWtvVSiQdy1wBN06pmS2b%2FtY7Nm2oiKj10%3D&amp;reserved=0){: target="_blank" rel="noreferrer noopener"}
 

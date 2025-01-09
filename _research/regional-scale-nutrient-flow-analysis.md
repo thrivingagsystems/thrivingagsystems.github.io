@@ -38,3 +38,5 @@ Grady and Mohammadpour are using embedded resource accounting to estimate nutrie
 Paniz Mohammadpour, Caitlin Grady. A Regional Analysis of Nitrogen Flow within the Chesapeake Bay Watershed Food Production Chain Including Trade. Environmental Science & Technology (2023).
 
 Gomez, M., Grady, C., Wainger, L., Cibin, R., Abler, D., Bosch, D., Kaye, J. 2024. “Impacts of future scenarios on the nitrogen loss from agricultural supply chains in the Chesapeake Bay.” Environmental Research Letters, 19, 084039. [https:///doi.org/10.1088/1748-9326/ad5d0b]().
+
+Gomez, M., Kaye, J., Grady, C. 2024. “Dataset and software for studying impacts of future scenarios on the nitrogen loss from agricultural supply chains in the Chesapeake Bay.” Zenodo. [https://doi.org/10.5281/zenodo.10620939]().

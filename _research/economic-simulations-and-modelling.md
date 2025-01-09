@@ -1,30 +1,30 @@
 ---
+_schema: default
 layout: research-project
-breadcrumbs: true
 title: Economic Simulations and Modelling
 enable-header: false
+breadcrumbs: true
 enable-banner: false
 primary-image: assets/img/labor
 image-gallery: []
 website: ''
+link-title: ''
 linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people:
-- _people/abler_dave.md
-- _people/hu_chenyang.md
-- _people/huang_xuetao.md
-- _people/rasool_asif.md
-- _people/sharma_sadikshya.md
-- _people/zhang_wei.md
-- _people/zhang_zeya.md
-dated-added: 
-link-title: ''
 associated-project-leaders:
-- _people/bosch_darrell.md
-- _people/shortle_jim.md
-
+  - _people/bosch_darrell.md
+  - _people/shortle_jim.md
+associated-people:
+  - _people/abler_dave.md
+  - _people/hu_chenyang.md
+  - _people/huang_xuetao.md
+  - _people/rasool_asif.md
+  - _people/sharma_sadikshya.md
+  - _people/zhang_wei.md
+  - _people/zhang_zeya.md
+dated-added:
 ---
 Bosch, Zhang, Abler, Shortle, Hu, Huang, Sharma, Rasool, and Zhang are looking at how the economic and environmental sustainability of agriculture in the Chesapeake Bay watershed is impacted by national-level government policies and market developments. To accomplish this task they are using the Regional Environment and Agriculture Programming (REAP) model. REAP is a large-scale, partial-equilibrium economic-environmental model of the U.S. agricultural sector developed by USDA’s Economic Research Service (ERS). The model is partial equilibrium in the sense that it focuses on the agricultural sector and not other sectors of the economy.
 
@@ -42,6 +42,10 @@ Two other Penn State team members, Dave Abler and Asif Rasool are doing a cluste
 
 #### Related Publications:
 
+Rasool, A.; Abler, D. Heterogeneity in US Farms: A New Clustering by Production Potentials. Agriculture 2023, 13, 258. https://doi.org/10.3390/agriculture13020258
+
 Impact of Energy and Ethanol Price Shocks on U.S. Agriculture: A Partial Equilibrium Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2022. Selected paper. Southern Agricultural and Applied Economics Association Annual Meeting, New Orleans, Louisiana, February 13-15.
 
 Impact of Energy Shocks on U.S. Agriculture: the REAP Model Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2021. Selected paper. Agricultural and Applied Economics Association Annual Meeting, Austin Texas, August 1-3.
+
+&nbsp;

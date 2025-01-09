@@ -42,7 +42,7 @@ Two other Penn State team members, Dave Abler and Asif Rasool are doing a cluste
 
 #### Related Publications:
 
-Rasool, A.; Abler, D. Heterogeneity in US Farms: A New Clustering by Production Potentials. Agriculture 2023, 13, 258. https://doi.org/10.3390/agriculture13020258
+Rasool, A.; Abler, D. Heterogeneity in US Farms: A New Clustering by Production Potentials. Agriculture 2023, 13, 258. [https://doi.org/10.3390/agriculture13020258]()
 
 Impact of Energy and Ethanol Price Shocks on U.S. Agriculture: A Partial Equilibrium Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2022. Selected paper. Southern Agricultural and Applied Economics Association Annual Meeting, New Orleans, Louisiana, February 13-15.
 

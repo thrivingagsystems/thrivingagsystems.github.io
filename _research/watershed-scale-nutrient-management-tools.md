@@ -29,3 +29,5 @@ Lisenbee is investigating watershed effects of cover crop best management practi
 #### Related Publications:
 
 Saha, A., Saha, G. K., Cibin, R., Drohan, P. J., White, C., Veith, T., Kleinman, P., & Spiegel, S. (2022). Evaluation of water quality benefits of manureshed based manure management in the Susquehanna River Basin. Journal of Environmental Quality. [https://doi.org/10.1002/jeq2.20429]()
+
+Saha, A., Cibin, R., Drohan, P. J., White, C., & Veith, T. (2023). Environmental benefits of weather-based manure timing and placement strategies across the Susquehanna River Basin. Journal of Environmental Management. [https://doi.org/10.1016/j.jenvman.2023.117386]()

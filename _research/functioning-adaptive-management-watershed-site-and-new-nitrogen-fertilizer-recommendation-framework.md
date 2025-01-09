@@ -1,32 +1,33 @@
 ---
+_schema: default
 layout: research-project
-breadcrumbs: true
-title: Functioning Adaptive Management Watershed Site and New Nitrogen Fertilizer
+title: >-
+  Functioning Adaptive Management Watershed Site and New Nitrogen Fertilizer
   Recommendation Framework
 enable-header: false
+breadcrumbs: true
 enable-banner: false
 primary-image: assets/img/20201013_112807.jpg
 image-gallery:
-- image: assets/img/20201113_124543.jpg
-  alt-text: Collecting samples on the field site.
-  caption: ''
-- image: assets/img/field_work_sanders.jpg
-  alt-text: The team completing field work on site.
-  caption: ''
+  - image: assets/img/20201113_124543.jpg
+    alt-text: Collecting samples on the field site.
+    caption: ''
+  - image: assets/img/field_work_sanders.jpg
+    alt-text: The team completing field work on site.
+    caption: ''
 website: ''
+link-title: ''
 linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people:
-- _people/ordonez_raziel.md
-- _people/rivera_ocasio_zoelie.md
-- _people/sanders_zack.md
-dated-added: 
-link-title: ''
 associated-project-leaders:
-- _people/white_charlie.md
-
+  - _people/white_charlie.md
+associated-people:
+  - _people/ordonez_raziel.md
+  - _people/rivera_ocasio_zoelie.md
+  - _people/sanders_zack.md
+dated-added:
 ---
 White, Sanders, Ordonez, and Rivera-Ocasio are working to develop a functioning adaptive management watershed site and to validate a new nitrogen fertilizer recommendation framework for corn in on-farm experiments.
 
@@ -37,3 +38,7 @@ Each growing season, the team conducts a series of on-farm experiments on differ
 #### Related Websites:
 
 [Experimental Nitrogen Recommendation Framework Tools](https://extension.psu.edu/nitrogen-recommendations-for-corn)
+
+#### Related Publications:
+
+White, C., Finney, D. M., Kemanian, A. R., & Kaye, J. P. 2020. Modeling the Contributions of Nitrogen Mineralization to Yield of Corn. Agronomy Journal, 1-14.

@@ -45,4 +45,8 @@ White, C., Finney, D. M., Kemanian, A. R., & Kaye, J. P. 2020. Modeling the Cont
 
 White, C., Sigdel, S., Karsten, H. D., Meinen, R., & Spargo, J. T. (2023). Recalibrating the Pennsylvania Pre-Sidedress Soil Nitrate Test Recommendations for Modern Corn Production. Agronomy Journal. [https://doi.org/10.1002/agj2.21426]()
 
+Sanders, Z.P., White, C.M. 2023. “Can nitrogen recommendations for corn production be improved through spatially explicit crediting of cover crops and soil organic matter?” Smart Agricultural Technology, 6, 100336. [https://doi.org/10.1016/j.atech.2023.100336]().
+
 Arrington, K. E., Ordóñez, R. A., Rivera-Ocasio, Z., Luthard, M., Tierney, S., Spargo, J., Finney, D., Kaye, J. P., White, C.M. 2024. “Improving a nitrogen mineralization model for predicting unfertilized corn yield.” Soil Science Society of America Journal, 88(3), 905-920. [https://doi.org/10.1002/saj2.20665]().
+
+&nbsp;

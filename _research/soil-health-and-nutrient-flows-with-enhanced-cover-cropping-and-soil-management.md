@@ -1,31 +1,31 @@
 ---
+_schema: default
 layout: research-project
-breadcrumbs: true
-title: " Soil Health and Nutrient Flows with Enhanced Cover Cropping and Soil Management"
+title: ' Soil Health and Nutrient Flows with Enhanced Cover Cropping and Soil Management'
 enable-header: false
+breadcrumbs: true
 enable-banner: false
 primary-image: assets/img/sas-ccrop-3-mix-under-corn.JPG
 image-gallery:
-- image: assets/img/field_work.jpg
-  alt-text: Ray and Qianyao working on the field site
-  caption: ''
-- image: assets/img/sas39d_3mixcover-post-harvest6.JPG
-  alt-text: Field site
-  caption: ''
+  - image: assets/img/field_work.jpg
+    alt-text: Ray and Qianyao working on the field site
+    caption: ''
+  - image: assets/img/sas39d_3mixcover-post-harvest6.JPG
+    alt-text: Field site
+    caption: ''
 website: ''
+link-title: ''
 linkedin: ''
 twitter: ''
 facebook: ''
 instagram: ''
-associated-people:
-- _people/owens_vivian.md
-- _people/si_qianyao.md
-- _people/stefun_melissa.md
-dated-added: 
-link-title: ''
 associated-project-leaders:
-- _people/weil_ray.md
-
+  - _people/weil_ray.md
+associated-people:
+  - _people/owens_vivian.md
+  - _people/si_qianyao.md
+  - _people/stefun_melissa.md
+dated-added:
 ---
 Weil and his lab are working on the evaluation of soil health and nutrient flow evaluation with best management practices such as enhanced cover cropping and soil management. Their overall goal is to improve the efficiency of use and to reduce losses of the nutrients, nitrogen and phosphorus, which are important for both crop yields and water pollution by eutrophication. They will do this by monitoring soil properties and sampling water that runs off the surface and leaches down to groundwater. They are working at three field sites which are located at the Central Maryland Research and Education Center (CMREC) Beltsville Facility near Glenn Dale, MD. They have started their research and established corn and soybean rotations with different cover crop management treatments. In addition, Weil and his graduate student, Vivian Owens, will conduct case studies on several small, diverse farms located in areas of varying degrees of urbanization to investigate how they interact with the local communities and what the nutrient flow and balances are in the systems.
 
@@ -41,7 +41,8 @@ In spring 2021 the silty field had a large slug infestation that caused consider
 
 #### Related Publications:
 
-* Sedghi, N., and Weil, R. (2022). Fall cover crop nitrogen uptake drives reduced winter-spring leaching. _Journal of Environmental Quality 51_:in press.
+* Sedghi, N., Fox, R. J., Sherman, L., Gaudlip, C., and Weil, R. R. (2023). Aerial interseeding and planting green to enhance nitrogen capture and cover crop biomass carbon. Journal of Soil and Water Conservation:00051. 10.2489/jswc.2023.00051
+* Sedghi, N., and Weil, R. (2022). Fall cover crop nitrogen uptake drives reduced winter-spring leaching. *Journal of Environmental Quality 51*:in press.
 * Hirsh, S.M., Duiker, S.W., Graybill, J., Nichols, K., & Weil, R. (2021). [Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA Farms](https://doi.org/10.1016/j.agee.2020.107274).
-* Hirsh, S., & Weil, R. (2019). [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]( "https://acsess.onlinelibrary.wiley.com/doi/10.2134/ael2018.10.0055").
-* Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). _Agronomy News, University of Maryland Extension, 10(1), 3-4._
+* Hirsh, S., & Weil, R. (2019). [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]().
+* Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). *Agronomy News, University of Maryland Extension, 10(1), 3-4.*

@@ -219,8 +219,10 @@ description: >-
   other academics across disciplines. Ideas on how to disseminate findings
   included through podcasts, influencers, formal media outlets (i.e.,
   pop-science publications), and high school curricula (e.g., food system
-  courses, CASE 4 Learning, Envirothon).</p>
-enable-button-link: false
+  courses, CASE 4 Learning, Envirothon).</p><p><a
+  href="https://drive.google.com/file/d/1Zy10r612m7mgprmMutauUEIWGvaO41xi/view?usp=sharing"><em>You
+  can also download the workshop summary here</em></a><em>.</em></p>
+enable-button-link: true
 button-text: ''
 button-url: ''
 date_added:

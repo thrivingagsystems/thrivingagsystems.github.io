@@ -11,15 +11,14 @@ enable-image: false
 image:
 event-date:
 description: >-
-  <h4><strong>Thriving Ag Workshop: Celebrating Innovation and Insights to Build
-  Thriving Ag Systems</strong></h4>May 28–29, 2025<br />Penn State University<br
-  /><h4><strong>Workshop Description</strong></h4><p>This was a final project
-  workshop to celebrate success and accomplishments, share project findings with
-  stakeholders, and discuss the future of Thriving Ag. We saw what opportunities
-  and key findings the Thriving Ag project has given us for an economically and
-  environmentally thriving agriculture in the Chesapeake Bay
-  Watershed.</p><p><strong>Meeting Agenda Day
-  1</strong></p><ul><li><p><strong>Retrospective Discussion on Project</strong>
+  <strong>May 28–29, 2025</strong><strong><br />Penn State
+  University</strong><br /><h4><strong>Workshop Description</strong></h4><p>This
+  was a final project workshop to celebrate success and accomplishments, share
+  project findings with stakeholders, and discuss the future of Thriving Ag. We
+  saw what opportunities and key findings the Thriving Ag project has given us
+  for an economically and environmentally thriving agriculture in the Chesapeake
+  Bay Watershed.</p><h4><strong>Meeting Agenda Day
+  1</strong></h4><ul><li><p><strong>Retrospective Discussion on Project</strong>
   – led by Dave Abler (9:00 am – 10:30 am)</p><ul><li><p>Challenges encountered
   by the team (30 min)</p></li><li><p>What have we learned? (1
   hr)</p><ul><li><p>Do we want to pursue journal articles to articulate
@@ -30,36 +29,36 @@ description: >-
   pm)</p><ul><li><p>Topic area and framing for Thriving Ag 2.0 (1
   hr)</p></li><li><p>Set of stakeholders for Thriving Ag 2.0 (30
   min)</p></li><li><p>Scenario spinoff projects or grants (30
-  min)</p></li></ul></li></ul><p><strong>Meeting Agenda Day
-  2</strong></p><ol><li><p><strong>Podcast-style Panel
+  min)</p></li></ul></li></ul><h4><strong>Meeting Agenda Day
+  2</strong></h4><ol><li><p><strong>Podcast-style Panel
   Sessions</strong></p><ul><li><p>Episode 1: Conservation
   Innovations</p></li><li><p>Episode 2: Preserving Farmland, Preserving
   Farmers</p></li><li><p>Episode 3: Ag in this Brave New
   World</p></li></ul></li><li><p><strong>Structured Discussion</strong> – Where
-  Do We Go from Here?</p></li></ol><p><strong>Thriving Ag Project Team
-  Meeting<br /></strong>Date: May 28, 2025<br />Attendees: Thriving Ag Project
-  Team (only)</p><p>Facilitators: Dave Abler (Retrospective Discussion) and Matt
-  Royer (Research Opportunities)</p><p><strong>Day 1
-  Summary</strong></p><p>Members of the Thriving Ag Project Team met to discuss
-  project successes, challenges, and opportunities. Key accomplishments included
-  <em>investing in people</em>, by training 23 graduate students, supporting 6
-  post-docs, and sustaining connections with original and new stakeholders;
-  <em>managing on-farm nutrient losses</em>, by developing and sharing nitrogen
-  tool recommendations in Pennsylvania and investigating cover crop practices in
-  Maryland; <em>improving models across scales, </em>by simulating on-farm
-  nutrient losses in the Bay model, state-wide manure management scenarios,
-  system-wide supply chain changes, and nation-wide land use changes;
-  <em>estimating variation in value </em>of best management practices and “local
-  food” markets across rural and urban gradients; and <em>making outreach more
-  effective, </em>by synthesizing best practices for practitioners conducting
-  landowner outreach. One noted action item was to assure that we quantify
-  successes through up-to-date metrics on outreach and
-  publications.</p><p>Project team members noted that successes were not without
-  challenges. Shared challenges included <em>COVID and post-COVID
-  disruptions</em>, which limited in-person interactions; <em>project
-  complexity</em>, which made concisely and accessibly sharing all aspects of
-  such a broad project difficult; <em>stakeholder burdens and changes in
-  interest</em>,<em> </em>including fluctuating engagement over time
+  Do We Go from Here?</p></li></ol><h4><strong>Thriving Ag Project Team
+  Meeting</strong></h4><p><strong><br /></strong>Date: May 28, 2025<br
+  />Attendees: Thriving Ag Project Team (only)</p><p>Facilitators: Dave Abler
+  (Retrospective Discussion) and Matt Royer (Research
+  Opportunities)</p><p><strong>Day 1 Summary</strong></p><p>Members of the
+  Thriving Ag Project Team met to discuss project successes, challenges, and
+  opportunities. Key accomplishments included <em>investing in people</em>, by
+  training 23 graduate students, supporting 6 post-docs, and sustaining
+  connections with original and new stakeholders; <em>managing on-farm nutrient
+  losses</em>, by developing and sharing nitrogen tool recommendations in
+  Pennsylvania and investigating cover crop practices in Maryland; <em>improving
+  models across scales, </em>by simulating on-farm nutrient losses in the Bay
+  model, state-wide manure management scenarios, system-wide supply chain
+  changes, and nation-wide land use changes; <em>estimating variation in value
+  </em>of best management practices and “local food” markets across rural and
+  urban gradients; and <em>making outreach more effective, </em>by synthesizing
+  best practices for practitioners conducting landowner outreach. One noted
+  action item was to assure that we quantify successes through up-to-date
+  metrics on outreach and publications.</p><p>Project team members noted that
+  successes were not without challenges. Shared challenges included <em>COVID
+  and post-COVID disruptions</em>, which limited in-person interactions;
+  <em>project complexity</em>, which made concisely and accessibly sharing all
+  aspects of such a broad project difficult; <em>stakeholder burdens and changes
+  in interest</em>,<em> </em>including fluctuating engagement over time
   particularly for scenarios or outcomes that may not directly invest in
   stakeholder interests; <em>issues of scale</em>, including lacking micro-level
   data to capture farm heterogeneity for macro-level analyses; <em>issues of
@@ -107,8 +106,9 @@ description: >-
   River Basin Commission and Potomac equivalent, Energy Works). As we await the
   RFA for Thriving Ag 2.0, there may be an opportunity to talk with stakeholders
   first to distill ideas on our four themes before
-  writing.</p><p><strong>Thriving Ag Stakeholder Workshop<br /></strong>Date:
-  May 29, 2025<br />Attendees: Thriving Ag Project Team and Project
+  writing.</p><h4><strong>Thriving Ag Stakeholder
+  Workshop</strong></h4><p><strong><br /></strong>Date: May 29, 2025<br
+  />Attendees: Thriving Ag Project Team and Project
   Stakeholders</p><p>Facilitators: Dave Abler (Introduction), Matt Royer &amp;
   Matt Ehrhart (Panel Sessions), Nancy Nunn (Structured Discussion on Future
   Directions)</p><p><strong>Day 2 Summary</strong></p><p>Thriving Ag Project

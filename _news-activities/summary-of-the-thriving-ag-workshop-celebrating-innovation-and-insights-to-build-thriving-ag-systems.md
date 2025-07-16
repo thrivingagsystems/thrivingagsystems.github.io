@@ -11,9 +11,9 @@ enable-image: false
 image:
 event-date:
 description: >-
-  <h3><strong>Thriving Ag Workshop: Celebrating Innovation and Insights to Build
-  Thriving Ag Systems</strong></h3>May 28–29, 2025<br />Penn State University<br
-  /><h3><strong>Workshop Description</strong></h3><p>This was a final project
+  <h4><strong>Thriving Ag Workshop: Celebrating Innovation and Insights to Build
+  Thriving Ag Systems</strong></h4>May 28–29, 2025<br />Penn State University<br
+  /><h4><strong>Workshop Description</strong></h4><p>This was a final project
   workshop to celebrate success and accomplishments, share project findings with
   stakeholders, and discuss the future of Thriving Ag. We saw what opportunities
   and key findings the Thriving Ag project has given us for an economically and

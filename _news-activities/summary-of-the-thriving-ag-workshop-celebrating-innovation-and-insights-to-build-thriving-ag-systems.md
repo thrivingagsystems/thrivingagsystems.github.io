@@ -11,13 +11,13 @@ enable-image: false
 image:
 event-date:
 description: >-
-  <h2><strong>Thriving Ag Workshop: Celebrating Innovation and Insights to Build
-  Thriving Ag Systems</strong></h2><br />May 28–29, 2025<br />Penn State
-  University<h2><strong>Workshop Description</strong></h2><p>This was a final
-  project workshop to celebrate success and accomplishments, share project
-  findings with stakeholders, and discuss the future of Thriving Ag. We saw what
-  opportunities and key findings the Thriving Ag project has given us for an
-  economically and environmentally thriving agriculture in the Chesapeake Bay
+  <h3><strong>Thriving Ag Workshop: Celebrating Innovation and Insights to Build
+  Thriving Ag Systems</strong></h3>May 28–29, 2025<br />Penn State University<br
+  /><h3><strong>Workshop Description</strong></h3><p>This was a final project
+  workshop to celebrate success and accomplishments, share project findings with
+  stakeholders, and discuss the future of Thriving Ag. We saw what opportunities
+  and key findings the Thriving Ag project has given us for an economically and
+  environmentally thriving agriculture in the Chesapeake Bay
   Watershed.</p><p><strong>Meeting Agenda Day
   1</strong></p><ul><li><p><strong>Retrospective Discussion on Project</strong>
   – led by Dave Abler (9:00 am – 10:30 am)</p><ul><li><p>Challenges encountered

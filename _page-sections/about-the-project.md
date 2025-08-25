@@ -17,7 +17,9 @@ The Thriving Agricultural Systems in Urbanized Landscapes project aims to achiev
 
 &nbsp;
 
-\#### Contact Us
+&nbsp;
+
+#### Contact Us
 
 **Project Director:** Dave Abler, dga2@psu.edu
 

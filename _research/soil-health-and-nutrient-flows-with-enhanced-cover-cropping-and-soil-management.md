@@ -41,9 +41,14 @@ In spring 2021 the silty field had a large slug infestation that caused consider
 
 #### Related Publications:
 
-* Weil, R., Wang, F., Hirsh, S., Sedghi, N. 2024. “Cover crop management to reduce nitrogen leaching from cropland: A decade of research in the mid-Atlantic USA,” In R. Hatano and E.M. Baggs, eds. Nitrogen Cycling and Soil Health. Springer Nature, Singapore.
-* Sedghi, N., Fox, R. J., Sherman, L., Gaudlip, C., and Weil, R. R. (2023). Aerial interseeding and planting green to enhance nitrogen capture and cover crop biomass carbon. Journal of Soil and Water Conservation:00051. 10.2489/jswc.2023.00051
-* Sedghi, N., and Weil, R. (2022). Fall cover crop nitrogen uptake drives reduced winter-spring leaching. *Journal of Environmental Quality 51*:in press.
-* Hirsh, S.M., Duiker, S.W., Graybill, J., Nichols, K., & Weil, R. (2021). [Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA Farms](https://doi.org/10.1016/j.agee.2020.107274).
-* Hirsh, S., & Weil, R. (2019). [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]().
-* Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). *Agronomy News, University of Maryland Extension, 10(1), 3-4.*
+Weil, R., Wang, F., Hirsh, S., Sedghi, N. 2024. “Cover crop management to reduce nitrogen leaching from cropland: A decade of research in the mid-Atlantic USA,” In R. Hatano and E.M. Baggs, eds. Nitrogen Cycling and Soil Health. Springer Nature, Singapore.
+
+Sedghi, N., Fox, R. J., Sherman, L., Gaudlip, C., and Weil, R. R. (2023). Aerial interseeding and planting green to enhance nitrogen capture and cover crop biomass carbon. Journal of Soil and Water Conservation:00051. [10\.2489/jswc.2023.00051](10.2489/jswc.2023.00051){: target="_blank" rel="noopener"}.
+
+Sedghi, N. and R. Weil. (2022). Fall cover crop nitrogen uptake drives reductions in winter-spring leaching. Journal of Environmental Quality 51:337-351. [https://doi.org/10.1002/jeq2.20342](https://doi.org/10.1002/jeq2.20342%20){: target="_blank" rel="noopener"}.
+
+Hirsh, S.M., Duiker, S.W., Graybill, J., Nichols, K., & Weil, R. (2021). [Scavenging and Recycling Deep Soil Nitrogen Using Cover Crops on Mid-Atlantic, USA Farms](https://doi.org/10.1016/j.agee.2020.107274).
+
+Hirsh, S., & Weil, R. (2019). [Deep Soil Cores Reveal Large End‐of‐Season Residual Mineral Nitrogen Pool]().
+
+Goralczyk, I., Sedghi, N., & Weil, R. (2019). [When it Comes to Nitrogen Leaching, Not All Cover Crop Practices Are the Same](https://extension.umd.edu/sites/extension.umd.edu/files/_docs/newsletters/agronomy-news/1%202019%20April_1.pdf). *Agronomy News, University of Maryland Extension, 10(1), 3-4.*

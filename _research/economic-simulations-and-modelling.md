@@ -42,12 +42,10 @@ Two other Penn State team members, Dave Abler and Asif Rasool are doing a cluste
 
 #### Related Publications:
 
-Rasool, A.; Abler, D. Heterogeneity in US Farms: A New Clustering by Production Potentials. Agriculture 2023, 13, 258. [https://doi.org/10.3390/agriculture13020258]()
+Rasool, A.; Abler, D. Heterogeneity in US Farms: A New Clustering by Production Potentials. Agriculture 2023, 13, 258. [https://doi.org/10.3390/agriculture13020258]().
 
-Zhang, Z., and D. Abler (2023). “Dairy Pricing Policy, Production, and Water Quality: Application to the Chesapeake Bay Watershed.” Journal of the Agricultural & Applied Economics Association, 2(2):350-365
+Zhang, Z., and D. Abler (2023). “Dairy Pricing Policy, Production, and Water Quality: Application to the Chesapeake Bay Watershed.” Journal of the Agricultural & Applied Economics Association, 2(2):350-365.
 
-Impact of Energy and Ethanol Price Shocks on U.S. Agriculture: A Partial Equilibrium Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2022. Selected paper. Southern Agricultural and Applied Economics Association Annual Meeting, New Orleans, Louisiana, February 13-15.
-
-Impact of Energy Shocks on U.S. Agriculture: the REAP Model Approach. Nate Hu, Darrell Bosch, and Wei Zhang. 2021. Selected paper. Agricultural and Applied Economics Association Annual Meeting, Austin Texas, August 1-3.
+Hu, C., Z. Chen, P. Liu, W. Zhang, X. He, & D. Bosch. Impact of large-scale solar on property values in the United States: Diverse effects and causal mechanisms, Proc. Natl. Acad. Sci. U.S.A. 122 (24) e2418414122, [https://doi.org/10.1073/pnas.2418414122](https://doi.org/10.1073/pnas.2418414122%20){: target="_blank" rel="noopener"}(2025).&nbsp;
 
 &nbsp;

@@ -33,3 +33,5 @@ Saha, A., Saha, G. K., Cibin, R., Drohan, P. J., White, C., Veith, T., Kleinman,
 Saha, A., Cibin, R., Drohan, P. J., White, C., & Veith, T. (2023). Environmental benefits of weather-based manure timing and placement strategies across the Susquehanna River Basin. Journal of Environmental Management. [https://doi.org/10.1016/j.jenvman.2023.117386]()
 
 Lisenbee, W., Saha, A., Mohammadpour, P., Cibin, R., Kaye, J., Grady, C., Chaubey, I. 2024. “Water quality impacts of recycling nutrients using organic fertilizers in circular agricultural scenarios.” Agricultural Systems, 219, 104041. [https://doi.org/10.1016/j.agsy.2024.104041]().
+
+Kalra, M., Chiles, R., Kaye, J., Kirchhoff, C., Wainger, L., & Raj, C. A systematic review of ecosystem services modeling for environmental health assessment, Ecological Indicators, Volume 172, 2025, [https://doi.org/10.1016/j.ecolind.2025.113245](https://doi.org/10.1016/j.ecolind.2025.113245).&nbsp;

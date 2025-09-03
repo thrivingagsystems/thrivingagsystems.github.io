@@ -46,6 +46,6 @@ Rasool, A.; Abler, D. Heterogeneity in US Farms: A New Clustering by Production 
 
 Zhang, Z., and D. Abler (2023). “Dairy Pricing Policy, Production, and Water Quality: Application to the Chesapeake Bay Watershed.” Journal of the Agricultural & Applied Economics Association, 2(2):350-365.
 
-Hu, C., Z. Chen, P. Liu, W. Zhang, X. He, & D. Bosch. Impact of large-scale solar on property values in the United States: Diverse effects and causal mechanisms, Proc. Natl. Acad. Sci. U.S.A. 122 (24) e2418414122, [https://doi.org/10.1073/pnas.2418414122](https://doi.org/10.1073/pnas.2418414122%20){: target="_blank" rel="noopener"}(2025).&nbsp;
+Hu, C., Z. Chen, P. Liu, W. Zhang, X. He, & D. Bosch. Impact of large-scale solar on property values in the United States: Diverse effects and causal mechanisms, Proc. Natl. Acad. Sci. U.S.A. 122 (24) e2418414122, [https://doi.org/10.1073/pnas.2418414122](https://doi.org/10.1073/pnas.2418414122%20){: target="_blank" rel="noopener"} (2025).&nbsp;
 
 &nbsp;

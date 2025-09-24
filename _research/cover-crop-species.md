@@ -33,9 +33,9 @@ Kaye, J., Finney, D., White, C., Bradley, B., Schipanski, M., Alonso-Ayuso, M., 
 
 Baraibar, B., Murrell, E.G., Bradley, B.A., Barbercheck, M.E., Mortensen, D.A., Kaye, J.P., White, C.M. (2020). [Cover Crop Mixture Expression is Influenced by Nitrogen Availability and Growing Degree Days](https://doi.org/10.1371/journal.pone.0235868).
 
-Kleinman, P., Osmond, D., Christianson, L., Flaten, D., Ippolito, J., Jarvie, H., Kaye, J. & King, K., Leytem, A., Mcgrath, J., Nelson, N., Shober, A., Smith, D., Staver, K., Sharpley, A., Peter, C., and Kleinman, J. (2022). Addressing conservation practice limitations and trade-offs for reducing phosphorus loss from agricultural fields. Agricultural & Environmental Letters. 7. 20084. [https://doi.org/10.1002/ael2.20084](%20https://doi.org/10.1002/ael2.20084){: target="_blank" rel="noopener"}.
+Kleinman, P., Osmond, D., Christianson, L., Flaten, D., Ippolito, J., Jarvie, H., Kaye, J. & King, K., Leytem, A., Mcgrath, J., Nelson, N., Shober, A., Smith, D., Staver, K., Sharpley, A., Peter, C., and Kleinman, J. (2022). Addressing conservation practice limitations and trade-offs for reducing phosphorus loss from agricultural fields. Agricultural & Environmental Letters. 7. 20084. [https://doi.org/10.1002/ael2.20084](https://doi.org/10.1002/ael2.20084).
 
-Gomez, M., Grady, C., Wainger, L., Cibin, R., Abler, D., Bosch, D., Kaye, J. 2024. “Impacts of future scenarios on the nitrogen loss from agricultural supply chains in the Chesapeake Bay.” Environmental Research Letters, 19, 084039. [https:///doi.org/10.1088/1748-9326/ad5d0b](https:///doi.org/10.1088/1748-9326/ad5d0b){: target="_blank" rel="noopener"}.
+Gomez, M., Grady, C., Wainger, L., Cibin, R., Abler, D., Bosch, D., Kaye, J. 2024. “Impacts of future scenarios on the nitrogen loss from agricultural supply chains in the Chesapeake Bay.” Environmental Research Letters, 19, 084039. [https://doi.org/10.1088/1748-9326/ad5d0b](https://doi.org/10.1088/1748-9326/ad5d0b).
 
 Gomez, M., Kaye, J., Grady, C. 2024. “Dataset and software for studying impacts of future scenarios on the nitrogen loss from agricultural supply chains in the Chesapeake Bay.” Zenodo. [https://doi.org/10.5281/zenodo.10620939](https://doi.org/10.5281/zenodo.10620939).&nbsp;
 

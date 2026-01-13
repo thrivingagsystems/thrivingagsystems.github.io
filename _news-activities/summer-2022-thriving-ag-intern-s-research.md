@@ -9,14 +9,14 @@ enable-image: false
 image:
 event-date:
 description: >-
-  <p>Under Scenario 1, existing trends in urbanization, agriculture, food
-  consumption, and climate continue as is, with the ramifications of “business
-  as usual” projected over the next 25 years. To help understand those trends, a
-  Thriving Ag undergraduate research intern in each of the major Bay states of
-  Maryland, Virginia, and Pennsylvania worked with the research team to analyze
-  existing datasets in four important categories impacting Chesapeake Bay
-  agriculture: urbanization and population growth; land use; agricultural
-  production; and food systems and consumption.</p><p><a
+  <p>Under the project's Scenario 1, existing trends in urbanization,
+  agriculture, food consumption, and climate continue as is, with the
+  ramifications of “business as usual” projected over the next 25 years. To help
+  understand those trends, a Thriving Ag undergraduate research intern in each
+  of the major Bay states of Maryland, Virginia, and Pennsylvania worked with
+  the research team to analyze existing datasets in four important categories
+  impacting Chesapeake Bay agriculture: urbanization and population growth; land
+  use; agricultural production; and food systems and consumption.</p><p><a
   href="https://drive.google.com/file/d/1k_e_zzWbZNJ9yWPVA61F28HXuaagA_9f/view?usp=sharing"
   target="_blank" rel="noopener">You can view the intern's research
   here.</a></p><p><em>The above presentation was created by: Kara Miller, Shea

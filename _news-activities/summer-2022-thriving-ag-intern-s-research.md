@@ -19,7 +19,8 @@ description: >-
   production; and food systems and consumption.</p><p><a
   href="https://drive.google.com/file/d/1k_e_zzWbZNJ9yWPVA61F28HXuaagA_9f/view?usp=sharing"
   target="_blank" rel="noopener">You can view the intern's research
-  here.</a></p>
+  here.</a></p><p><em>The above presentation was created by: Kara Miller, Shea
+  Ruyak, and Sydney Luce</em></p>
 enable-button-link: false
 button-text: ''
 button-url: ''
